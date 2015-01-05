@@ -1,0 +1,2434 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"main",
+				"main_page_items"
+			],
+			[
+				"q",
+				"querySelector"
+			],
+			[
+				"image",
+				"imageblock"
+			],
+			[
+				"filter",
+				"filter	.filter()"
+			],
+			[
+				"filtr-blok",
+				"filtr-block__line"
+			],
+			[
+				"offs",
+				"offset	.offset()"
+			],
+			[
+				"off",
+				"offset	.offset()"
+			],
+			[
+				"of",
+				"offset	.offset()"
+			],
+			[
+				"price",
+				"pricerange"
+			],
+			[
+				"stop",
+				"stopPropagation"
+			],
+			[
+				"span",
+				"stopPropagation"
+			],
+			[
+				"bre",
+				"break-word"
+			],
+			[
+				"handle",
+				"handlerprice"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"price-",
+				"price-range-input"
+			],
+			[
+				"handPrice",
+				"handPriceMin"
+			],
+			[
+				"ready",
+				"ready	jQuery(document).ready"
+			],
+			[
+				"base-",
+				"base-border-color"
+			],
+			[
+				"re",
+				"ready	jQuery(document).ready"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"remove",
+				"removeAttr	.removeAttr()"
+			],
+			[
+				"pare",
+				"parents	.parents()"
+			],
+			[
+				"prop",
+				"prop	.prop() - single"
+			],
+			[
+				"check",
+				"checkLabel"
+			],
+			[
+				"che",
+				"checkLabel"
+			],
+			[
+				"option",
+				"optionValue"
+			],
+			[
+				"items",
+				"itemsText"
+			],
+			[
+				"ap",
+				"append	.append()"
+			],
+			[
+				"remov",
+				"removeClass	.removeClass()"
+			],
+			[
+				"togl",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"js",
+				"jsSizeTablePopup"
+			],
+			[
+				"jsSi",
+				"jsSizeTablePopup"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"remo",
+				"removeClass	.removeClass()"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"remve",
+				"removeClass	.removeClass()"
+			],
+			[
+				"togg",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"jsFast",
+				"jsFastOrderPopup"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"tab-con",
+				"tab-content__item"
+			],
+			[
+				"firs",
+				"first"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"is",
+				"is	.is()"
+			],
+			[
+				"app",
+				"appendTo	.appendTo()"
+			],
+			[
+				"appen",
+				"append"
+			],
+			[
+				"each",
+				"each	.each()"
+			],
+			[
+				"eca",
+				"each	.each()"
+			],
+			[
+				"tov",
+				"tov-e	text-overflow: ellipsis;"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"ti",
+				"ti--	text-indent: -9999px;"
+			],
+			[
+				"review",
+				"reviewPagination"
+			],
+			[
+				"aja",
+				"ajaxstart	$.ajaxStart()"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"slide",
+				"slideUp	.slideUp()"
+			],
+			[
+				"backgorund",
+				"background-color"
+			],
+			[
+				"item",
+				"itemTPrice"
+			],
+			[
+				"itemT",
+				"itemTitle"
+			],
+			[
+				"fl",
+				"flyToCart"
+			],
+			[
+				"hide",
+				"hide_preloader"
+			],
+			[
+				"carour",
+				"carouFredSel"
+			],
+			[
+				"nth",
+				"nth-child"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"the",
+				"thecarousel"
+			],
+			[
+				"si",
+				"siblings	.siblings()"
+			],
+			[
+				"remvoe",
+				"removeClass	.removeClass"
+			],
+			[
+				"S",
+				"SELECT"
+			],
+			[
+				"Se",
+				"SELECTVALUE"
+			],
+			[
+				"sele",
+				"SELECT"
+			],
+			[
+				"SELE",
+				"SELECT"
+			],
+			[
+				"se",
+				"SELECT"
+			],
+			[
+				"th",
+				"theselect"
+			],
+			[
+				"myi",
+				"myfiltr"
+			],
+			[
+				"cu",
+				"customSelect"
+			],
+			[
+				"to",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"sub",
+				"submit	submit"
+			],
+			[
+				"select",
+				"selected"
+			],
+			[
+				"optio",
+				"optionValue"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"mysl",
+				"myselect__current"
+			],
+			[
+				"fade",
+				"fadeToggle	.fadeToggle()"
+			],
+			[
+				"my",
+				"myfiltrvalue"
+			],
+			[
+				"myfiltr",
+				"myfiltrvalue"
+			],
+			[
+				"html",
+				"html	.html"
+			],
+			[
+				"ea",
+				"each	.each()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html prefix=\"og: http://ogp.me/ns#\" lang=\"en-US\">\n<meta http-equiv=\"content-type\" content=\"text/html;charset=UTF-8\" />\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, user-scalable=no\">\n  <title>{% if page.title %} {{page.title}} {% else %} {{site.title}} {% endif%}</title>\n  <link rel='stylesheet'  href=\"{{site.baseurl}}css/main.css\" type='text/css' media='all' />\n  <link rel='stylesheet'  href=\"{{site.baseurl}}css/style.css\" type='text/css' media='all' />\n  <script type='text/javascript' src='{{site.baseurl}}js/modernizr-2.6.2.min.js'></script>\n  <script type='text/javascript' src='{{site.baseurl}}js/jquery.js'></script>\n  <script type='text/javascript' src='{{site.baseurl}}js/jquery-migrate.min.js'></script>\n</head>\n<body class=\"home blog group-blog\">\n  <div id=\"page\" class=\"hfeed site\">\n    <div class=\"container clearfix\">\n      <div id=\"navigation\" class=\"site-nav\">\n        <div class=\"site-nav-inner\">\n          <div class=\"container\">\n            <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n              <h1 class=\"site-title display-logo\">\n                <a href=\"index.html\" title=\"DW Minion\" rel=\"home\">\n                  <img alt=\"DW Minion\" src=\"{{site.logo}}\" />\n                </a>\n              </h1>\n              <p class=\"site-subtitle\">\n                {{site.title}}\n              </p>\n              <h2 class=\"site-description\">{{site.description}}</h2>\n            </header>\n            <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n              <aside id=\"nav_menu-2\" class=\"widget widget_nav_menu\">\n                <div class=\"menu-main-menu-container\">\n                  <ul id=\"menu-main-menu\" class=\"menu\">\n                    {% for link in site.navigation %}\n                    {% assign current = page.url | replace: '/',  '' %}\n                    <li id=\"menu-item-143\" class=\"menu-item {% if link.title contains page.title  %} current_page_item {% elsif page.url == '/index.html' and link.url == '/' %} current_page_item {% endif %}\">\n                      <a href=\"{{link.url}}\">{{link.title}}</a>\n                    </li>\n                    {% endfor %}\n                  </ul>\n                </aside>\n              </div>        </div>\n            </div>\n          </div>\n          <div id=\"actions\" class=\"site-actions clearfix\">\n            <div class=\"action show-site-nav\">\n              <i class=\"icon-reorder\"></i>\n            </div>\n            <div class=\"clearfix actions\">\n              <div class=\"action search\">\n                <form action=\"http://demo.designwall.com/dw-minion/\" class=\"action searchform\">\n                  <input type=\"text\" placeholder=\"Search\" id=\"s\" name=\"s\" class=\"search-query\">\n                  <label for=\"s\"></label>\n                </form>\n              </div>\n              <a class=\"back-top action\" href=\"#page\"><i class=\"icon-chevron-up\"></i></a>\n              <div class=\"action socials\">\n                <i class=\"icon-link active-socials\"></i>\n                <ul class=\"unstyled list-socials clearfix\" style=\"width: 200px;\">\n                  <li class=\"social\"><a href=\"http://facebook.com/wp.designwall\"><i class=\"icon-facebook\"></i></a></li>                  <li class=\"social\"><a href=\"http://twitter.com/designwall_com\"><i class=\"icon-twitter\"></i></a></li>                  <li class=\"social\"><a href=\"https://plus.google.com/111081614492699228740/\"><i class=\"icon-google-plus\"></i></a></li>                  <li class=\"social\"><a href=\"http://www.youtube.com/user/DesignWallChannel\"><i class=\"icon-youtube\"></i></a></li>                  <li class=\"social\"><a href=\"http://www.linkedin.com/in/hungdv\"><i class=\"icon-linkedin\"></i></a></li>              </ul>          </div>\n                </div>\n              </div>\n              <div id=\"main\" class=\"site-main\">\n                <div class=\"site-main-inner\">\n                  <div class=\"container clearfix\">\n                    <div id=\"primary\" class=\"content-area\">\n                      <div class=\"primary-inner\">\n                        <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n                          <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n                            <header class=\"entry-header\">\n                              <h2 class=\"entry-title\"><a href=\"http://demo.designwall.com/dw-minion/?p=33\" rel=\"bookmark\">The Inside Secrets Of Millionaires Under The Age Of 29</a></h2>   <div class=\"entry-meta\"><span class=\"byline\">By <span class=\"author vcard\"><a class=\"url fn n\" href=\"http://demo.designwall.com/dw-minion/?author=9\" title=\"View all posts by Ruth Clem\">Ruth Clem</a></span></span><span class=\"cat-links\"> in <a href=\"http://demo.designwall.com/dw-minion/?cat=6\" rel=\"category\">Delicious</a>, <a href=\"http://demo.designwall.com/dw-minion/?cat=2\" rel=\"category\">Freelancing</a>, <a href=\"http://demo.designwall.com/dw-minion/?cat=4\" rel=\"category\">Photography</a></span><span class=\"sep\"><span class=\"post-format\"><i class=\"icon-file-text\"></i></span></span><span class=\"posted-on\"><a href=\"http://demo.designwall.com/dw-minion/?p=33\" title=\"12:00 am\" rel=\"bookmark\"><i class=\"icon-calendar-empty\"></i> <time class=\"entry-date published\" datetime=\"2013-06-20T00:00:00+00:00\">June 20, 2013</time></a></span>   <span class=\"comments-link\"><a href=\"http://demo.designwall.com/dw-minion/?p=33#comments\" title=\"Comment on The Inside Secrets Of Millionaires Under The Age Of 29\"><i class=\"icon-comment-alt\"></i> 9 Comments</a></span>\n                            </div>  </header>\n                            <div class=\"entry-thumbnail\"><a href=\"http://demo.designwall.com/dw-minion/?p=33\" rel=\"bookmark\"><img width=\"620\" height=\"350\" src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/the-inside-secrets-of-millionaires-under-the-age-of-29.jpg\" class=\"attachment-post-thumbnail wp-post-image\" alt=\"The Inside Secrets Of Millionaires Under The Age Of 29!\" /></a></div>\n                            <div class=\"entry-content\"> \n                              <p>Quisque tincidunt metus aliquam orci tincidunt, ac sollicitudin massa lacinia. Nunc ligula enim, fringilla vitae neque vestibulum, fermentum semper tellus. Fusce magna nisi, tincidunt eu dui quis, tempus consequat ipsum.  <a href=\"http://demo.designwall.com/dw-minion/?p=33\" class=\"more-link\"><span class=\"btn btn-small\">Continue reading</span></a></p>\n                            </div>\n                          </article><article id=\"post-13\" class=\"post-13 post type-post status-publish format-link hentry category-delicious category-photography tag-dancing tag-shopping\">\n                          <header class=\"entry-header\">\n                            <h2 class=\"entry-title\"><a href=\"http://demo.designwall.com/dw-minion/?p=13\" rel=\"bookmark\">Responsive WordPress Themes</a></h2>      </header>\n                            <div class=\"entry-content\"> \n                              <p><a title=\"Responsive WordPress Themes\" href=\"http://www.designwall.com/\" target=\"_blank\">http://www.designwall.com</a></p>\n                            </div>\n                          </article><article id=\"post-7\" class=\"post-7 post type-post status-publish format-gallery hentry category-freelancing category-journal tag-dancing tag-my-family tag-playing\">\n                          <header class=\"entry-header\">\n                            <h2 class=\"entry-title\"><a href=\"http://demo.designwall.com/dw-minion/?p=7\" rel=\"bookmark\">Finally! An Acne Cream That Actually Does What It Says</a></h2>    <div class=\"entry-meta\"><span class=\"byline\">By <span class=\"author vcard\"><a class=\"url fn n\" href=\"http://demo.designwall.com/dw-minion/?author=4\" title=\"View all posts by Madelaine Jelks\">Madelaine Jelks</a></span></span><span class=\"cat-links\"> in <a href=\"http://demo.designwall.com/dw-minion/?cat=2\" rel=\"category\">Freelancing</a>, <a href=\"http://demo.designwall.com/dw-minion/?cat=1\" rel=\"category\">Journal</a></span><span class=\"sep\"><span class=\"post-format\"><i class=\"icon-picture\"></i></span></span><span class=\"posted-on\"><a href=\"http://demo.designwall.com/dw-minion/?p=7\" title=\"12:00 am\" rel=\"bookmark\"><i class=\"icon-calendar-empty\"></i> <time class=\"entry-date published\" datetime=\"2013-05-28T00:00:00+00:00\">May 28, 2013</time></a></span>   <span class=\"comments-link\"><a href=\"http://demo.designwall.com/dw-minion/?p=7#comments\" title=\"Comment on Finally! An Acne Cream That Actually Does What It Says\"><i class=\"icon-comment-alt\"></i> 9 Comments</a></span>\n                          </div>  </header>\n                          <div class=\"entry-content\"> \n                            <div class='entry-gallery'><div id='carousel-1' class='carousel slide carousel-7'><ol class='carousel-indicators'><li class='active' data-slide-to='0' data-target='#carousel-1'></li><li class='' data-slide-to='1' data-target='#carousel-1'></li><li class='' data-slide-to='2' data-target='#carousel-1'></li><li class='' data-slide-to='3' data-target='#carousel-1'></li><li class='' data-slide-to='4' data-target='#carousel-1'></li></ol><div class='carousel-inner'><div class='item active'>\n                              <div class='carousel-icon'>\n                                <a href='http://demo.designwall.com/dw-minion/?attachment_id=32'><img width=\"620\" height=\"350\" src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/take-advantage-of-the-falling-stock-market.jpg\" class=\"attachment-620x350\" alt=\"Donec tempus hendrerit gravida\" /></a>\n                              </div>\n                              <div class='carousel-caption'>\n                                Donec tempus hendrerit gravida\n                              </div></div><div class='item'>\n                              <div class='carousel-icon'>\n                                <a href='http://demo.designwall.com/dw-minion/?attachment_id=26'><img width=\"620\" height=\"350\" src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/now-you-can-afford-that-in-ground-pool.jpg\" class=\"attachment-620x350\" alt=\"Cras hendrerit pharetra sem ac volutpat\" /></a>\n                              </div>\n                              <div class='carousel-caption'>\n                                Cras hendrerit pharetra sem ac volutpat\n                              </div></div><div class='item'>\n                              <div class='carousel-icon'>\n                                <a href='http://demo.designwall.com/dw-minion/?attachment_id=22'><img width=\"620\" height=\"350\" src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/the-real-truth-about-mlm-compensation-plans.jpg\" class=\"attachment-620x350\" alt=\"Pellentesque dignissim eu velit ut hendrerit\" /></a>\n                              </div>\n                              <div class='carousel-caption'>\n                                Pellentesque dignissim eu velit ut hendrerit\n                              </div></div><div class='item'>\n                              <div class='carousel-icon'>\n                                <a href='http://demo.designwall.com/dw-minion/?attachment_id=20'><img width=\"620\" height=\"350\" src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/which-of-these-web-hosting-companies-would-you-choose.jpg\" class=\"attachment-620x350\" alt=\"Aliquam imperdiet metus nec erat mattis\" /></a>\n                              </div>\n                              <div class='carousel-caption'>\n                                Aliquam imperdiet metus nec erat mattis\n                              </div></div><div class='item'>\n                              <div class='carousel-icon'>\n                                <a href='http://demo.designwall.com/dw-minion/?attachment_id=30'><img width=\"620\" height=\"350\" src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/unlock-the-secrets-of-selling-high-ticket-items.jpg\" class=\"attachment-620x350\" alt=\"Suspendisse sagittis nibh sollicitudin convallis\" /></a>\n                              </div>\n                              <div class='carousel-caption'>\n                                Suspendisse sagittis nibh sollicitudin convallis\n                              </div></div></div><a data-slide='prev' href='#carousel-1' class='carousel-control left'><i class='icon-chevron-left'></i></a><a data-slide='next' href='#carousel-1' class='carousel-control right'><i class='icon-chevron-right'></i></a></div></div>\n                              <p>Pellentesque eu mollis lectus. Integer tristique quis eros ut porttitor. Aliquam gravida, dolor volutpat venenatis lobortis, diam dolor varius lorem, ut rutrum metus nibh at risus. Sed ac tortor ac velit pharetra tristique eget at risus.  <a href=\"http://demo.designwall.com/dw-minion/?p=7\" class=\"more-link\"><span class=\"btn btn-small\">Continue reading</span></a></p>\n                            </div>\n                          </article><article id=\"post-29\" class=\"post-29 post type-post status-publish format-quote hentry category-freelancing category-journal tag-playing tag-sport tag-travel\">\n                          <header class=\"entry-header\">\n                            <div class=\"entry-meta\"><span class=\"posted-on\"><a href=\"http://demo.designwall.com/dw-minion/?p=29\" title=\"12:00 am\" rel=\"bookmark\"><i class=\"icon-calendar-empty\"></i> <time class=\"entry-date published\" datetime=\"2013-04-26T00:00:00+00:00\">April 26, 2013</time></a></span>   <span class=\"comments-link\"><a href=\"http://demo.designwall.com/dw-minion/?p=29#comments\" title=\"Comment on Unlock The Secrets Of Selling High Ticket\"><i class=\"icon-comment-alt\"></i> 7 Comments</a></span>\n                            </div>  </header>\n                            <div class=\"entry-content\"> \n                              <blockquote><p>Quality is more important than quantity. One home run is much better than two doubles.</p>\n                                <div><cite><strong>Steve Jobs</strong>, Business Week</cite></div>\n                              </blockquote>\n                            </div>\n                          </article><article id=\"post-31\" class=\"post-31 post type-post status-publish format-video hentry category-delicious category-photography tag-playing\">\n                          <header class=\"entry-header\">\n                            <h2 class=\"entry-title\"><a href=\"http://demo.designwall.com/dw-minion/?p=31\" rel=\"bookmark\">Take Advantage Of The Stock Market</a></h2>   <div class=\"entry-meta\"><span class=\"byline\">By <span class=\"author vcard\"><a class=\"url fn n\" href=\"http://demo.designwall.com/dw-minion/?author=3\" title=\"View all posts by Niki Baley\">Niki Baley</a></span></span><span class=\"cat-links\"> in <a href=\"http://demo.designwall.com/dw-minion/?cat=6\" rel=\"category\">Delicious</a>, <a href=\"http://demo.designwall.com/dw-minion/?cat=4\" rel=\"category\">Photography</a></span><span class=\"sep\"><span class=\"post-format\"><i class=\"icon-facetime-video\"></i></span></span><span class=\"posted-on\"><a href=\"http://demo.designwall.com/dw-minion/?p=31\" title=\"12:00 am\" rel=\"bookmark\"><i class=\"icon-calendar-empty\"></i> <time class=\"entry-date published\" datetime=\"2013-03-14T00:00:00+00:00\">March 14, 2013</time></a></span>   <span class=\"comments-link\"><a href=\"http://demo.designwall.com/dw-minion/?p=31#comments\" title=\"Comment on Take Advantage Of The Stock Market\"><i class=\"icon-comment-alt\"></i> 5 Comments</a></span>\n                          </div>  </header>\n                          <div class=\"entry-content\"> \n                            <p><iframe src=\"http://player.vimeo.com/video/66798838?title=0&amp;byline=0&amp;portrait=0&amp;color=88898a\" height=\"349\" width=\"620\" allowfullscreen=\"\" frameborder=\"0\"></iframe></p>\n                            <p>Aliquam et tempus erat. Morbi convallis consequat interdum. Mauris sed gravida enim, vitae tincidunt neque. Nulla a nulla ullamcorper, sollicitudin sapien vel, egestas tellus. Mauris eu suscipit enim. Nulla at pellentesque velit, vel consectetur lacus.  <a href=\"http://demo.designwall.com/dw-minion/?p=31\" class=\"more-link\"><span class=\"btn btn-small\">Continue reading</span></a></p>\n                          </div>\n                        </article><article id=\"post-11\" class=\"post-11 post type-post status-publish format-standard has-post-thumbnail hentry category-creativity category-travel tag-meeting tag-playing tag-sport\">\n                        <header class=\"entry-header\">\n                          <h2 class=\"entry-title\"><a href=\"http://demo.designwall.com/dw-minion/?p=11\" rel=\"bookmark\">Top Search Engine Optimization Strategies</a></h2>    <div class=\"entry-meta\"><span class=\"byline\">By <span class=\"author vcard\"><a class=\"url fn n\" href=\"http://demo.designwall.com/dw-minion/?author=8\" title=\"View all posts by Johnna Nolette\">Johnna Nolette</a></span></span><span class=\"cat-links\"> in <a href=\"http://demo.designwall.com/dw-minion/?cat=3\" rel=\"category\">Creativity</a>, <a href=\"http://demo.designwall.com/dw-minion/?cat=5\" rel=\"category\">Travel</a></span><span class=\"sep\"><span class=\"post-format\"><i class=\"icon-file-text\"></i></span></span><span class=\"posted-on\"><a href=\"http://demo.designwall.com/dw-minion/?p=11\" title=\"12:00 am\" rel=\"bookmark\"><i class=\"icon-calendar-empty\"></i> <time class=\"entry-date published\" datetime=\"2012-09-03T00:00:00+00:00\">September 3, 2012</time></a></span>   <span class=\"comments-link\"><a href=\"http://demo.designwall.com/dw-minion/?p=11#comments\" title=\"Comment on Top Search Engine Optimization Strategies\"><i class=\"icon-comment-alt\"></i> 10 Comments</a></span>\n                        </div>  </header>\n                        <div class=\"entry-thumbnail\"><a href=\"http://demo.designwall.com/dw-minion/?p=11\" rel=\"bookmark\"><img width=\"620\" height=\"350\" src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/finally-an-acne-cream-that-actually-does-what-it-says.jpg\" class=\"attachment-post-thumbnail wp-post-image\" alt=\"Finally! An Acne Cream That Actually Does What It Says!\" /></a></div>\n                        <div class=\"entry-content\"> \n                          <p>Etiam sodales luctus est at consequat. Aliquam lacinia odio nec eros cursus laoreet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse sagittis massa a mi tempus, nec euismod lacus tristique. Mauris elit sapien, feugiat sed tincidunt eu, luctus a elit.  <a href=\"http://demo.designwall.com/dw-minion/?p=11\" class=\"more-link\"><span class=\"btn btn-small\">Continue reading</span></a></p>\n                        </div>\n                      </article>  <nav role=\"navigation\" id=\"nav-below\" class=\"paging-navigation pager\">\n                      <div class=\"nav-previous\">\n                        <span class=\"btn disabled\"><i class=\"icon-chevron-left\"></i></span>\n                      </div>\n                      <div class=\"nav-next\">\n                        <a href=\"http://demo.designwall.com/dw-minion/?paged=2\" ><span class=\"meta-nav btn\"><i class=\"icon-chevron-right\"></i></span></a>         </div>\n                      </nav>\n                    </div>\n                  </div>\n                </div>\n                <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n                  <aside id=\"text-4\" class=\"widget widget_text\">      <div class=\"textwidget\"><ul class=\"ads-125\">\n                    <li><a href=\"http://bit.ly/tf-wallclassic\"><img alt=\"demo\" src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/ad-2.gif\"></a></li>\n                    <li><a href=\"http://bit.ly/tf-wallclassic\"><img alt=\"demo\" src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/ad-2.gif\"></a></li>\n                    <li><a href=\"http://bit.ly/tf-wallclassic\"><img alt=\"demo\" src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/ad-2.gif\"></a></li>\n                    <li><a href=\"http://bit.ly/tf-wallclassic\"><img alt=\"demo\" src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/ad-2.gif\"></a></li>\n                  </ul></div>\n                </aside><aside id=\"dw_tabs-2\" class=\"widget dw_tabs news-tab\">      <div class=\"nav-tab-select-wrap\">\n                <select name=\"nav-tabs-dw_tabs-2\" class=\"nav-tabs-by-select visible-phone\" >\n                  <option data-target=\"#recent-posts-dw-widget-1\"  value=\"#recent-posts-dw-widget-1\" >POSTS</option><option data-target=\"#recent-comments-dw-widget-1\"  value=\"#recent-comments-dw-widget-1\" >COMMENTS</option><option data-target=\"#tag_cloud-dw-widget-1\"  value=\"#tag_cloud-dw-widget-1\" >TAGS</option>        </select>\n                </div>\n                <ul class=\"nav nav-tabs hidden-phone\" id=\"nav-tabs-dw_tabs-2\">\n                  <li class=\"active\"><a href=\"#recent-posts-dw-widget-1\" data-toggle=\"tab\">Posts</a></li><li class=\"\"><a href=\"#recent-comments-dw-widget-1\" data-toggle=\"tab\">Comments</a></li><li class=\"\"><a href=\"#tag_cloud-dw-widget-1\" data-toggle=\"tab\">Tags</a></li>      </ul>\n                  <div class=\"tab-content\">\n                    <div class=\"tab-pane widget_recent-posts-dw-widget-1 widget_recent_entries active\" id=\"recent-posts-dw-widget-1\">\n                      <h3 class=\"widget-title\">Posts</h3>   <ul>\n                      <li>\n                        <a href=\"http://demo.designwall.com/dw-minion/?p=33\">The Inside Secrets Of Millionaires Under The Age Of 29</a>\n                        <span class=\"post-date\">June 20, 2013</span>\n                      </li>\n                      <li>\n                        <a href=\"http://demo.designwall.com/dw-minion/?p=13\">Responsive WordPress Themes</a>\n                        <span class=\"post-date\">June 16, 2013</span>\n                      </li>\n                      <li>\n                        <a href=\"http://demo.designwall.com/dw-minion/?p=7\">Finally! An Acne Cream That Actually Does What It Says</a>\n                        <span class=\"post-date\">May 28, 2013</span>\n                      </li>\n                      <li>\n                        <a href=\"http://demo.designwall.com/dw-minion/?p=29\">Unlock The Secrets Of Selling High Ticket</a>\n                        <span class=\"post-date\">April 26, 2013</span>\n                      </li>\n                      <li>\n                        <a href=\"http://demo.designwall.com/dw-minion/?p=31\">Take Advantage Of The Stock Market</a>\n                        <span class=\"post-date\">March 14, 2013</span>\n                      </li>\n                    </ul>\n                  </div>\n                  <div class=\"tab-pane widget_recent-comments-dw-widget-1 widget_recent_comments \" id=\"recent-comments-dw-widget-1\">\n                    <h3 class=\"widget-title\">Comments</h3><ul id=\"recentcomments\"><li class=\"recentcomments\"><span class=\"comment-author-link\">Cherlyn Schranz</span> on <a href=\"http://demo.designwall.com/dw-minion/?p=33#comment-88\">The Inside Secrets Of Millionaires Under The Age Of 29</a></li><li class=\"recentcomments\"><span class=\"comment-author-link\">Fawn Council</span> on <a href=\"http://demo.designwall.com/dw-minion/?p=11#comment-31\">Top Search Engine Optimization Strategies</a></li><li class=\"recentcomments\"><span class=\"comment-author-link\">Niki Baley</span> on <a href=\"http://demo.designwall.com/dw-minion/?p=7#comment-19\">Finally! An Acne Cream That Actually Does What It Says</a></li><li class=\"recentcomments\"><span class=\"comment-author-link\">Cherlyn Schranz</span> on <a href=\"http://demo.designwall.com/dw-minion/?p=7#comment-21\">Finally! An Acne Cream That Actually Does What It Says</a></li><li class=\"recentcomments\"><span class=\"comment-author-link\">Ruth Clem</span> on <a href=\"http://demo.designwall.com/dw-minion/?p=27#comment-61\">Never Seen Before! Tires That Never Go</a></li></ul>                  </div>\n                    <div class=\"tab-pane widget_tag_cloud-dw-widget-1 widget_tag_cloud \" id=\"tag_cloud-dw-widget-1\">\n                      <h3 class=\"widget-title\">Tags</h3><div class=\"tagcloud\"><a href='http://demo.designwall.com/dw-minion/?tag=dancing' class='tag-link-11' title='6 topics' style='font-size: 16.75pt;'>Dancing</a>\n                      <a href='http://demo.designwall.com/dw-minion/?tag=meeting' class='tag-link-9' title='5 topics' style='font-size: 14.3pt;'>Meeting</a>\n                      <a href='http://demo.designwall.com/dw-minion/?tag=my-family' class='tag-link-8' title='6 topics' style='font-size: 16.75pt;'>My family</a>\n                      <a href='http://demo.designwall.com/dw-minion/?tag=playing' class='tag-link-12' title='9 topics' style='font-size: 22pt;'>Playing</a>\n                      <a href='http://demo.designwall.com/dw-minion/?tag=shopping' class='tag-link-10' title='5 topics' style='font-size: 14.3pt;'>Shopping</a>\n                      <a href='http://demo.designwall.com/dw-minion/?tag=sport' class='tag-link-7' title='7 topics' style='font-size: 18.5pt;'>Sport</a>\n                      <a href='http://demo.designwall.com/dw-minion/?tag=travel' class='tag-link-5' title='3 topics' style='font-size: 8pt;'>Travel</a></div>\n                    </div>\n                  </div>\n                </aside><aside id=\"dw_accordions-7\" class=\"widget dw_accordion news-accordion\"><div class=\"accordion\" id=\"accordion-dw_accordions-7\">                        <div class=\"accordion-group\">\n                <div class=\"accordion-heading\"><a class=\"accordion-toggle active\" data-toggle=\"collapse\" data-parent=\"#accordion-dw_accordions-7\" href=\"#dw_accordions-7-text-dw-widget-3\">Instagram</a></div>\n                <div id=\"dw_accordions-7-text-dw-widget-3\" class=\"widget_text-dw-widget-3  accordion-body collapse in widget_text\">\n                  <div class=\"accordion-inner\">\n                    <h3 class=\"widget-title\">Instagram</h3>     <div class=\"textwidget\"><ul class=\"instagram-content grid-2\">\n                    <li><a href=\"#\"><img src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/instagram-1.png\" alt=\"\"></a></li>\n                    <li><a href=\"#\"><img src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/instagram-2.png\" alt=\"\"></a></li>\n                    <li><a href=\"#\"><img src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/instagram-3.png\" alt=\"\"></a></li>\n                    <li><a href=\"#\"><img src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/instagram-4.png\" alt=\"\"></a></li>\n                  </ul></div>\n                </div>\n              </div>\n            </div>\n            <div class=\"accordion-group\">\n              <div class=\"accordion-heading\"><a class=\"accordion-toggle collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion-dw_accordions-7\" href=\"#dw_accordions-7-text-dw-widget-1\">Dribbble</a></div>\n              <div id=\"dw_accordions-7-text-dw-widget-1\" class=\"widget_text-dw-widget-1  accordion-body collapse  widget_text\">\n                <div class=\"accordion-inner\">\n                  <h3 class=\"widget-title\">Dribbble</h3>      <div class=\"textwidget\"><a href=\"#\"><img src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/email-app-shot.png\" alt=\"\"></a>\n                  <h5><a href=\"#\">Email App Shot</a></h5></div>\n                </div>\n              </div>\n            </div>\n            <div class=\"accordion-group\">\n              <div class=\"accordion-heading\"><a class=\"accordion-toggle collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion-dw_accordions-7\" href=\"#dw_accordions-7-text-dw-widget-2\">Flickr</a></div>\n              <div id=\"dw_accordions-7-text-dw-widget-2\" class=\"widget_text-dw-widget-2  accordion-body collapse  widget_text\">\n                <div class=\"accordion-inner\">\n                  <h3 class=\"widget-title\">Flickr</h3>      <div class=\"textwidget\"><ul class=\"flickr-content grid-3\">\n                  <li><a href=\"#\"><img src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/flickr-1.png\" alt=\"\"></a></li><li><a href=\"#\"><img src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/flickr-2.png\" alt=\"\"></a></li><li><a href=\"#\"><img src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/flickr-3.png\" alt=\"\"></a></li><li><a href=\"#\"><img src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/flickr-4.png\" alt=\"\"></a></li><li><a href=\"#\"><img src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/flickr-5.png\" alt=\"\"></a></li><li><a href=\"#\"><img src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/flickr-6.png\" alt=\"\"></a></li>\n                </ul></div>\n              </div>\n            </div>\n          </div>\n        </div></aside><aside id=\"text-2\" class=\"widget widget_text\">      <div class=\"textwidget\"><a href=\"http://bit.ly/tf-wallclassic\"><img src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/ad-1.jpg\" alt=\"\" /></a></div>\n      </aside></div>        </div>\n    </div>\n  </div>\n  <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n    <div class=\"container\">\n      <div class=\"site-info\">\n        <a href=\"http://wordpress.org/\" title=\"A Semantic Personal Publishing Platform\" rel=\"generator\">Proudly powered by WordPress</a><span class=\"sep\">.</span>\n        Theme: DW Minion by <a href=\"http://www.designwall.com/\" rel=\"nofollow\">DesignWall</a>.        </div>\n      </div>\n    </footer>\n  </div>\n</div>\n\n<script type='text/javascript' src='{{site.baseurl}}js/main.js'></script>\n<script type='text/javascript' src='{{site.baseurl}}js/bootstrap-transition.js'></script>\n<script type='text/javascript' src='{{site.baseurl}}js/bootstrap-carousel.js'></script>\n<script type='text/javascript' src='{{site.baseurl}}js/bootstrap-collapse.js'></script>\n<script type='text/javascript' src='{{site.baseurl}}js/bootstrap-tab.js'></script>\n\n</body>\n\n<!-- Mirrored from demo.designwall.com/dw-minion/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 05 Jan 2015 11:59:44 GMT -->\n</html>",
+			"file": "_layouts/default.html",
+			"file_size": 29495,
+			"file_write_time": 130649365960064028,
+			"settings":
+			{
+				"buffer_size": 29931,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 1061,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "about-us.html",
+			"settings":
+			{
+				"buffer_size": 37,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "contact.html",
+			"settings":
+			{
+				"buffer_size": 36,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "about.md",
+			"settings":
+			{
+				"buffer_size": 54,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 601,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_site/index.html",
+			"settings":
+			{
+				"buffer_size": 29478,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"jek",
+				"Set Syntax: HTML (Jekyll)"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"liq",
+				"Set Syntax: HTML Liquid"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"liquid",
+				"Set Syntax: HTML Liquid"
+			],
+			[
+				"liqui",
+				"Set Syntax: HTML Liquid"
+			],
+			[
+				"fte",
+				"Fetch: Manage"
+			],
+			[
+				"fet",
+				"Fetch: Manage"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"je",
+				"Set Syntax: HTML (Jekyll)"
+			],
+			[
+				"inset",
+				"Gist: Insert Gist"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"inse",
+				"Gist: Insert Gist"
+			],
+			[
+				"reo",
+				"Emmet: Reload Extensions"
+			],
+			[
+				"REI",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jel",
+				"BracketHighlighter: Jump to Left Bracket"
+			],
+			[
+				"jeky",
+				"Set Syntax: HTML (Jekyll)"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"inser",
+				"Gist: Insert Gist"
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"quic",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"add .",
+				"Git: Add..."
+			],
+			[
+				"ini",
+				"Git: Init"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"quik",
+				"Git: Quick Commit"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML (Jekyll)"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"open",
+				"Gist: Open Gist"
+			],
+			[
+				"rie",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"init",
+				"Git: Init"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"scs",
+				"SassBeautify: Convert from SCSS to current type"
+			],
+			[
+				"gbrn",
+				"Git: Change Branch"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"ope",
+				"Gist: Open Gist"
+			],
+			[
+				"ins",
+				"Gist: Insert Gist"
+			],
+			[
+				"uqi",
+				"Permute Lines: Unique"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"all",
+				"File: Save All"
+			],
+			[
+				"ch",
+				"Git: Change Branch"
+			],
+			[
+				"change",
+				"Git: Change Branch"
+			],
+			[
+				"comi",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"gis",
+				"Gist: Open Gist"
+			],
+			[
+				"git br",
+				"Git: Change Branch"
+			],
+			[
+				"remvoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"chang",
+				"Git: Change Branch"
+			],
+			[
+				"in",
+				"Gist: Insert Gist"
+			],
+			[
+				"renam",
+				"Gist: Rename File"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"chnage",
+				"Git: Change Branch"
+			],
+			[
+				"mer",
+				"Git: Merge Branch"
+			],
+			[
+				"quci",
+				"Git: Quick Commit"
+			],
+			[
+				"merge",
+				"Git: Merge Branch"
+			],
+			[
+				"chna",
+				"Git: Change Branch"
+			],
+			[
+				"brna",
+				"Git: Change Branch"
+			],
+			[
+				"git che",
+				"Git: Change Branch"
+			],
+			[
+				"log",
+				"Git: Log All"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"des",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"origami",
+				"Origami: Create Pane Below"
+			],
+			[
+				"unzo",
+				"Origami: Unzoom Current Pane"
+			],
+			[
+				"orig",
+				"Origami: Zoom Current Pane"
+			],
+			[
+				"ori",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"golden",
+				"Golden Ratio"
+			],
+			[
+				"golde",
+				"Golden Ratio: Toggle Auto Resize"
+			],
+			[
+				"gr",
+				"Golden Ratio"
+			],
+			[
+				"insert",
+				"Gist: Insert Gist"
+			],
+			[
+				"gui",
+				"Git: Document Selection"
+			],
+			[
+				"reflec",
+				"Emmet: Reflect CSS Value"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lin",
+				"SublimeLinter: Previous Error"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"op",
+				"Gist: Open Gist"
+			],
+			[
+				"opne",
+				"Gist: Open Gist"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"reit",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reio",
+				"Emmet: Reload Extensions"
+			],
+			[
+				"psuh",
+				"Git: Push"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"comit",
+				"Git: Commit"
+			],
+			[
+				"opn",
+				"Gist: Open Gist"
+			],
+			[
+				"repl",
+				"SublimeREPL: Shell"
+			],
+			[
+				"jekl",
+				"Jekyll: New draft"
+			],
+			[
+				"del",
+				"Gist: Delete Gist"
+			],
+			[
+				"repl she",
+				"SublimeREPL: Shell"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"dele",
+				"Gist: Delete Gist"
+			],
+			[
+				"repl shel",
+				"SublimeREPL: Shell"
+			],
+			[
+				"repl powe",
+				"SublimeREPL: PowerShell"
+			],
+			[
+				"power",
+				"SublimeREPL: PowerShell"
+			],
+			[
+				"repl po",
+				"SublimeREPL: PowerShell"
+			],
+			[
+				"repl rub",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"ter",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"upda",
+				"Gist: Update File"
+			],
+			[
+				"ermove",
+				"Package Control: Remove Package"
+			],
+			[
+				"com",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"comm-",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git comi",
+				"Git: Commit"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git comit",
+				"Git: Commit"
+			],
+			[
+				"pusuh",
+				"Permute Lines: Shuffle"
+			],
+			[
+				"cmit",
+				"Git: Commit"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"como",
+				"Git: Commit history"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			" git config --global push.default simple",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/sarhov/Dropbox/Projects/designwall",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/css"
+	],
+	"file_history":
+	[
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_includes/footer.html",
+		"/C/My Web Sites/designwall/demo.designwall.com/dw-minion/index.html",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_includes/header.html",
+		"/C/Users/sarhov/Desktop/test/_config.yml",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_site/index.html",
+		"/C/My Web Sites/avenues/cdn.shopify.com/s/files/1/0607/0977/t/16/assets/jquery.products.mina4a8.js",
+		"/C/Users/sarhov/Dropbox/Projects/victoria/templates/icons.html",
+		"/C/Users/sarhov/Dropbox/Projects/victoria/templates/icons.css",
+		"/C/Users/sarhov/AppData/Local/Temp/product.liquid",
+		"/C/Users/sarhov/Dropbox/Projects/booster-in_avenue/sass/screen.scss",
+		"/C/Users/sarhov/Dropbox/Projects/booster-in_avenue/sass/custom_checkout.scss",
+		"/C/Users/sarhov/Dropbox/Projects/booster-in_avenue/sass/_slider.scss",
+		"/C/Users/sarhov/Dropbox/Projects/booster-in_avenue/sass/_mixins.scss",
+		"/C/Users/sarhov/Dropbox/Projects/booster-in_avenue/.insup",
+		"/C/Users/sarhov/Dropbox/Projects/booster-in_avenue/.gitignore",
+		"/C/Users/sarhov/Dropbox/Projects/booster-in_avenue/.todo",
+		"/C/Users/sarhov/Dropbox/Projects/booster-in_avenue/sass/_common.scss",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/sass/style.scss",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_site/browserconfig.xml.liquid",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_site/browserconfig.xml",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_site/img/favicons/browserconfig.xml",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_includes/shipping-direction.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_includes/slider.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_includes/icons.svg",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/contact.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/news.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/articles.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_data/navigation.yml",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/index.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_includes/reviews-corousel.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_includes/steps.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_config.yml",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/sass/_settings.scss",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_includes/top-bar.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_includes/skills.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_includes/header.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_includes/about-command.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_includes/footer.html",
+		"/C/Users/sarhov/Desktop/demo.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/sass/app.scss",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/autopark.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/reviews.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/services.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/prices.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/guarantees.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/about-us.html",
+		"/C/Users/sarhov/Dropbox/Projects/shopify_metafields/config.yml",
+		"/C/Users/sarhov/AppData/Roaming/Sublime Text 3/Packages/User/Fetch.sublime-settings",
+		"/C/Users/sarhov/Dropbox/My_projects/shopify.center/themes/first-theme/config.yml",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/css/style.css",
+		"/C/Users/sarhov/Desktop/style.css",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/sass/components/_type.scss",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/config.rb",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/css/app.css",
+		"/C/Users/sarhov/Desktop/np_groups.json",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_site/sass/components/_type.scss",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/.sass-cache/3a080b39c7e61431a60b7e68a943a6d9b61ea2e5/_type.scssc",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/.sass-cache/198a126e2332c5b8bb1b8605210992eafc175578/_type.scssc",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/.sass-cache/198a126e2332c5b8bb1b8605210992eafc175578/_tables.scssc",
+		"/C/Users/sarhov/Desktop/foundation-compass-template-master/scss/app.scss",
+		"/C/Users/sarhov/Desktop/foundation-compass-template-master/config.rb",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_layouts/layout.html",
+		"/C/Users/sarhov/Desktop/foundation-compass-template-master/bower_components/foundation/.bower.json",
+		"/C/Users/sarhov/Desktop/foundation_install/hhh/scss/app.scss",
+		"/C/Users/sarhov/Desktop/foundation_install/hhh/index.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/js/app.js",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_site/sass/_settings.scss",
+		"/C/Users/sarhov/Desktop/foundation-compass-template-master/Gemfile.lock",
+		"/C/Users/sarhov/Desktop/foundation-compass-template-master/Gemfile",
+		"/C/Users/sarhov/Desktop/foundation-compass-template-master/bower_components/foundation/scss/foundation.scss",
+		"/C/Users/sarhov/Desktop/foundation_install/hhh/bower_components/foundation/.bower.json",
+		"/C/Users/sarhov/Desktop/foundation-compass-template-master/index.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/bower_components/foundation/scss/foundation/_settings.scss",
+		"/C/Users/sarhov/Dropbox/Projects/testik/.gitignore",
+		"/C/Users/sarhov/Dropbox/Projects/MY_PROJECT/index.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/.gitignore",
+		"/C/Users/sarhov/Dropbox/Projects/autopark_booster-in/snippets/sidebar_category-models.liquid",
+		"/C/Users/sarhov/Dropbox/Projects/autopark_booster-in/config/settings.html",
+		"/C/Users/sarhov/Dropbox/Projects/autopark_booster-in/media/theme.js",
+		"/C/Users/sarhov/Dropbox/Projects/autopark_booster-in/.sass-cache/7e111264a3d48a33328a525e1bbbad142b91ea3a/_typography.scssc",
+		"/C/Users/sarhov/Dropbox/Projects/autopark_booster-in/media/style.css.liquid",
+		"/C/Users/sarhov/Dropbox/Projects/autopark_booster-in/snippets/main_page_block_one.liquid",
+		"/C/Users/sarhov/Dropbox/Projects/autopark_booster-in/snippets/main_page_block_three.liquid",
+		"/C/Users/sarhov/Dropbox/Projects/autopark_booster-in/snippets/main_page_block_two.liquid",
+		"/C/Users/sarhov/Dropbox/Projects/autopark_booster-in/templates/index.liquid",
+		"/C/Users/sarhov/Dropbox/Projects/autopark_booster-in/snippets/header.liquid",
+		"/C/Users/sarhov/Dropbox/Projects/autopark_booster-in/templates/layouts.checkout.liquid",
+		"/C/Users/sarhov/Dropbox/Projects/autopark_booster-in/templates/layouts.layout.liquid",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_site/css/main.css",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_config.yml",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-12-11-post-example12.markdown",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-12-04-post-example4.markdown",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-12-03-post-example-2.markdown",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-11-30-kseniya-sobchak-vihsla-zamuzh.markdown",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-11-29-kseniya-sobchak-vihsla-zamuzh.markdown",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-10-30-post-example.markdown",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_includes/icons.svg",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_sass/_base.scss",
+		"/C/Users/sarhov/Desktop/boilerplate.html",
+		"/C/Users/sarhov/Desktop/examples/sidebar-hero.html",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/css/main.scss",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_includes/header.html",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_includes/footer.html",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/index.html",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_includes/article.html",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-12-30-kseniya-sobchak-vihsla-zamuzh.markdown",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/about-us.html",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/contact-us.html",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/advertising.html",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/pictures.html",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/articles.html",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_layouts/post.html",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-11-29-dsdsds.markdown",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-11-29-slim-matematika.markdown",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-11-29-your-filename.html",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-11-31-hello-tutitu.markdown",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/videos.html",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/CNAME",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_site/index.html",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_includes/post-images.html",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_layouts/default.html",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_sass/_layout.scss",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_site/kseniya-sobchak-vihsla-zamuzh.html",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_site/title/index.html",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/29-11-2-14-kseniya-sobchak-vihsla-zamuzh.markdown",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_site/about/index.html",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_includes/head.html",
+		"/C/Users/sarhov/Dropbox/Projects/after_rbz_dev/.insup"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"C:\\Users\\sarhov\\Dropbox\\Projects\\odetyobuty",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"wow",
+			"assets/",
+			"Featured products",
+			"Featured products ",
+			".slide__page",
+			".slide__page .rte h1",
+			"ul.navprimary__horizontal",
+			"$stack",
+			"font",
+			"a class=\"icons__item\"",
+			"124px",
+			"|",
+			"| ",
+			",",
+			"body",
+			"src=\"/",
+			"{{site.baseurl}}/",
+			"content=\"/",
+			"href=\"/",
+			"href=\"",
+			"row",
+			"large",
+			"global",
+			"global-radius",
+			"border-radius",
+			"#fff",
+			"a:hover",
+			"a",
+			"a:hover",
+			"а:hover",
+			"&:hover",
+			"a:hover",
+			"anchor",
+			"a:hover",
+			"а",
+			"\"a\"",
+			"primary-color",
+			"008cba",
+			"type",
+			"body-bg",
+			"body-b",
+			"body",
+			"foundation",
+			"Foundation",
+			"foundation",
+			"visibility",
+			"main_page_coollection2",
+			"main_page_coollection3",
+			"main_page_coollection1",
+			"slidel3",
+			"post_small",
+			"small-right",
+			"icon",
+			"\"a\"",
+			"post",
+			"444",
+			"clearfix",
+			"esi",
+			"menu-icon",
+			"$content-width",
+			"#carousel",
+			"\"#carousel\"",
+			"carousel",
+			"theimage",
+			"');",
+			".carousel-content__item_buyzone_buy.carousel-content__item_buyzone_action:disabled:before",
+			"article",
+			"fancy",
+			"products.list2",
+			".products.list2",
+			"paginate",
+			"filter-item",
+			"filter-item__label",
+			"cat_page_item_label3",
+			"cat_page_item_label1",
+			"include",
+			".carousel-content",
+			".carousel-content__",
+			".carousel-content__item_title",
+			".products__item",
+			".products__item .carousel-content__item_prices",
+			".products.list2 .products__item .carousel-content__item_prices",
+			"&:last-child",
+			"price",
+			"ui",
+			"d74041",
+			"  $('.ui-slider-handle:last-child').append('<span class=\"handler-price\" id=\"handPriceMax\"></span>');\n        $('.ui-slider-handle:nth-child(2)').append('<span class=\"handler-price\" id=\"handPriceMin\"></span>');",
+			"body_padding",
+			".ui-widget-header",
+			"=\"car-brand",
+			"filters-options_item",
+			"id=\"car-brand1",
+			"id=\"car-brand",
+			" id=\"car-brand1\"",
+			"filters-options filters-options_checkbox",
+			" filters-options__item",
+			"filters-options__label_iconed",
+			"_iconed\">",
+			"_iconed",
+			"610px",
+			"#;;",
+			"000",
+			"filter-",
+			"products",
+			"000",
+			"sub",
+			"444",
+			"			\n",
+			"endcomment",
+			"healdine",
+			"find",
+			"button.buy",
+			"option_none",
+			" product-items",
+			"product-cols",
+			"white collection_filter",
+			"include",
+			"white collection_filter",
+			"444",
+			"style=\"float:left\"",
+			"cart",
+			"itemsText",
+			"cart.items",
+			"cart.item",
+			".del",
+			"#mod-fast-call-pop",
+			"console",
+			"product_quantity_up quantity_controls"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			";\n",
+			"div",
+			"dive",
+			"div",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_layouts/default.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2778,
+								2778
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 351.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1061,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1061,
+								1061
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "about-us.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31,
+								31
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "about.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 54,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29,
+								29
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								600,
+								600
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_site/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 146.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 88.0
+	},
+	"project": "designwall.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sett",
+				"sass\\_settings.scss"
+			],
+			[
+				"sty",
+				"sass\\style.scss"
+			],
+			[
+				"style",
+				"sass\\style.scss"
+			],
+			[
+				"_type",
+				"sass\\components\\_type.scss"
+			],
+			[
+				"app",
+				"css\\app.css"
+			],
+			[
+				"main",
+				"website\\_site\\css\\main.css"
+			],
+			[
+				"base",
+				"website\\_sass\\_base.scss"
+			],
+			[
+				"cong",
+				"website\\_config.yml"
+			],
+			[
+				"mi",
+				"website\\css\\main.scss"
+			],
+			[
+				"fun",
+				"media\\functions.js"
+			],
+			[
+				"la",
+				"templates\\layouts.layout.liquid"
+			],
+			[
+				"func",
+				"media\\functions.js"
+			],
+			[
+				"lay",
+				"templates\\layouts.layout.liquid"
+			],
+			[
+				"bre",
+				"snippets\\breadcrumbs.liquid"
+			],
+			[
+				"functio",
+				"media\\functions.js"
+			],
+			[
+				"produ",
+				"templates\\product.liquid"
+			],
+			[
+				"scree",
+				"media\\screen.css"
+			],
+			[
+				"colle",
+				"templates\\collection.liquid"
+			],
+			[
+				"css",
+				"css\\filters.css"
+			],
+			[
+				"coll",
+				"shop\\templates\\collection.liquid"
+			],
+			[
+				"prod",
+				"shop\\templates\\product.liquid"
+			],
+			[
+				"minx",
+				"sass\\_mixins.scss"
+			],
+			[
+				"comm",
+				"sass\\_common.scss"
+			],
+			[
+				"scre",
+				"sass\\screen.scss"
+			],
+			[
+				"cm",
+				"snippets\\cm-colors-script.liquid"
+			],
+			[
+				"sar",
+				"media\\sarhov.css"
+			],
+			[
+				"th",
+				"media\\theme.css"
+			],
+			[
+				"se",
+				"config\\settings.html"
+			],
+			[
+				"coun",
+				"counter.js"
+			],
+			[
+				"cart",
+				"templates\\cart.liquid"
+			],
+			[
+				"sa",
+				"sass\\sarhov.scss"
+			],
+			[
+				"ssar",
+				".sass-cache\\fb570e73ad225a9557492bc57c12340422063c45\\sarhov.scssc"
+			],
+			[
+				"",
+				"Find Results"
+			],
+			[
+				"layou",
+				"templates\\layouts.layout.liquid"
+			],
+			[
+				"top",
+				"shop\\snippets\\top-header.liquid"
+			],
+			[
+				"index",
+				"shop\\templates\\index.liquid"
+			],
+			[
+				"scss",
+				"sass\\screen.scss"
+			],
+			[
+				"size",
+				"shop\\snippets\\size-table.liquid"
+			],
+			[
+				"fast",
+				"shop\\snippets\\fast-order.liquid"
+			],
+			[
+				"co",
+				"shop\\templates\\collection.liquid"
+			],
+			[
+				"sear",
+				"shop\\templates\\search.liquid"
+			],
+			[
+				"404",
+				"shop\\templates\\page_404.liquid"
+			],
+			[
+				"blog-item",
+				"shop\\snippets\\blog-item.liquid"
+			],
+			[
+				"artic",
+				"shop\\templates\\article.liquid"
+			],
+			[
+				"pagin",
+				"shop\\snippets\\pagination.liquid"
+			],
+			[
+				"blog-i",
+				"shop\\snippets\\blog-item.liquid"
+			],
+			[
+				"blog",
+				"shop\\templates\\blog.liquid"
+			],
+			[
+				"inde",
+				"shop\\templates\\index.liquid"
+			],
+			[
+				"page",
+				"shop\\templates\\page.liquid"
+			],
+			[
+				"blog-it",
+				"shop\\snippets\\blog-item.html"
+			],
+			[
+				"si",
+				"shop\\snippets\\size-table.html"
+			],
+			[
+				"siz",
+				"shop\\snippets\\size-table.html"
+			],
+			[
+				"set",
+				"shop\\config\\settings.html"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"log",
+				"shop\\log\\insup.log"
+			],
+			[
+				"mixin",
+				"sass\\_mixins.scss"
+			],
+			[
+				"produc",
+				"shop\\templates\\product.liquid"
+			],
+			[
+				"revi",
+				"shop\\snippets\\reviews.liquid"
+			],
+			[
+				"tabs",
+				"shop\\snippets\\tabs.liquid"
+			],
+			[
+				"fu",
+				"shop\\media\\functions.js"
+			],
+			[
+				"item",
+				"shop\\snippets\\item.liquid"
+			],
+			[
+				"settin",
+				"shop\\config\\settings.html"
+			],
+			[
+				"review",
+				"shop\\snippets\\reviews.liquid"
+			],
+			[
+				"pro",
+				"shop\\templates\\product.liquid"
+			],
+			[
+				"mixn",
+				"sass\\_mixins.scss"
+			],
+			[
+				"ins",
+				"shop\\log\\insup.log"
+			],
+			[
+				"cloud",
+				"shop\\media\\cloudzoom.css"
+			],
+			[
+				"side",
+				"shop\\snippets\\sidebar.liquid"
+			],
+			[
+				"ie",
+				"shop\\snippets\\item.liquid"
+			],
+			[
+				"top-he",
+				"shop\\snippets\\top-header.liquid"
+			],
+			[
+				"function",
+				"shop\\media\\functions.js"
+			],
+			[
+				"col",
+				"shop\\templates\\collection.liquid"
+			],
+			[
+				"scr",
+				"sass\\screen.scss"
+			],
+			[
+				"com",
+				"shop\\media\\common.js"
+			],
+			[
+				"mxin",
+				"sass\\_mixins.scss"
+			],
+			[
+				"cus",
+				"sass\\custom_checkout.scss"
+			],
+			[
+				"mixi",
+				"sass\\_mixins.scss"
+			],
+			[
+				"functi",
+				"shop\\media\\functions.js"
+			],
+			[
+				"lat",
+				"shop\\templates\\layouts.layout.liquid"
+			],
+			[
+				"slide",
+				"sass\\_slider.scss"
+			],
+			[
+				"funt",
+				"shop\\media\\functions.js"
+			],
+			[
+				"mix",
+				"sass\\_mixins.scss"
+			],
+			[
+				"car",
+				"shop\\snippets\\carousel.liquid"
+			],
+			[
+				"screen",
+				"shop\\media\\screen.css"
+			],
+			[
+				"prd",
+				"product.html"
+			],
+			[
+				"funtion",
+				"js\\functions.js"
+			],
+			[
+				"def",
+				"_layouts\\default.html"
+			],
+			[
+				"ine",
+				"index.html"
+			],
+			[
+				"fn",
+				"js\\functions.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"vn",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\VN_Saite\\vn_saite.sublime-project"
+			],
+			[
+				"sarhov",
+				"C:\\Users\\sarhov\\Dropbox\\My_projects\\sarhov.com\\sarhov.sublime-project"
+			],
+			[
+				"sahor",
+				"C:\\Users\\sarhov\\Dropbox\\My_projects\\sarhov.com\\sarhov.sublime-project"
+			],
+			[
+				"bos",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\booster-in_avenue\\bin_avenue.sublime-project"
+			],
+			[
+				"sahorv",
+				"C:\\Users\\sarhov\\Dropbox\\My_projects\\sarhov.com\\sarhov.sublime-project"
+			],
+			[
+				"hell",
+				"C:\\Users\\sarhov\\Dropbox\\My_projects\\hellolenin.com\\hellolenin.sublime-project"
+			],
+			[
+				"",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\np_groups\\np_groups.sublime-project"
+			],
+			[
+				"after",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\after_rbz_dev\\after_rbz_dev.sublime-project"
+			],
+			[
+				"elite",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\Elite\\elite.sublime-project"
+			],
+			[
+				"aft",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\after_rbz_dev\\after_rbz_dev.sublime-project"
+			],
+			[
+				"sarho",
+				"C:\\Users\\sarhov\\Dropbox\\My_projects\\sarhov.com\\sarhov.sublime-project"
+			],
+			[
+				"vi",
+				"C:\\Users\\sarhov\\Dropbox\\My_projects\\youtubevideo\\youtube_video.sublime-project"
+			],
+			[
+				"afte",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\after_rbz_dev\\after_rbz_dev.sublime-project"
+			],
+			[
+				"pre",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\premium_tehnika\\premium_tehnika.sublime-project"
+			],
+			[
+				"saho",
+				"C:\\Users\\sarhov\\Dropbox\\My_projects\\sarhov.com\\sarhov.sublime-project"
+			],
+			[
+				"wagn",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\wagner\\wagner.sublime-project"
+			],
+			[
+				"wag",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\wagner\\wagner.sublime-project"
+			],
+			[
+				"premi",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\premium_tehnika\\premium_tehnika.sublime-project"
+			],
+			[
+				"yas",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\yasmin\\yasmin.sublime-project"
+			],
+			[
+				"yasmin",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\yasmin\\yasmin.sublime-project"
+			],
+			[
+				"asmin",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\yasmin\\yasmin.sublime-project"
+			],
+			[
+				"sahrov",
+				"C:\\Users\\sarhov\\Dropbox\\My_projects\\sarhov.com\\sarhov.sublime-project"
+			],
+			[
+				"punch",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\new-puncher\\new-puncher.sublime-project"
+			],
+			[
+				"mos",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\mosbiz\\mosbizmeb-40.sublime-project"
+			],
+			[
+				"punc",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\puncherstore\\puncherstore.sublime-project"
+			],
+			[
+				"wan",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\wagner\\wagner.sublime-project"
+			],
+			[
+				"dev",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\rbz_dev\\rbz_dev.sublime-project"
+			],
+			[
+				"de",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\rbz_dev\\rbz_dev.sublime-project"
+			],
+			[
+				"ins",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\ins__vass\\ins_vaas.sublime-project"
+			],
+			[
+				"insa",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\ins__vass\\ins_vaas.sublime-project"
+			],
+			[
+				"ra",
+				"C:\\Users\\sarhov\\Saved Games\\ray.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 385.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
