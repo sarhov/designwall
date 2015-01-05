@@ -12,6 +12,7 @@ logo: 'img/logo.png'
 # Build settings
 markdown: kramdown
 
+
 navigation:
   - home:
     url: '/'
@@ -22,3 +23,29 @@ navigation:
   - Contact:
     url: 'contact.html'
     title: 'Contact'
+
+
+
+social_icons: true
+#the below work if the social_icons is true
+social:
+ - Facebook:
+   url: 'http://facebook.com'    
+   icon_class: 'icon-facebook'
+ - Twitter:
+   url: 'http://twitter.com'    
+   icon_class: 'icon-twitter'
+ - GooglePlus:
+   url: 'http://google.com'    
+   icon_class: 'icon-google-plus'
+ - Youtube:
+   url: 'http://youtube.com'    
+   icon_class: 'icon-youtube'
+ - Linkedin:
+   url: 'http://linkedin.com'    
+   icon_class: 'icon-linkedin'
+ - Vimeo:
+   url: 'http://github.com'    
+   icon_class: 'icon-github'
+
+# the whole icons classes you can find here: http://fortawesome.github.io/Font-Awesome/icons/
