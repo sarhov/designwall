@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "You don't fool me"
 img:    article1.jpg
 date:   2015-01-03 20:45:39
 author: sarhov
