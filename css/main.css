@@ -5721,7 +5721,7 @@ iframe[id^="oauth2relay"] {
 }
 .pager .nav-next .pager-title {
   float: right;
-  margin-right: -33px;
+  margin-right: -35px;
   padding: 0 53px 0 20px;
 }
 .pager .nav-previous {
@@ -5733,7 +5733,7 @@ iframe[id^="oauth2relay"] {
 }
 .pager .nav-previous .pager-title {
   float: left;
-  margin-left: -33px;
+  margin-left: -35px;
   padding: 0 20px 0 53px;
 }
 .pager .nav-next .btn,

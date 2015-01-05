@@ -344,29 +344,50 @@
 	"buffers":
 	[
 		{
-			"contents": "<!DOCTYPE html>\n<html prefix=\"og: http://ogp.me/ns#\" lang=\"en-US\">\n<meta http-equiv=\"content-type\" content=\"text/html;charset=UTF-8\" />\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, user-scalable=no\">\n  <title>{% if page.title %} {{page.title}} {% else %} {{site.title}} {% endif%}</title>\n  <link rel='stylesheet'  href=\"{{site.baseurl}}css/main.css\" type='text/css' media='all' />\n  <link rel='stylesheet'  href=\"{{site.baseurl}}css/style.css\" type='text/css' media='all' />\n  <script type='text/javascript' src='{{site.baseurl}}js/modernizr-2.6.2.min.js'></script>\n  <script type='text/javascript' src='{{site.baseurl}}js/jquery.js'></script>\n  <script type='text/javascript' src='{{site.baseurl}}js/jquery-migrate.min.js'></script>\n</head>\n<body class=\"home blog group-blog\">\n  <div id=\"page\" class=\"hfeed site\">\n    <div class=\"container clearfix\">\n      <div id=\"navigation\" class=\"site-nav\">\n        <div class=\"site-nav-inner\">\n          <div class=\"container\">\n            <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n              <h1 class=\"site-title display-logo\">\n                <a href=\"index.html\" title=\"DW Minion\" rel=\"home\">\n                  <img alt=\"DW Minion\" src=\"{{site.logo}}\" />\n                </a>\n              </h1>\n              <p class=\"site-subtitle\">\n                {{site.title}}\n              </p>\n              <h2 class=\"site-description\">{{site.description}}</h2>\n            </header>\n            <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n              <aside id=\"nav_menu-2\" class=\"widget widget_nav_menu\">\n                <div class=\"menu-main-menu-container\">\n                  <ul id=\"menu-main-menu\" class=\"menu\">\n                    {% for link in site.navigation %}\n                    {% assign current = page.url | replace: '/',  '' %}\n                    <li id=\"menu-item-143\" class=\"menu-item {% if link.title contains page.title  %} current_page_item {% elsif page.url == '/index.html' and link.url == '/' %} current_page_item {% endif %}\">\n                      <a href=\"{{link.url}}\">{{link.title}}</a>\n                    </li>\n                    {% endfor %}\n                  </ul>\n                </aside>\n              </div>        </div>\n            </div>\n          </div>\n          <div id=\"actions\" class=\"site-actions clearfix\">\n            <div class=\"action show-site-nav\">\n              <i class=\"icon-reorder\"></i>\n            </div>\n            <div class=\"clearfix actions\">\n              <div class=\"action search\">\n                <form action=\"http://demo.designwall.com/dw-minion/\" class=\"action searchform\">\n                  <input type=\"text\" placeholder=\"Search\" id=\"s\" name=\"s\" class=\"search-query\">\n                  <label for=\"s\"></label>\n                </form>\n              </div>\n              <a class=\"back-top action\" href=\"#page\"><i class=\"icon-chevron-up\"></i></a>\n              <div class=\"action socials\">\n                <i class=\"icon-link active-socials\"></i>\n                <ul class=\"unstyled list-socials clearfix\" style=\"width: 200px;\">\n                  <li class=\"social\"><a href=\"http://facebook.com/wp.designwall\"><i class=\"icon-facebook\"></i></a></li>                  <li class=\"social\"><a href=\"http://twitter.com/designwall_com\"><i class=\"icon-twitter\"></i></a></li>                  <li class=\"social\"><a href=\"https://plus.google.com/111081614492699228740/\"><i class=\"icon-google-plus\"></i></a></li>                  <li class=\"social\"><a href=\"http://www.youtube.com/user/DesignWallChannel\"><i class=\"icon-youtube\"></i></a></li>                  <li class=\"social\"><a href=\"http://www.linkedin.com/in/hungdv\"><i class=\"icon-linkedin\"></i></a></li>              </ul>          </div>\n                </div>\n              </div>\n              <div id=\"main\" class=\"site-main\">\n                <div class=\"site-main-inner\">\n                  <div class=\"container clearfix\">\n                    <div id=\"primary\" class=\"content-area\">\n                      <div class=\"primary-inner\">\n                        <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n                          <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n                            <header class=\"entry-header\">\n                              <h2 class=\"entry-title\"><a href=\"http://demo.designwall.com/dw-minion/?p=33\" rel=\"bookmark\">The Inside Secrets Of Millionaires Under The Age Of 29</a></h2>   <div class=\"entry-meta\"><span class=\"byline\">By <span class=\"author vcard\"><a class=\"url fn n\" href=\"http://demo.designwall.com/dw-minion/?author=9\" title=\"View all posts by Ruth Clem\">Ruth Clem</a></span></span><span class=\"cat-links\"> in <a href=\"http://demo.designwall.com/dw-minion/?cat=6\" rel=\"category\">Delicious</a>, <a href=\"http://demo.designwall.com/dw-minion/?cat=2\" rel=\"category\">Freelancing</a>, <a href=\"http://demo.designwall.com/dw-minion/?cat=4\" rel=\"category\">Photography</a></span><span class=\"sep\"><span class=\"post-format\"><i class=\"icon-file-text\"></i></span></span><span class=\"posted-on\"><a href=\"http://demo.designwall.com/dw-minion/?p=33\" title=\"12:00 am\" rel=\"bookmark\"><i class=\"icon-calendar-empty\"></i> <time class=\"entry-date published\" datetime=\"2013-06-20T00:00:00+00:00\">June 20, 2013</time></a></span>   <span class=\"comments-link\"><a href=\"http://demo.designwall.com/dw-minion/?p=33#comments\" title=\"Comment on The Inside Secrets Of Millionaires Under The Age Of 29\"><i class=\"icon-comment-alt\"></i> 9 Comments</a></span>\n                            </div>  </header>\n                            <div class=\"entry-thumbnail\"><a href=\"http://demo.designwall.com/dw-minion/?p=33\" rel=\"bookmark\"><img width=\"620\" height=\"350\" src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/the-inside-secrets-of-millionaires-under-the-age-of-29.jpg\" class=\"attachment-post-thumbnail wp-post-image\" alt=\"The Inside Secrets Of Millionaires Under The Age Of 29!\" /></a></div>\n                            <div class=\"entry-content\"> \n                              <p>Quisque tincidunt metus aliquam orci tincidunt, ac sollicitudin massa lacinia. Nunc ligula enim, fringilla vitae neque vestibulum, fermentum semper tellus. Fusce magna nisi, tincidunt eu dui quis, tempus consequat ipsum.  <a href=\"http://demo.designwall.com/dw-minion/?p=33\" class=\"more-link\"><span class=\"btn btn-small\">Continue reading</span></a></p>\n                            </div>\n                          </article><article id=\"post-13\" class=\"post-13 post type-post status-publish format-link hentry category-delicious category-photography tag-dancing tag-shopping\">\n                          <header class=\"entry-header\">\n                            <h2 class=\"entry-title\"><a href=\"http://demo.designwall.com/dw-minion/?p=13\" rel=\"bookmark\">Responsive WordPress Themes</a></h2>      </header>\n                            <div class=\"entry-content\"> \n                              <p><a title=\"Responsive WordPress Themes\" href=\"http://www.designwall.com/\" target=\"_blank\">http://www.designwall.com</a></p>\n                            </div>\n                          </article><article id=\"post-7\" class=\"post-7 post type-post status-publish format-gallery hentry category-freelancing category-journal tag-dancing tag-my-family tag-playing\">\n                          <header class=\"entry-header\">\n                            <h2 class=\"entry-title\"><a href=\"http://demo.designwall.com/dw-minion/?p=7\" rel=\"bookmark\">Finally! An Acne Cream That Actually Does What It Says</a></h2>    <div class=\"entry-meta\"><span class=\"byline\">By <span class=\"author vcard\"><a class=\"url fn n\" href=\"http://demo.designwall.com/dw-minion/?author=4\" title=\"View all posts by Madelaine Jelks\">Madelaine Jelks</a></span></span><span class=\"cat-links\"> in <a href=\"http://demo.designwall.com/dw-minion/?cat=2\" rel=\"category\">Freelancing</a>, <a href=\"http://demo.designwall.com/dw-minion/?cat=1\" rel=\"category\">Journal</a></span><span class=\"sep\"><span class=\"post-format\"><i class=\"icon-picture\"></i></span></span><span class=\"posted-on\"><a href=\"http://demo.designwall.com/dw-minion/?p=7\" title=\"12:00 am\" rel=\"bookmark\"><i class=\"icon-calendar-empty\"></i> <time class=\"entry-date published\" datetime=\"2013-05-28T00:00:00+00:00\">May 28, 2013</time></a></span>   <span class=\"comments-link\"><a href=\"http://demo.designwall.com/dw-minion/?p=7#comments\" title=\"Comment on Finally! An Acne Cream That Actually Does What It Says\"><i class=\"icon-comment-alt\"></i> 9 Comments</a></span>\n                          </div>  </header>\n                          <div class=\"entry-content\"> \n                            <div class='entry-gallery'><div id='carousel-1' class='carousel slide carousel-7'><ol class='carousel-indicators'><li class='active' data-slide-to='0' data-target='#carousel-1'></li><li class='' data-slide-to='1' data-target='#carousel-1'></li><li class='' data-slide-to='2' data-target='#carousel-1'></li><li class='' data-slide-to='3' data-target='#carousel-1'></li><li class='' data-slide-to='4' data-target='#carousel-1'></li></ol><div class='carousel-inner'><div class='item active'>\n                              <div class='carousel-icon'>\n                                <a href='http://demo.designwall.com/dw-minion/?attachment_id=32'><img width=\"620\" height=\"350\" src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/take-advantage-of-the-falling-stock-market.jpg\" class=\"attachment-620x350\" alt=\"Donec tempus hendrerit gravida\" /></a>\n                              </div>\n                              <div class='carousel-caption'>\n                                Donec tempus hendrerit gravida\n                              </div></div><div class='item'>\n                              <div class='carousel-icon'>\n                                <a href='http://demo.designwall.com/dw-minion/?attachment_id=26'><img width=\"620\" height=\"350\" src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/now-you-can-afford-that-in-ground-pool.jpg\" class=\"attachment-620x350\" alt=\"Cras hendrerit pharetra sem ac volutpat\" /></a>\n                              </div>\n                              <div class='carousel-caption'>\n                                Cras hendrerit pharetra sem ac volutpat\n                              </div></div><div class='item'>\n                              <div class='carousel-icon'>\n                                <a href='http://demo.designwall.com/dw-minion/?attachment_id=22'><img width=\"620\" height=\"350\" src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/the-real-truth-about-mlm-compensation-plans.jpg\" class=\"attachment-620x350\" alt=\"Pellentesque dignissim eu velit ut hendrerit\" /></a>\n                              </div>\n                              <div class='carousel-caption'>\n                                Pellentesque dignissim eu velit ut hendrerit\n                              </div></div><div class='item'>\n                              <div class='carousel-icon'>\n                                <a href='http://demo.designwall.com/dw-minion/?attachment_id=20'><img width=\"620\" height=\"350\" src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/which-of-these-web-hosting-companies-would-you-choose.jpg\" class=\"attachment-620x350\" alt=\"Aliquam imperdiet metus nec erat mattis\" /></a>\n                              </div>\n                              <div class='carousel-caption'>\n                                Aliquam imperdiet metus nec erat mattis\n                              </div></div><div class='item'>\n                              <div class='carousel-icon'>\n                                <a href='http://demo.designwall.com/dw-minion/?attachment_id=30'><img width=\"620\" height=\"350\" src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/unlock-the-secrets-of-selling-high-ticket-items.jpg\" class=\"attachment-620x350\" alt=\"Suspendisse sagittis nibh sollicitudin convallis\" /></a>\n                              </div>\n                              <div class='carousel-caption'>\n                                Suspendisse sagittis nibh sollicitudin convallis\n                              </div></div></div><a data-slide='prev' href='#carousel-1' class='carousel-control left'><i class='icon-chevron-left'></i></a><a data-slide='next' href='#carousel-1' class='carousel-control right'><i class='icon-chevron-right'></i></a></div></div>\n                              <p>Pellentesque eu mollis lectus. Integer tristique quis eros ut porttitor. Aliquam gravida, dolor volutpat venenatis lobortis, diam dolor varius lorem, ut rutrum metus nibh at risus. Sed ac tortor ac velit pharetra tristique eget at risus.  <a href=\"http://demo.designwall.com/dw-minion/?p=7\" class=\"more-link\"><span class=\"btn btn-small\">Continue reading</span></a></p>\n                            </div>\n                          </article><article id=\"post-29\" class=\"post-29 post type-post status-publish format-quote hentry category-freelancing category-journal tag-playing tag-sport tag-travel\">\n                          <header class=\"entry-header\">\n                            <div class=\"entry-meta\"><span class=\"posted-on\"><a href=\"http://demo.designwall.com/dw-minion/?p=29\" title=\"12:00 am\" rel=\"bookmark\"><i class=\"icon-calendar-empty\"></i> <time class=\"entry-date published\" datetime=\"2013-04-26T00:00:00+00:00\">April 26, 2013</time></a></span>   <span class=\"comments-link\"><a href=\"http://demo.designwall.com/dw-minion/?p=29#comments\" title=\"Comment on Unlock The Secrets Of Selling High Ticket\"><i class=\"icon-comment-alt\"></i> 7 Comments</a></span>\n                            </div>  </header>\n                            <div class=\"entry-content\"> \n                              <blockquote><p>Quality is more important than quantity. One home run is much better than two doubles.</p>\n                                <div><cite><strong>Steve Jobs</strong>, Business Week</cite></div>\n                              </blockquote>\n                            </div>\n                          </article><article id=\"post-31\" class=\"post-31 post type-post status-publish format-video hentry category-delicious category-photography tag-playing\">\n                          <header class=\"entry-header\">\n                            <h2 class=\"entry-title\"><a href=\"http://demo.designwall.com/dw-minion/?p=31\" rel=\"bookmark\">Take Advantage Of The Stock Market</a></h2>   <div class=\"entry-meta\"><span class=\"byline\">By <span class=\"author vcard\"><a class=\"url fn n\" href=\"http://demo.designwall.com/dw-minion/?author=3\" title=\"View all posts by Niki Baley\">Niki Baley</a></span></span><span class=\"cat-links\"> in <a href=\"http://demo.designwall.com/dw-minion/?cat=6\" rel=\"category\">Delicious</a>, <a href=\"http://demo.designwall.com/dw-minion/?cat=4\" rel=\"category\">Photography</a></span><span class=\"sep\"><span class=\"post-format\"><i class=\"icon-facetime-video\"></i></span></span><span class=\"posted-on\"><a href=\"http://demo.designwall.com/dw-minion/?p=31\" title=\"12:00 am\" rel=\"bookmark\"><i class=\"icon-calendar-empty\"></i> <time class=\"entry-date published\" datetime=\"2013-03-14T00:00:00+00:00\">March 14, 2013</time></a></span>   <span class=\"comments-link\"><a href=\"http://demo.designwall.com/dw-minion/?p=31#comments\" title=\"Comment on Take Advantage Of The Stock Market\"><i class=\"icon-comment-alt\"></i> 5 Comments</a></span>\n                          </div>  </header>\n                          <div class=\"entry-content\"> \n                            <p><iframe src=\"http://player.vimeo.com/video/66798838?title=0&amp;byline=0&amp;portrait=0&amp;color=88898a\" height=\"349\" width=\"620\" allowfullscreen=\"\" frameborder=\"0\"></iframe></p>\n                            <p>Aliquam et tempus erat. Morbi convallis consequat interdum. Mauris sed gravida enim, vitae tincidunt neque. Nulla a nulla ullamcorper, sollicitudin sapien vel, egestas tellus. Mauris eu suscipit enim. Nulla at pellentesque velit, vel consectetur lacus.  <a href=\"http://demo.designwall.com/dw-minion/?p=31\" class=\"more-link\"><span class=\"btn btn-small\">Continue reading</span></a></p>\n                          </div>\n                        </article><article id=\"post-11\" class=\"post-11 post type-post status-publish format-standard has-post-thumbnail hentry category-creativity category-travel tag-meeting tag-playing tag-sport\">\n                        <header class=\"entry-header\">\n                          <h2 class=\"entry-title\"><a href=\"http://demo.designwall.com/dw-minion/?p=11\" rel=\"bookmark\">Top Search Engine Optimization Strategies</a></h2>    <div class=\"entry-meta\"><span class=\"byline\">By <span class=\"author vcard\"><a class=\"url fn n\" href=\"http://demo.designwall.com/dw-minion/?author=8\" title=\"View all posts by Johnna Nolette\">Johnna Nolette</a></span></span><span class=\"cat-links\"> in <a href=\"http://demo.designwall.com/dw-minion/?cat=3\" rel=\"category\">Creativity</a>, <a href=\"http://demo.designwall.com/dw-minion/?cat=5\" rel=\"category\">Travel</a></span><span class=\"sep\"><span class=\"post-format\"><i class=\"icon-file-text\"></i></span></span><span class=\"posted-on\"><a href=\"http://demo.designwall.com/dw-minion/?p=11\" title=\"12:00 am\" rel=\"bookmark\"><i class=\"icon-calendar-empty\"></i> <time class=\"entry-date published\" datetime=\"2012-09-03T00:00:00+00:00\">September 3, 2012</time></a></span>   <span class=\"comments-link\"><a href=\"http://demo.designwall.com/dw-minion/?p=11#comments\" title=\"Comment on Top Search Engine Optimization Strategies\"><i class=\"icon-comment-alt\"></i> 10 Comments</a></span>\n                        </div>  </header>\n                        <div class=\"entry-thumbnail\"><a href=\"http://demo.designwall.com/dw-minion/?p=11\" rel=\"bookmark\"><img width=\"620\" height=\"350\" src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/finally-an-acne-cream-that-actually-does-what-it-says.jpg\" class=\"attachment-post-thumbnail wp-post-image\" alt=\"Finally! An Acne Cream That Actually Does What It Says!\" /></a></div>\n                        <div class=\"entry-content\"> \n                          <p>Etiam sodales luctus est at consequat. Aliquam lacinia odio nec eros cursus laoreet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse sagittis massa a mi tempus, nec euismod lacus tristique. Mauris elit sapien, feugiat sed tincidunt eu, luctus a elit.  <a href=\"http://demo.designwall.com/dw-minion/?p=11\" class=\"more-link\"><span class=\"btn btn-small\">Continue reading</span></a></p>\n                        </div>\n                      </article>  <nav role=\"navigation\" id=\"nav-below\" class=\"paging-navigation pager\">\n                      <div class=\"nav-previous\">\n                        <span class=\"btn disabled\"><i class=\"icon-chevron-left\"></i></span>\n                      </div>\n                      <div class=\"nav-next\">\n                        <a href=\"http://demo.designwall.com/dw-minion/?paged=2\" ><span class=\"meta-nav btn\"><i class=\"icon-chevron-right\"></i></span></a>         </div>\n                      </nav>\n                    </div>\n                  </div>\n                </div>\n                <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n                  <aside id=\"text-4\" class=\"widget widget_text\">      <div class=\"textwidget\"><ul class=\"ads-125\">\n                    <li><a href=\"http://bit.ly/tf-wallclassic\"><img alt=\"demo\" src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/ad-2.gif\"></a></li>\n                    <li><a href=\"http://bit.ly/tf-wallclassic\"><img alt=\"demo\" src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/ad-2.gif\"></a></li>\n                    <li><a href=\"http://bit.ly/tf-wallclassic\"><img alt=\"demo\" src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/ad-2.gif\"></a></li>\n                    <li><a href=\"http://bit.ly/tf-wallclassic\"><img alt=\"demo\" src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/ad-2.gif\"></a></li>\n                  </ul></div>\n                </aside><aside id=\"dw_tabs-2\" class=\"widget dw_tabs news-tab\">      <div class=\"nav-tab-select-wrap\">\n                <select name=\"nav-tabs-dw_tabs-2\" class=\"nav-tabs-by-select visible-phone\" >\n                  <option data-target=\"#recent-posts-dw-widget-1\"  value=\"#recent-posts-dw-widget-1\" >POSTS</option><option data-target=\"#recent-comments-dw-widget-1\"  value=\"#recent-comments-dw-widget-1\" >COMMENTS</option><option data-target=\"#tag_cloud-dw-widget-1\"  value=\"#tag_cloud-dw-widget-1\" >TAGS</option>        </select>\n                </div>\n                <ul class=\"nav nav-tabs hidden-phone\" id=\"nav-tabs-dw_tabs-2\">\n                  <li class=\"active\"><a href=\"#recent-posts-dw-widget-1\" data-toggle=\"tab\">Posts</a></li><li class=\"\"><a href=\"#recent-comments-dw-widget-1\" data-toggle=\"tab\">Comments</a></li><li class=\"\"><a href=\"#tag_cloud-dw-widget-1\" data-toggle=\"tab\">Tags</a></li>      </ul>\n                  <div class=\"tab-content\">\n                    <div class=\"tab-pane widget_recent-posts-dw-widget-1 widget_recent_entries active\" id=\"recent-posts-dw-widget-1\">\n                      <h3 class=\"widget-title\">Posts</h3>   <ul>\n                      <li>\n                        <a href=\"http://demo.designwall.com/dw-minion/?p=33\">The Inside Secrets Of Millionaires Under The Age Of 29</a>\n                        <span class=\"post-date\">June 20, 2013</span>\n                      </li>\n                      <li>\n                        <a href=\"http://demo.designwall.com/dw-minion/?p=13\">Responsive WordPress Themes</a>\n                        <span class=\"post-date\">June 16, 2013</span>\n                      </li>\n                      <li>\n                        <a href=\"http://demo.designwall.com/dw-minion/?p=7\">Finally! An Acne Cream That Actually Does What It Says</a>\n                        <span class=\"post-date\">May 28, 2013</span>\n                      </li>\n                      <li>\n                        <a href=\"http://demo.designwall.com/dw-minion/?p=29\">Unlock The Secrets Of Selling High Ticket</a>\n                        <span class=\"post-date\">April 26, 2013</span>\n                      </li>\n                      <li>\n                        <a href=\"http://demo.designwall.com/dw-minion/?p=31\">Take Advantage Of The Stock Market</a>\n                        <span class=\"post-date\">March 14, 2013</span>\n                      </li>\n                    </ul>\n                  </div>\n                  <div class=\"tab-pane widget_recent-comments-dw-widget-1 widget_recent_comments \" id=\"recent-comments-dw-widget-1\">\n                    <h3 class=\"widget-title\">Comments</h3><ul id=\"recentcomments\"><li class=\"recentcomments\"><span class=\"comment-author-link\">Cherlyn Schranz</span> on <a href=\"http://demo.designwall.com/dw-minion/?p=33#comment-88\">The Inside Secrets Of Millionaires Under The Age Of 29</a></li><li class=\"recentcomments\"><span class=\"comment-author-link\">Fawn Council</span> on <a href=\"http://demo.designwall.com/dw-minion/?p=11#comment-31\">Top Search Engine Optimization Strategies</a></li><li class=\"recentcomments\"><span class=\"comment-author-link\">Niki Baley</span> on <a href=\"http://demo.designwall.com/dw-minion/?p=7#comment-19\">Finally! An Acne Cream That Actually Does What It Says</a></li><li class=\"recentcomments\"><span class=\"comment-author-link\">Cherlyn Schranz</span> on <a href=\"http://demo.designwall.com/dw-minion/?p=7#comment-21\">Finally! An Acne Cream That Actually Does What It Says</a></li><li class=\"recentcomments\"><span class=\"comment-author-link\">Ruth Clem</span> on <a href=\"http://demo.designwall.com/dw-minion/?p=27#comment-61\">Never Seen Before! Tires That Never Go</a></li></ul>                  </div>\n                    <div class=\"tab-pane widget_tag_cloud-dw-widget-1 widget_tag_cloud \" id=\"tag_cloud-dw-widget-1\">\n                      <h3 class=\"widget-title\">Tags</h3><div class=\"tagcloud\"><a href='http://demo.designwall.com/dw-minion/?tag=dancing' class='tag-link-11' title='6 topics' style='font-size: 16.75pt;'>Dancing</a>\n                      <a href='http://demo.designwall.com/dw-minion/?tag=meeting' class='tag-link-9' title='5 topics' style='font-size: 14.3pt;'>Meeting</a>\n                      <a href='http://demo.designwall.com/dw-minion/?tag=my-family' class='tag-link-8' title='6 topics' style='font-size: 16.75pt;'>My family</a>\n                      <a href='http://demo.designwall.com/dw-minion/?tag=playing' class='tag-link-12' title='9 topics' style='font-size: 22pt;'>Playing</a>\n                      <a href='http://demo.designwall.com/dw-minion/?tag=shopping' class='tag-link-10' title='5 topics' style='font-size: 14.3pt;'>Shopping</a>\n                      <a href='http://demo.designwall.com/dw-minion/?tag=sport' class='tag-link-7' title='7 topics' style='font-size: 18.5pt;'>Sport</a>\n                      <a href='http://demo.designwall.com/dw-minion/?tag=travel' class='tag-link-5' title='3 topics' style='font-size: 8pt;'>Travel</a></div>\n                    </div>\n                  </div>\n                </aside><aside id=\"dw_accordions-7\" class=\"widget dw_accordion news-accordion\"><div class=\"accordion\" id=\"accordion-dw_accordions-7\">                        <div class=\"accordion-group\">\n                <div class=\"accordion-heading\"><a class=\"accordion-toggle active\" data-toggle=\"collapse\" data-parent=\"#accordion-dw_accordions-7\" href=\"#dw_accordions-7-text-dw-widget-3\">Instagram</a></div>\n                <div id=\"dw_accordions-7-text-dw-widget-3\" class=\"widget_text-dw-widget-3  accordion-body collapse in widget_text\">\n                  <div class=\"accordion-inner\">\n                    <h3 class=\"widget-title\">Instagram</h3>     <div class=\"textwidget\"><ul class=\"instagram-content grid-2\">\n                    <li><a href=\"#\"><img src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/instagram-1.png\" alt=\"\"></a></li>\n                    <li><a href=\"#\"><img src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/instagram-2.png\" alt=\"\"></a></li>\n                    <li><a href=\"#\"><img src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/instagram-3.png\" alt=\"\"></a></li>\n                    <li><a href=\"#\"><img src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/instagram-4.png\" alt=\"\"></a></li>\n                  </ul></div>\n                </div>\n              </div>\n            </div>\n            <div class=\"accordion-group\">\n              <div class=\"accordion-heading\"><a class=\"accordion-toggle collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion-dw_accordions-7\" href=\"#dw_accordions-7-text-dw-widget-1\">Dribbble</a></div>\n              <div id=\"dw_accordions-7-text-dw-widget-1\" class=\"widget_text-dw-widget-1  accordion-body collapse  widget_text\">\n                <div class=\"accordion-inner\">\n                  <h3 class=\"widget-title\">Dribbble</h3>      <div class=\"textwidget\"><a href=\"#\"><img src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/email-app-shot.png\" alt=\"\"></a>\n                  <h5><a href=\"#\">Email App Shot</a></h5></div>\n                </div>\n              </div>\n            </div>\n            <div class=\"accordion-group\">\n              <div class=\"accordion-heading\"><a class=\"accordion-toggle collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion-dw_accordions-7\" href=\"#dw_accordions-7-text-dw-widget-2\">Flickr</a></div>\n              <div id=\"dw_accordions-7-text-dw-widget-2\" class=\"widget_text-dw-widget-2  accordion-body collapse  widget_text\">\n                <div class=\"accordion-inner\">\n                  <h3 class=\"widget-title\">Flickr</h3>      <div class=\"textwidget\"><ul class=\"flickr-content grid-3\">\n                  <li><a href=\"#\"><img src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/flickr-1.png\" alt=\"\"></a></li><li><a href=\"#\"><img src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/flickr-2.png\" alt=\"\"></a></li><li><a href=\"#\"><img src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/flickr-3.png\" alt=\"\"></a></li><li><a href=\"#\"><img src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/flickr-4.png\" alt=\"\"></a></li><li><a href=\"#\"><img src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/flickr-5.png\" alt=\"\"></a></li><li><a href=\"#\"><img src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/flickr-6.png\" alt=\"\"></a></li>\n                </ul></div>\n              </div>\n            </div>\n          </div>\n        </div></aside><aside id=\"text-2\" class=\"widget widget_text\">      <div class=\"textwidget\"><a href=\"http://bit.ly/tf-wallclassic\"><img src=\"http://demo.designwall.com/dw-minion/wp-content/uploads/ad-1.jpg\" alt=\"\" /></a></div>\n      </aside></div>        </div>\n    </div>\n  </div>\n  <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n    <div class=\"container\">\n      <div class=\"site-info\">\n        <a href=\"http://wordpress.org/\" title=\"A Semantic Personal Publishing Platform\" rel=\"generator\">Proudly powered by WordPress</a><span class=\"sep\">.</span>\n        Theme: DW Minion by <a href=\"http://www.designwall.com/\" rel=\"nofollow\">DesignWall</a>.        </div>\n      </div>\n    </footer>\n  </div>\n</div>\n\n<script type='text/javascript' src='{{site.baseurl}}js/main.js'></script>\n<script type='text/javascript' src='{{site.baseurl}}js/bootstrap-transition.js'></script>\n<script type='text/javascript' src='{{site.baseurl}}js/bootstrap-carousel.js'></script>\n<script type='text/javascript' src='{{site.baseurl}}js/bootstrap-collapse.js'></script>\n<script type='text/javascript' src='{{site.baseurl}}js/bootstrap-tab.js'></script>\n\n</body>\n\n<!-- Mirrored from demo.designwall.com/dw-minion/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 05 Jan 2015 11:59:44 GMT -->\n</html>",
 			"file": "_layouts/default.html",
-			"file_size": 29495,
-			"file_write_time": 130649365960064028,
 			"settings":
 			{
-				"buffer_size": 29931,
+				"buffer_size": 959,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "css/style.css",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 1061,
-				"line_ending": "Windows"
+				"buffer_size": 2488,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/post.html",
+			"settings":
+			{
+				"buffer_size": 2384,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 144064,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/page.html",
+			"settings":
+			{
+				"buffer_size": 833,
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "about-us.html",
 			"settings":
 			{
-				"buffer_size": 37,
+				"buffer_size": 3394,
 				"line_ending": "Windows"
 			}
 		},
@@ -374,23 +395,47 @@
 			"file": "contact.html",
 			"settings":
 			{
-				"buffer_size": 36,
+				"buffer_size": 1592,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "about.md",
+			"file": "_includes/footer.html",
 			"settings":
 			{
-				"buffer_size": 54,
+				"buffer_size": 765,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_includes/header.html",
+			"settings":
+			{
+				"buffer_size": 3329,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sarhov/Desktop/test/_includes/head.html",
+			"settings":
+			{
+				"buffer_size": 770,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2015-01-03-welcome-to-jekyll.markdown",
+			"settings":
+			{
+				"buffer_size": 1225,
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "_config.yml",
 			"settings":
 			{
-				"buffer_size": 601,
+				"buffer_size": 1476,
 				"line_ending": "Unix"
 			}
 		},
@@ -398,7 +443,7 @@
 			"file": "_site/index.html",
 			"settings":
 			{
-				"buffer_size": 29478,
+				"buffer_size": 6358,
 				"line_ending": "Unix"
 			}
 		}
@@ -406,7 +451,7 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 380.0,
 		"selected_items":
 		[
 			[
@@ -941,14 +986,23 @@
 	"expanded_folders":
 	[
 		"/C/Users/sarhov/Dropbox/Projects/designwall",
-		"/C/Users/sarhov/Dropbox/Projects/designwall/css"
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_includes",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_layouts",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_posts",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/img"
 	],
 	"file_history":
 	[
+		"/C/Users/sarhov/Dropbox/Projects/designwall/css/style.css",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/about-us.html",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/contact.html",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/about.md",
+		"/C/Users/sarhov/Desktop/test/_config.yml",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/css/main.css",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_config.yml",
 		"/C/Users/sarhov/Dropbox/Projects/designwall/_includes/footer.html",
 		"/C/My Web Sites/designwall/demo.designwall.com/dw-minion/index.html",
 		"/C/Users/sarhov/Dropbox/Projects/designwall/_includes/header.html",
-		"/C/Users/sarhov/Desktop/test/_config.yml",
 		"/C/Users/sarhov/Dropbox/Projects/designwall/_site/index.html",
 		"/C/My Web Sites/avenues/cdn.shopify.com/s/files/1/0607/0977/t/16/assets/jquery.products.mina4a8.js",
 		"/C/Users/sarhov/Dropbox/Projects/victoria/templates/icons.html",
@@ -1066,17 +1120,11 @@
 		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_site/index.html",
 		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_includes/post-images.html",
 		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_layouts/default.html",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_sass/_layout.scss",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_site/kseniya-sobchak-vihsla-zamuzh.html",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_site/title/index.html",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/29-11-2-14-kseniya-sobchak-vihsla-zamuzh.markdown",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_site/about/index.html",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_includes/head.html",
-		"/C/Users/sarhov/Dropbox/Projects/after_rbz_dev/.insup"
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_sass/_layout.scss"
 	],
 	"find":
 	{
-		"height": 21.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -1093,6 +1141,15 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			".pager .nav-next .pager-title",
+			".pager .nav-previous .pager-title",
+			"png",
+			"{{post.url}}",
+			"dw_tabs-2",
+			"accordion-group",
+			"{{site.baseurl}}",
+			" <form class=\"action searchform\" action=\"http://demo.designwall.com/dw-minion/\">\n                  <input type=\"text\" class=\"search-query\" name=\"s\" id=\"s\" placeholder=\"Search\">\n                  <label for=\"s\"></label>\n              </form>",
+			"../inc/font-awesome/font/",
 			"wow",
 			"assets/",
 			"Featured products",
@@ -1211,16 +1268,7 @@
 			"white collection_filter",
 			"include",
 			"white collection_filter",
-			"444",
-			"style=\"float:left\"",
-			"cart",
-			"itemsText",
-			"cart.items",
-			"cart.item",
-			".del",
-			"#mod-fast-call-pop",
-			"console",
-			"product_quantity_up quantity_controls"
+			"444"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -1243,7 +1291,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 11,
 			"sheets":
 			[
 				{
@@ -1252,15 +1300,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 29931,
+						"buffer_size": 959,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2778,
-								2778
+								509,
+								509
 							]
 						],
 						"settings":
@@ -1329,27 +1377,27 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 351.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "css/style.css",
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1061,
+						"buffer_size": 2488,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1061,
-								1061
+								229,
+								229
 							]
 						],
 						"settings":
@@ -1357,46 +1405,41 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
@@ -1407,13 +1450,20 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
 							],
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1424,259 +1474,136 @@
 				},
 				{
 					"buffer": 2,
-					"file": "about-us.html",
+					"file": "_layouts/post.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 37,
+						"buffer_size": 2384,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3,
-								3
+								2306,
+								2306
 							]
 						],
 						"settings":
 						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "contact.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 36,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								31,
-								31
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
 							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 39.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "about.md",
+					"buffer": 3,
+					"file": "css/main.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 54,
+						"buffer_size": 144064,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								29,
-								29
+								113437,
+								113437
 							]
 						],
 						"settings":
 						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 74060.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_layouts/page.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 833,
+						"regions":
+						{
+						},
+						"selection":
+						[
 							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
+								542,
+								542
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "about-us.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3394,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3394,
+								3394
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1592,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1585,
+								1585
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1686,20 +1613,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "_config.yml",
+					"buffer": 7,
+					"file": "_includes/footer.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 601,
+						"buffer_size": 765,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								600,
-								600
+								141,
+								141
 							]
 						],
 						"settings":
@@ -1707,46 +1634,41 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
@@ -1757,28 +1679,326 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "_includes/header.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1177,
+								1177
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
-								"bh_curly_content"
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
 							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Users/sarhov/Desktop/test/_includes/head.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "_posts/2015-01-03-welcome-to-jekyll.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								435,
+								435
+							]
+						],
+						"settings":
+						{
 							"syntax": "Packages/YAML/YAML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 12,
 					"file": "_site/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 29478,
+						"buffer_size": 6358,
 						"regions":
 						{
 						},
@@ -1858,7 +2078,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 12,
 					"type": "text"
 				}
 			]
@@ -1919,6 +2139,10 @@
 		"selected_items":
 		[
 			[
+				"main",
+				"css\\main.css"
+			],
+			[
 				"sett",
 				"sass\\_settings.scss"
 			],
@@ -1937,10 +2161,6 @@
 			[
 				"app",
 				"css\\app.css"
-			],
-			[
-				"main",
-				"website\\_site\\css\\main.css"
 			],
 			[
 				"base",
@@ -2283,6 +2503,10 @@
 		"selected_items":
 		[
 			[
+				"hell",
+				"C:\\Users\\sarhov\\Dropbox\\My_projects\\hellolenin.com\\hellolenin.sublime-project"
+			],
+			[
 				"vn",
 				"C:\\Users\\sarhov\\Dropbox\\Projects\\VN_Saite\\vn_saite.sublime-project"
 			],
@@ -2301,10 +2525,6 @@
 			[
 				"sahorv",
 				"C:\\Users\\sarhov\\Dropbox\\My_projects\\sarhov.com\\sarhov.sublime-project"
-			],
-			[
-				"hell",
-				"C:\\Users\\sarhov\\Dropbox\\My_projects\\hellolenin.com\\hellolenin.sublime-project"
 			],
 			[
 				"",

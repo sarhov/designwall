@@ -13,7 +13,7 @@
           <div class="textwidget"><ul class="ads-125">
         
           {% for small_add in site.small_adds %}
-              <li><a href="{{small_add.url}}"><img alt="" src="{{small_add.img}}"></a></li>
+              <li><a href="{{small_add.url}}"><img alt="" src="{{site.baseurl}}{{small_add.img}}"></a></li>
           {% endfor %}
           </ul>
         </div>
@@ -22,7 +22,7 @@
       {% if site.show_big_add %}
       <aside id="text-2" class="widget widget_text">      
         <div class="textwidget">
-        <a href="{{site.big__add.url}}"><img src="{{site.big_add.img}}" alt="" /></a>
+        <a href="{{site.big__add.url}}"><img src="{{site.baseurl}}{{site.big_add.img}}" alt="" /></a>
         </div>
       </aside> 
       {% endif %}

@@ -11,8 +11,10 @@ logo: '/img/logo.png'
 
 # Build settings
 markdown: kramdown
+paginate: 10
 
 more_text: 'Continue reading'
+rel_art_text: 'Related Articles.'
 
 navigation:
   - home:

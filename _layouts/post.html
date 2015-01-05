@@ -4,41 +4,82 @@ layout: default
 
 
 
-   <div id="primary" class="content-area">
-        <div class="primary-inner">
-          <div id="content" class="site-content content-list" role="main">
-         
+<div id="primary" class="content-area">
+  <div class="primary-inner">
+    <div id="content" class="site-content content-list" role="main">
 
-            <article id="post-33" class="post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping">
-              <header class="entry-header">
-                <h2 class="entry-title">
-                  <a href="{{site.baseurl}}{{page.url}}" rel="bookmark">{{page.title}}</a></h2>   
-                  <div class="entry-meta"><span class="byline">By <span class="author vcard">{{page.author}}</span></span>
-                    <span class="sep"><span class="post-format"><i class="icon-file-text"></i></span></span>
-                    <span class="posted-on">
-                      <a href="{{post.url}}" title="12:00 am" rel="bookmark"><i class="icon-calendar-empty"></i> 
-                       <time class="entry-date published" datetime="{{page.date}}">{{page.date | date: "%B,  %-d %Y"}}</time>
-                     </a>
-                   </span>
-                 </div>  </header>
 
-                 <div class="entry-thumbnail">
-                  <a href="http://demo.designwall.com/dw-minion/?p=33" rel="bookmark">
-                    <img width="620" height="350" src="{{site.baseurl}}/img/{{page.img}}" class="attachment-post-thumbnail wp-post-image" alt="{{post.title}}" />
-                  </a>
-                </div>
+      <article id="post-33" class="post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping">
+        <header class="entry-header">
+          <h2 class="entry-title">
+            <a href="{{site.baseurl}}{{page.url}}" rel="bookmark">{{page.title}}</a></h2>   
+            <div class="entry-meta"><span class="byline">By <span class="author vcard">{{page.author}}</span></span>
+              <span class="sep"><span class="post-format"><i class="icon-file-text"></i></span></span>
+              <span class="posted-on">
+                <a href="{{site.baseurl}}{{page.url}}" title="12:00 am" rel="bookmark"><i class="icon-calendar-empty"></i> 
+                 <time class="entry-date published" datetime="{{page.date}}">{{page.date | date: "%B,  %-d %Y"}}</time>
+               </a>
+             </span>
+           </div>  </header>
 
-                <div class="entry-content"> 
-               
-                    {{content}}
-                  
-                  </div>
-                </article> 
-                <!-- article -->
+           <div class="entry-thumbnail">
+            <a href="{{stei.baseurl}}{{page.url}}">
+              <img width="620" height="350" src="{{site.baseurl}}/img/{{page.img}}" class="attachment-post-thumbnail wp-post-image" alt="{{post.title}}" />
+            </a>
+          </div>
+          <div class="entry-content"> 
+            {{content}}
+          </div>
+        </article> 
+        <!-- article -->
+        {% if page.previous != nil or page.next != nil %}
+        <nav role="navigation" id="nav-below" class="paging-navigation pager">
+          {% if page.previous != nil %}
+          <div class="nav-previous">
+           <a href="{{site.baseurl}}{{ page.previous.url }}" >
+             <span class="meta-nav btn"><i class="icon-chevron-left"></i></span>
+             <span class="pager-title">{{page.previous.title}}</span>
+           </a>    
+         </div>  
+         {% else %}
+         <div class="nav-previous">
+          <span class="btn disabled"><i class="icon-chevron-left"></i></span>
+        </div>
+        {% endif %}
+        {% if page.next != nil %}
+        <div class="nav-next">
+          <a href="{{site.baseurl}}{{ page.next.url }}" >
+            <span class="meta-nav btn"><i class="icon-chevron-right"></i></span>
+            <span class="pager-title">{{page.next.title}}</span>
+          </a>         
+        </div>
+        {% else %}
+        <div class="nav-next">
+         <span class="btn disabled"><i class="icon-chevron-right"></i></span>      
+       </div>
+       {% endif %}
+     </nav>
+     {% endif %}
 
-                </div>
-              </div>
-            </div>
+    {% if site.related_posts.size > 0 %}
+      
+     <div class="related-posts">
+     <h2 class="related-posts-title">{{site.rel_art_text}}</h2>
+      <div class="related-content">
+      {% for post in site.related_posts %}
+        
+    
+        <article class="related-post clearfix">
+          <h3 class="related-title"><a rel="bookmark" href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>
+          <div class="related-meta"><time class="related-date">{{post.date | date: " %-d %B,  %Y"}}</time></div>
+        </article>  {% endfor %}
+      </div>
+    </div>
+  {% endif %}
+  </div>
+
+</div>
+</div>
 
 
 
