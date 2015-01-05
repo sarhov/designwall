@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" lang="en-US">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <title>{% if page.title %} {{page.title}} {% else %} {{site.title}} {% endif%}</title>
+  <link rel='stylesheet'  href="{{site.baseurl}}/css/main.css" type='text/css' media='all' />
+  <link rel='stylesheet'  href="{{site.baseurl}}/css/style.css" type='text/css' media='all' />
+  <script type='text/javascript' src='{{site.baseurl}}/js/modernizr-2.6.2.min.js'></script>
+  <script type='text/javascript' src='{{site.baseurl}}/js/jquery.js'></script>
+  <script type='text/javascript' src='{{site.baseurl}}/js/jquery-migrate.min.js'></script>
+</head>
+<body class="home blog group-blog">
+  <div id="page" class="hfeed site">
+    <div class="container clearfix">
+      <div id="navigation" class="site-nav">
+        <div class="site-nav-inner">
+          <div class="container">
+            <header id="masthead" class="site-header" role="banner">
+              <h1 class="site-title display-logo">
+                <a href="index.html" title="DW Minion" rel="home">
+                  <img alt="DW Minion" src="{{site.logo}}" />
+                </a>
+              </h1>
+              <p class="site-subtitle">
+                {{site.title}}
+              </p>
+              <h2 class="site-description">{{site.description}}</h2>
+            </header>
+            <div id="main-sidebar" class="widget-area" role="complementary">
+              <aside id="nav_menu-2" class="widget widget_nav_menu">
+                <div class="menu-main-menu-container">
+                  <ul id="menu-main-menu" class="menu">
+                    {% for link in site.navigation %}
+                    {% assign current = page.url | replace: '/',  '' %}
+                    <li id="menu-item-143" class="menu-item {% if link.title contains page.title  %} current_page_item {% elsif page.url == '/index.html' and link.url == '/' %} current_page_item {% endif %}">
+                      <a href="{{link.url}}">{{link.title}}</a>
+                    </li>
+                    {% endfor %}
+                  </ul>
+                </aside>
+              </div>        </div>
+            </div>
+          </div>
+
+          <div id="actions" class="site-actions clearfix">
+            <div class="action show-site-nav">
+              <i class="icon-reorder"></i>
+            </div>
+            <div class="action devider">
+            </div> 
+            {% if site.social_icons == true %}    
+            <div class="clearfix actions">
+              <a class="back-top action" href="#page"><i class="icon-chevron-up"></i></a>
+              <div class="action socials">
+                <i class="icon-link active-socials"></i>
+                <ul class="unstyled list-socials clearfix" style="width: 200px;">
+                  {% for soc in site.social %}
+                  <li class="social">
+                    <a href="{{soc.url}}"><i class="{{soc.icon_class}}"></i></a>
+                  </li>          
+                  {% endfor %}
+                </ul>          
+              </div>
+            </div>
+            <!-- actions --> 
+            {% endif %}
+          </div>
+          <!-- site-actions -->

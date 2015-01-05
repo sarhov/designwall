@@ -2,22 +2,50 @@
 layout: default
 ---
 
-<div class="home">
+      <div id="primary" class="content-area">
+        <div class="primary-inner">
+          <div id="content" class="site-content content-list" role="main">
+            {% for post in site.posts %}
 
-  <h1 class="page-heading">Posts</h1>
+            <article id="post-33" class="post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping">
+              <header class="entry-header">
+                <h2 class="entry-title">
+                  <a href="{{post.url}}" rel="bookmark">{{post.title}}</a></h2>   
+                  <div class="entry-meta"><span class="byline">By <span class="author vcard">{{post.author}}</span></span>
+                    <span class="sep"><span class="post-format"><i class="icon-file-text"></i></span></span>
+                    <span class="posted-on">
+                      <a href="{{post.url}}" title="12:00 am" rel="bookmark"><i class="icon-calendar-empty"></i> 
+                       <time class="entry-date published" datetime="{{post.date}}">{{post.date | date: "%B,  %-d %Y"}}</time>
+                     </a>
+                   </span>
+                 </div>  </header>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+                 <div class="entry-thumbnail">
+                  <a href="http://demo.designwall.com/dw-minion/?p=33" rel="bookmark">
+                    <img width="620" height="350" src="{{site.baseurl}}/img/{{post.img}}" class="attachment-post-thumbnail wp-post-image" alt="{{post.title}}" />
+                  </a>
+                </div>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+                <div class="entry-content"> 
+                  <p>
+                    {{post.excerpt}}
+                    <a href="{{post.url}}" class="more-link"><span class="btn btn-small">{{site.more_text}}</span></a></p>
+                  </div>
+                </article> 
+                <!-- article -->
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+                {% endfor %}
 
-</div>
+
+                <nav role="navigation" id="nav-below" class="paging-navigation pager">
+                  <div class="nav-previous">
+                    <span class="btn disabled"><i class="icon-chevron-left"></i></span>
+                  </div>
+                  <div class="nav-next">
+                    <a href="http://demo.designwall.com/dw-minion/?paged=2" ><span class="meta-nav btn"><i class="icon-chevron-right"></i></span></a>         </div>
+                </nav>
+
+
+                </div>
+              </div>
+            </div>
