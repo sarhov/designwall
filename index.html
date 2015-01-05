@@ -42,7 +42,7 @@ layout: default
 
             {% if paginator.previous_page %}
             <div class="nav-previous">
-             <a href="{{ paginator.previous_page_path }}" ><span class="meta-nav btn"><i class="icon-chevron-left"></i></span></a>    
+             <a href="{{site.baseurl}}{{ paginator.previous_page_path }}" ><span class="meta-nav btn"><i class="icon-chevron-left"></i></span></a>    
            </div>  
            {% else %}
            
@@ -56,7 +56,7 @@ layout: default
 
           {% if paginator.next_page %}
           <div class="nav-next">
-            <a href="{{ paginator.next_page_path }}" ><span class="meta-nav btn"><i class="icon-chevron-right"></i></span></a>         
+            <a href="{{site.baseurl}}{{ paginator.next_page_path }}" ><span class="meta-nav btn"><i class="icon-chevron-right"></i></span></a>         
 
             </div>
 

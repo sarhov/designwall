@@ -35,7 +35,7 @@
                     {% for link in site.navigation %}
                     {% assign current = page.url | replace: '/',  '' %}
                     <li id="menu-item-143" class="menu-item {% if link.title contains page.title  %} current_page_item {% elsif page.url == '/index.html' and link.url == '/' %} current_page_item {% endif %}">
-                      <a href="{{link.url}}">{{link.title}}</a>
+                      <a href="{{site.baseurl}}{{link.url}}">{{link.title}}</a>
                     </li>
                     {% endfor %}
                   </ul>
