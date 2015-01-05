@@ -4,25 +4,32 @@
   <div class="site-main-inner">
     <div class="container clearfix">
 
-            {{content}}
+      {{content}}
 
 
-            <div id="secondary" class="widget-area" role="complementary">
-              <aside id="text-4" class="widget widget_text">      <div class="textwidget"><ul class="ads-125">
-                <li><a href="http://bit.ly/tf-wallclassic"><img alt="demo" src="http://demo.designwall.com/dw-minion/wp-content/uploads/ad-2.gif"></a></li>
-                <li><a href="http://bit.ly/tf-wallclassic"><img alt="demo" src="http://demo.designwall.com/dw-minion/wp-content/uploads/ad-2.gif"></a></li>
-                <li><a href="http://bit.ly/tf-wallclassic"><img alt="demo" src="http://demo.designwall.com/dw-minion/wp-content/uploads/ad-2.gif"></a></li>
-                <li><a href="http://bit.ly/tf-wallclassic"><img alt="demo" src="http://demo.designwall.com/dw-minion/wp-content/uploads/ad-2.gif"></a></li>
-              </ul></div>
-            </aside>
-            <aside id="text-2" class="widget widget_text">      
-              <div class="textwidget">
-                <a href="http://bit.ly/tf-wallclassic"><img src="http://demo.designwall.com/dw-minion/wp-content/uploads/ad-1.jpg" alt="" /></a>
-              </div>
-            </aside>
-          </div>    
-          <!-- secondary  -->
+      <div id="secondary" class="widget-area" role="complementary">
+        {% if site.show_small_adds %}
+        <aside id="text-4" class="widget widget_text">      
+          <div class="textwidget"><ul class="ads-125">
+        
+          {% for small_add in site.small_adds %}
+              <li><a href="{{small_add.url}}"><img alt="" src="{{small_add.img}}"></a></li>
+          {% endfor %}
+          </ul>
         </div>
-      </div>
-    </div>
-    {% include footer.html %}
+      </aside> 
+      {% endif %}
+      {% if site.show_big_add %}
+      <aside id="text-2" class="widget widget_text">      
+        <div class="textwidget">
+        <a href="{{site.big__add.url}}"><img src="{{site.big_add.img}}" alt="" /></a>
+        </div>
+      </aside> 
+      {% endif %}
+
+    </div>    
+    <!-- secondary  -->
+  </div>
+</div>
+</div>
+{% include footer.html %}

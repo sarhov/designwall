@@ -19,10 +19,10 @@ navigation:
     url: '/'
     title: 'Home'
   - About:
-    url: 'about-us.html'
+    url: '/about-us.html'
     title: 'About us'
   - Contact:
-    url: 'contact.html'
+    url: '/contact.html'
     title: 'Contact'
 
 
@@ -46,3 +46,34 @@ social:
    url: 'http://linkedin.com'    
    icon_class: 'icon-linkedin'
 
+
+#small adds
+show_small_adds: true
+small_adds:
+ - add1:
+   url: '#'
+   img: '/img/add1.gif'
+ - add2:
+   url: '#'
+   img: '/img/add1.gif'
+
+ - add3:
+   url: '#'
+   img: '/img/add1.gif'
+
+ - add3:
+   url: '#'
+   img: '/img/add1.gif'
+
+
+
+#Big add
+show_big_add: true
+big_add:
+  url: '#'
+  img: '/img/big_add.jpg'
+
+powered:
+ text: 'Proudly powered by'
+ url: '#'
+ title: 'Design Wall'

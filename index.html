@@ -10,11 +10,11 @@ layout: default
             <article id="post-33" class="post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping">
               <header class="entry-header">
                 <h2 class="entry-title">
-                  <a href="{{post.url}}" rel="bookmark">{{post.title}}</a></h2>   
+                  <a href="{{site.baseurl}}{{post.url}}" rel="bookmark">{{post.title}}</a></h2>   
                   <div class="entry-meta"><span class="byline">By <span class="author vcard">{{post.author}}</span></span>
                     <span class="sep"><span class="post-format"><i class="icon-file-text"></i></span></span>
                     <span class="posted-on">
-                      <a href="{{post.url}}" title="12:00 am" rel="bookmark"><i class="icon-calendar-empty"></i> 
+                      <a href="{{site.baseurl}}{{post.url}}" title="12:00 am" rel="bookmark"><i class="icon-calendar-empty"></i> 
                        <time class="entry-date published" datetime="{{post.date}}">{{post.date | date: "%B,  %-d %Y"}}</time>
                      </a>
                    </span>
@@ -29,7 +29,7 @@ layout: default
                 <div class="entry-content"> 
                   <p>
                     {{post.excerpt}}
-                    <a href="{{post.url}}" class="more-link"><span class="btn btn-small">{{site.more_text}}</span></a></p>
+                    <a href="{{site.baseurl}}{{post.url}}" class="more-link"><span class="btn btn-small">{{site.more_text}}</span></a></p>
                   </div>
                 </article> 
                 <!-- article -->
