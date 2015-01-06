@@ -32,15 +32,19 @@
               <aside  class="widget widget_nav_menu">
                 <div class="menu-main-menu-container">
                   <ul id="menu-main-menu" class="menu">
-                    {% for link in site.navigation %}
-                    {% assign current = page.url | replace: '/',  '' %}
-                    <li class="menu-item {% if link.title contains page.title  %} current_page_item {% elsif page.url == '/index.html' and link.url == '/' %} current_page_item {% endif %}">
-                      <a href="{{site.baseurl}}{{link.url}}">{{link.title}}</a>
+                   <li class="menu-item {% if page.url == '/index.html'  %} current_page_item {% endif %}">
+                      <a href="{% if site.baseurl == '' %} / {% else %}{{site.baseurl}} {% endif %}">{{site.home-page-text}}</a>
+                    </li>
+                    {% assign current = page.url %}
+                    {% for page in site.pages %}
+                    <li class="menu-item {% if page.url  == current %} current_page_item {% endif %}">
+                      <a href="{{site.baseurl}}{{page.url}}">{{page.title}}</a>
                     </li>
                     {% endfor %}
                   </ul>
                 </aside>
-              </div>        </div>
+              </div>       
+               </div>
             </div>
           </div>
 
@@ -50,21 +54,47 @@
             </div>
             <div class="action devider">
             </div> 
-            {% if site.social_icons == true %}    
-            <div class="clearfix actions">
+            
+            {% assign show_social = false %}
+              
+            
+              {% if site.social-facebook != '' or if site.social-twitter != '' or if site.social-google-plus != '' or if site.social-youtube != '' or if site.social-linkedin != ''%}
+              {% assign show_social = true%}
+              {% endif %} 
+              {% if show_social %}
+              <div class="clearfix actions">
               <a class="back-top action" href="#page"><i class="icon-chevron-up"></i></a>
               <div class="action socials">
                 <i class="icon-link active-socials"></i>
                 <ul class="unstyled list-socials clearfix" style="width: 200px;">
-                  {% for soc in site.social %}
-                  <li class="social">
-                    <a href="{{soc.url}}"><i class="{{soc.icon_class}}"></i></a>
-                  </li>          
-                  {% endfor %}
+
+                  {% if site.social-facebook != '' %}
+                      
+                  <li class="social"> <a href="{{site.social-facebook}}"><i class="icon-facebook"></i></a> </li>
+                  {% endif %}
+                  {% if site.social-twitter != '' %}
+                      
+                  <li class="social"> <a href="{{site.social-twitter}}"><i class="icon-twitter"></i></a> </li>
+                  {% endif %}
+                  {% if site.social-google-plus != '' %}
+                      
+                  <li class="social"> <a href="{{site.social-google-plus}}"><i class="icon-google-plus"></i></a> </li>
+                  {% endif %}
+                  {% if site.social-youtube != '' %}
+                      
+                  <li class="social"> <a href="{{site.social-youtube}}"><i class="icon-youtube"></i></a> </li>
+                  {% endif %}
+                  {% if site.social-linkedin != '' %}
+                      
+                  <li class="social"> <a href="{{site.social-linkedin}}"><i class="icon-linkedin"></i></a> </li>
+                  {% endif %}
+
                 </ul>          
               </div>
             </div>
             <!-- actions --> 
-            {% endif %}
+              {% endif %}
+
+         
           </div>
           <!-- site-actions -->

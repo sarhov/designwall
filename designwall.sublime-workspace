@@ -347,191 +347,7 @@
 			"file": "_layouts/default.html",
 			"settings":
 			{
-				"buffer_size": 967,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 2680,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2015-01-03-welcome-to-jekyll - Copy (2) - Copy - Copy - Copy.markdown",
-			"settings":
-			{
-				"buffer_size": 1220,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_posts/2015-01-03-welcome-to-jekyll - Copy (2) - Copy - Copy.markdown",
-			"settings":
-			{
-				"buffer_size": 1237,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_posts/2015-01-03-welcome-to-jekyll - Copy (2) - Copy.markdown",
-			"settings":
-			{
-				"buffer_size": 1234,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_posts/2015-01-03-welcome-to-jekyll - Copy (2).markdown",
-			"settings":
-			{
-				"buffer_size": 1228,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_posts/2015-01-03-welcome-to-jekyll - Copy (3) - Copy - Copy.markdown",
-			"settings":
-			{
-				"buffer_size": 1237,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_posts/2015-01-03-welcome-to-jekyll - Copy (3) - Copy.markdown",
-			"settings":
-			{
-				"buffer_size": 1224,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_posts/2015-01-03-welcome-to-jekyll - Copy (3).markdown",
-			"settings":
-			{
-				"buffer_size": 1231,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_posts/2015-01-03-welcome-to-jekyll - Copy (4) - Copy.markdown",
-			"settings":
-			{
-				"buffer_size": 1225,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_posts/2015-01-03-welcome-to-jekyll - Copy (4).markdown",
-			"settings":
-			{
-				"buffer_size": 1225,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_posts/2015-01-03-welcome-to-jekyll - Copy.markdown",
-			"settings":
-			{
-				"buffer_size": 1234,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_posts/2015-01-03-welcome-to-jekyll - Copy - Copy.markdown",
-			"settings":
-			{
-				"buffer_size": 1224,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_posts/2015-01-03-welcome-to-jekyll - Copy - Copy - Copy.markdown",
-			"settings":
-			{
-				"buffer_size": 1229,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_posts/2015-01-03-welcome-to-jekyll - Copy - Copy - Copy - Copy.markdown",
-			"settings":
-			{
-				"buffer_size": 1222,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_posts/2015-01-03-welcome-to-jekyll - Copy - Copy - Copy - Copy - Copy.markdown",
-			"settings":
-			{
-				"buffer_size": 1224,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_posts/2015-01-03-welcome-to-jekyll - Copy - Copy - Copy - Copy (2).markdown",
-			"settings":
-			{
-				"buffer_size": 1237,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_posts/2015-01-03-welcome-to-jekyll - Copy - Copy - Copy (2).markdown",
-			"settings":
-			{
-				"buffer_size": 1235,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_posts/2015-01-03-welcome-to-jekyll - Copy (4) - Copy - Copy.markdown",
-			"settings":
-			{
-				"buffer_size": 1236,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_posts/2015-01-03-welcome-to-jekyll - Copy (5) - Copy.markdown",
-			"settings":
-			{
-				"buffer_size": 1233,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_posts/2015-01-03-welcome-to-jekyll - Copy - Copy (2).markdown",
-			"settings":
-			{
-				"buffer_size": 1225,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_layouts/post.html",
-			"settings":
-			{
-				"buffer_size": 3275,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "feed.xml",
-			"settings":
-			{
-				"buffer_size": 1291,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/main.css",
-			"settings":
-			{
-				"buffer_size": 144064,
+				"buffer_size": 1251,
 				"line_ending": "Unix"
 			}
 		},
@@ -539,8 +355,26 @@
 			"file": "_layouts/page.html",
 			"settings":
 			{
-				"buffer_size": 833,
+				"buffer_size": 540,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 89 files for \"DW\"\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\css\\fontawesome-webfont.woff:\n    <binary>\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\css\\FontAwesome.otf:\n    <binary>\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\css\\main.css:\n 4403    border: 0;\n 4404  }\n 4405: .dw_twitter .tweet-item:before {\n 4406    content: \"\";\n 4407    width: 40px;\n ....\n 4411    margin: 20px 0;\n 4412  }\n 4413: .dw_twitter .tweet-item:first-child:before {\n 4414    display: none;\n 4415  }\n 4416: .dw_twitter .tweet-item .twitter-user {\n 4417    margin-bottom: 10px;\n 4418  }\n 4419: .dw_twitter .twitter-user {\n 4420    display: block;\n 4421  }\n 4422: .dw_twitter .twitter-user img {\n 4423    -webkit-border-radius: 500px;\n 4424    -moz-border-radius: 500px;\n ....\n 4426    margin-top: -5px;\n 4427  }\n 4428: .dw_twitter .tweet-content a {\n 4429    color: #7cc576;\n 4430  }\n 4431: .dw_twitter .time {\n 4432    display: block;\n 4433    text-transform: uppercase;\n ....\n 4435    margin-top: 5px;\n 4436  }\n 4437: .dw_twitter .time a {\n 4438    color: #aaaaaa;\n 4439  }\n 4440: .dw_twitter .twitter-follow-button {\n 4441    margin-top: 10px;\n 4442  }\n 4443: .dw_twitter .tweet-item + .twitter-user {\n 4444    margin-top: 10px;\n 4445  }\n 4446: .dw_twitter .tweet-item + .twitter-user .twitter-follow-button {\n 4447    margin-top: 10px;\n 4448  }\n ....\n 4476    margin-top: 5px;\n 4477  }\n 4478: .dw_accordion .accordion-inner .widget-title {\n 4479    display: none;\n 4480  }\n 4481: .dw_tabs .widget-title {\n 4482    display: none;\n 4483  }\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\css\\style.css:\n    1  /*\n    2: Theme Name: DW Minion\n    3: Theme URI: http://www.designwall.com/wordpress/themes/dw-minion/\n    4  Author: DesignWall\n    5  Author URI: http://www.designwall.com/\n    6: Description: DW Minion is a simple and clean WordPress Blog Theme. This theme is designed which aims for a minimal and simple blog while showing off the most of your content. DW Minion supports responsive design and it’s great to blog anytime anywhere you want. Social sharing is focused and various post formats are supported. The theme is available for free, so grab it and start blogging.\n    7  Version: 1.1.7\n    8  License: GNU General Public License v3.0\n    9  License URI: http://www.gnu.org/licenses/gpl-3.0.html\n   10  Tags: green, light, white, three-columns, left-sidebar, right-sidebar, flexible-width, featured-images, threaded-comments, translation-ready\n   11: Text Domain: dw-minion\n   12  \n   13: DW Minion WordPress theme, Copyright (C) 2013 DesignWall\n   14: DW Minion WordPress theme is licensed under the GPL v3.0\n   15  */\n   16  \n   ..\n   20  \n   21  @media (max-width: 1200px) {\n   22:   .dwqa-container {\n   23      margin-bottom: 20px;\n   24    }\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\js\\main.js:\n   59    });\n   60    // Social share\n   61:   $('[class*=\"dw-share-\"]').click(function() {\n   62    var newwindow = window.open($(this).prop('href'), '', 'height=340,width=800');\n   63    if (window.focus) newwindow.focus();\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\css\\fontawesome-webfont.woff:\n    <binary>\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\css\\FontAwesome.otf:\n    <binary>\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\css\\main.css:\n 4403    border: 0;\n 4404  }\n 4405: .dw_twitter .tweet-item:before {\n 4406    content: \"\";\n 4407    width: 40px;\n ....\n 4411    margin: 20px 0;\n 4412  }\n 4413: .dw_twitter .tweet-item:first-child:before {\n 4414    display: none;\n 4415  }\n 4416: .dw_twitter .tweet-item .twitter-user {\n 4417    margin-bottom: 10px;\n 4418  }\n 4419: .dw_twitter .twitter-user {\n 4420    display: block;\n 4421  }\n 4422: .dw_twitter .twitter-user img {\n 4423    -webkit-border-radius: 500px;\n 4424    -moz-border-radius: 500px;\n ....\n 4426    margin-top: -5px;\n 4427  }\n 4428: .dw_twitter .tweet-content a {\n 4429    color: #7cc576;\n 4430  }\n 4431: .dw_twitter .time {\n 4432    display: block;\n 4433    text-transform: uppercase;\n ....\n 4435    margin-top: 5px;\n 4436  }\n 4437: .dw_twitter .time a {\n 4438    color: #aaaaaa;\n 4439  }\n 4440: .dw_twitter .twitter-follow-button {\n 4441    margin-top: 10px;\n 4442  }\n 4443: .dw_twitter .tweet-item + .twitter-user {\n 4444    margin-top: 10px;\n 4445  }\n 4446: .dw_twitter .tweet-item + .twitter-user .twitter-follow-button {\n 4447    margin-top: 10px;\n 4448  }\n ....\n 4476    margin-top: 5px;\n 4477  }\n 4478: .dw_accordion .accordion-inner .widget-title {\n 4479    display: none;\n 4480  }\n 4481: .dw_tabs .widget-title {\n 4482    display: none;\n 4483  }\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\css\\style.css:\n    1  /*\n    2: Theme Name: DW Minion\n    3: Theme URI: http://www.designwall.com/wordpress/themes/dw-minion/\n    4  Author: DesignWall\n    5  Author URI: http://www.designwall.com/\n    6: Description: DW Minion is a simple and clean WordPress Blog Theme. This theme is designed which aims for a minimal and simple blog while showing off the most of your content. DW Minion supports responsive design and it’s great to blog anytime anywhere you want. Social sharing is focused and various post formats are supported. The theme is available for free, so grab it and start blogging.\n    7  Version: 1.1.7\n    8  License: GNU General Public License v3.0\n    9  License URI: http://www.gnu.org/licenses/gpl-3.0.html\n   10  Tags: green, light, white, three-columns, left-sidebar, right-sidebar, flexible-width, featured-images, threaded-comments, translation-ready\n   11: Text Domain: dw-minion\n   12  \n   13: DW Minion WordPress theme, Copyright (C) 2013 DesignWall\n   14: DW Minion WordPress theme is licensed under the GPL v3.0\n   15  */\n   16  \n   ..\n   20  \n   21  @media (max-width: 1200px) {\n   22:   .dwqa-container {\n   23      margin-bottom: 20px;\n   24    }\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\js\\main.js:\n   59    });\n   60    // Social share\n   61:   $('[class*=\"dw-share-\"]').click(function() {\n   62    var newwindow = window.open($(this).prop('href'), '', 'height=340,width=800');\n   63    if (window.focus) newwindow.focus();\n\n62 matches across 10 files\n\n\nSearching 89 files for \"id=\"\"\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\index.html:\n    3  ---\n    4  \n    5: <div id=\"primary\" class=\"content-area\">\n    6    <div class=\"primary-inner\">\n    7:     <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n    8        {% for post in paginator.posts %}\n    9  \n   ..\n   39            {% if paginator.total_pages > 1 %}\n   40  \n   41:           <nav role=\"navigation\" id=\"nav-below\" class=\"paging-navigation pager\">\n   42  \n   43              {% if paginator.previous_page %}\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_includes\\footer.html:\n    1   \n    2: <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n    3    <div class=\"container\">\n    4      <div class=\"site-info\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_includes\\header.html:\n   13  </head>\n   14  <body class=\"home blog group-blog\">\n   15:   <div id=\"page\" class=\"hfeed site\">\n   16      <div class=\"container clearfix\">\n   17:       <div id=\"navigation\" class=\"site-nav\">\n   18          <div class=\"site-nav-inner\">\n   19            <div class=\"container\">\n   20:             <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n   21                <h1 class=\"site-title display-logo\">\n   22                <a href=\"/\" title=\"{{site.title}}\" rel=\"home\">\n   ..\n   29                <h2 class=\"site-description\">{{site.description}}</h2>\n   30              </header>\n   31:             <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n   32                <aside  class=\"widget widget_nav_menu\">\n   33                  <div class=\"menu-main-menu-container\">\n   34:                   <ul id=\"menu-main-menu\" class=\"menu\">\n   35                      {% for link in site.navigation %}\n   36                      {% assign current = page.url | replace: '/',  '' %}\n   ..\n   45            </div>\n   46  \n   47:           <div id=\"actions\" class=\"site-actions clearfix\">\n   48              <div class=\"action show-site-nav\">\n   49                <i class=\"icon-reorder\"></i>\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_layouts\\default.html:\n    1  {% include header.html %}\n    2  \n    3: <div id=\"main\" class=\"site-main\">\n    4    <div class=\"site-main-inner\">\n    5      <div class=\"container clearfix\">\n    .\n   13        {% endif %}\n   14        {% endfor %}\n   15:       <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n   16          {% if show_smallads %}\n   17  \n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_layouts\\page.html:\n    4  <div class=\"post\">\n    5  \n    6:    <div id=\"primary\" class=\"content-area\">\n    7          <div class=\"primary-inner\">\n    8:           <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n    9           \n   10  \n   11:             <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n   12                <header class=\"entry-header\">\n   13                  <header class=\"page-header\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_layouts\\post.html:\n    5  \n    6  \n    7: <div id=\"primary\" class=\"content-area\">\n    8    <div class=\"primary-inner\">\n    9:     <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n   10  \n   11  \n   12:       <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n   13          <header class=\"entry-header\">\n   14            <h2 class=\"entry-title\">\n   ..\n   34          <!-- article -->\n   35          {% if page.previous != nil or page.next != nil %}\n   36:         <nav role=\"navigation\" id=\"nav-below\" class=\"paging-navigation pager\">\n   37            {% if page.previous != nil %}\n   38            <div class=\"nav-previous\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\about-us.html:\n   13  </head>\n   14  <body class=\"home blog group-blog\">\n   15:   <div id=\"page\" class=\"hfeed site\">\n   16      <div class=\"container clearfix\">\n   17:       <div id=\"navigation\" class=\"site-nav\">\n   18          <div class=\"site-nav-inner\">\n   19            <div class=\"container\">\n   20:             <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n   21                <h1 class=\"site-title display-logo\">\n   22                <a href=\"/\" title=\"Design Wall Template\" rel=\"home\">\n   ..\n   30  </h2>\n   31              </header>\n   32:             <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n   33                <aside  class=\"widget widget_nav_menu\">\n   34                  <div class=\"menu-main-menu-container\">\n   35:                   <ul id=\"menu-main-menu\" class=\"menu\">\n   36                      \n   37                      \n   ..\n   56            </div>\n   57  \n   58:           <div id=\"actions\" class=\"site-actions clearfix\">\n   59              <div class=\"action show-site-nav\">\n   60                <i class=\"icon-reorder\"></i>\n   ..\n   97            <!-- site-actions -->\n   98  \n   99: <div id=\"main\" class=\"site-main\">\n  100    <div class=\"site-main-inner\">\n  101      <div class=\"container clearfix\">\n  ...\n  103        <div class=\"post\">\n  104  \n  105:    <div id=\"primary\" class=\"content-area\">\n  106          <div class=\"primary-inner\">\n  107:           <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n  108           \n  109  \n  110:             <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n  111                <header class=\"entry-header\">\n  112                  <header class=\"page-header\">\n  ...\n  206        \n  207        \n  208:       <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n  209          \n  210  \n  ...\n  249  </div>\n  250   \n  251: <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n  252    <div class=\"container\">\n  253      <div class=\"site-info\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\contact.html:\n   13  </head>\n   14  <body class=\"home blog group-blog\">\n   15:   <div id=\"page\" class=\"hfeed site\">\n   16      <div class=\"container clearfix\">\n   17:       <div id=\"navigation\" class=\"site-nav\">\n   18          <div class=\"site-nav-inner\">\n   19            <div class=\"container\">\n   20:             <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n   21                <h1 class=\"site-title display-logo\">\n   22                <a href=\"/\" title=\"Design Wall Template\" rel=\"home\">\n   ..\n   30  </h2>\n   31              </header>\n   32:             <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n   33                <aside  class=\"widget widget_nav_menu\">\n   34                  <div class=\"menu-main-menu-container\">\n   35:                   <ul id=\"menu-main-menu\" class=\"menu\">\n   36                      \n   37                      \n   ..\n   56            </div>\n   57  \n   58:           <div id=\"actions\" class=\"site-actions clearfix\">\n   59              <div class=\"action show-site-nav\">\n   60                <i class=\"icon-reorder\"></i>\n   ..\n   97            <!-- site-actions -->\n   98  \n   99: <div id=\"main\" class=\"site-main\">\n  100    <div class=\"site-main-inner\">\n  101      <div class=\"container clearfix\">\n  ...\n  103        <div class=\"post\">\n  104  \n  105:    <div id=\"primary\" class=\"content-area\">\n  106          <div class=\"primary-inner\">\n  107:           <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n  108           \n  109  \n  110:             <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n  111                <header class=\"entry-header\">\n  112                  <header class=\"page-header\">\n  ...\n  160        \n  161        \n  162:       <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n  163          \n  164  \n  ...\n  203  </div>\n  204   \n  205: <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n  206    <div class=\"container\">\n  207      <div class=\"site-info\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\index.html:\n   13  </head>\n   14  <body class=\"home blog group-blog\">\n   15:   <div id=\"page\" class=\"hfeed site\">\n   16      <div class=\"container clearfix\">\n   17:       <div id=\"navigation\" class=\"site-nav\">\n   18          <div class=\"site-nav-inner\">\n   19            <div class=\"container\">\n   20:             <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n   21                <h1 class=\"site-title display-logo\">\n   22                <a href=\"/\" title=\"Design Wall Template\" rel=\"home\">\n   ..\n   30  </h2>\n   31              </header>\n   32:             <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n   33                <aside  class=\"widget widget_nav_menu\">\n   34                  <div class=\"menu-main-menu-container\">\n   35:                   <ul id=\"menu-main-menu\" class=\"menu\">\n   36                      \n   37                      \n   ..\n   56            </div>\n   57  \n   58:           <div id=\"actions\" class=\"site-actions clearfix\">\n   59              <div class=\"action show-site-nav\">\n   60                <i class=\"icon-reorder\"></i>\n   ..\n   97            <!-- site-actions -->\n   98  \n   99: <div id=\"main\" class=\"site-main\">\n  100    <div class=\"site-main-inner\">\n  101      <div class=\"container clearfix\">\n  102  \n  103:       <div id=\"primary\" class=\"content-area\">\n  104    <div class=\"primary-inner\">\n  105:     <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n  106        \n  107  \n  ...\n  418            \n  419  \n  420:           <nav role=\"navigation\" id=\"nav-below\" class=\"paging-navigation pager\">\n  421  \n  422              \n  ...\n  463        \n  464        \n  465:       <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n  466          \n  467  \n  ...\n  506  </div>\n  507   \n  508: <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n  509    <div class=\"container\">\n  510      <div class=\"site-info\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\2015\\01\\04\\welcome-to-jekyll - Copy (2) - Copy - Copy - Copy.html:\n   13  </head>\n   14  <body class=\"home blog group-blog\">\n   15:   <div id=\"page\" class=\"hfeed site\">\n   16      <div class=\"container clearfix\">\n   17:       <div id=\"navigation\" class=\"site-nav\">\n   18          <div class=\"site-nav-inner\">\n   19            <div class=\"container\">\n   20:             <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n   21                <h1 class=\"site-title display-logo\">\n   22                <a href=\"/\" title=\"Design Wall Template\" rel=\"home\">\n   ..\n   30  </h2>\n   31              </header>\n   32:             <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n   33                <aside  class=\"widget widget_nav_menu\">\n   34                  <div class=\"menu-main-menu-container\">\n   35:                   <ul id=\"menu-main-menu\" class=\"menu\">\n   36                      \n   37                      \n   ..\n   56            </div>\n   57  \n   58:           <div id=\"actions\" class=\"site-actions clearfix\">\n   59              <div class=\"action show-site-nav\">\n   60                <i class=\"icon-reorder\"></i>\n   ..\n   97            <!-- site-actions -->\n   98  \n   99: <div id=\"main\" class=\"site-main\">\n  100    <div class=\"site-main-inner\">\n  101      <div class=\"container clearfix\">\n  102  \n  103:       <div id=\"primary\" class=\"content-area\">\n  104    <div class=\"primary-inner\">\n  105:     <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n  106  \n  107  \n  108:       <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n  109          <header class=\"entry-header\">\n  110            <h2 class=\"entry-title\">\n  ...\n  144          <!-- article -->\n  145          \n  146:         <nav role=\"navigation\" id=\"nav-below\" class=\"paging-navigation pager\">\n  147            \n  148            <div class=\"nav-previous\">\n  ...\n  260        \n  261        \n  262:       <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n  263          \n  264  \n  ...\n  303  </div>\n  304   \n  305: <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n  306    <div class=\"container\">\n  307      <div class=\"site-info\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\2015\\01\\04\\welcome-to-jekyll - Copy (2) - Copy - Copy.html:\n   13  </head>\n   14  <body class=\"home blog group-blog\">\n   15:   <div id=\"page\" class=\"hfeed site\">\n   16      <div class=\"container clearfix\">\n   17:       <div id=\"navigation\" class=\"site-nav\">\n   18          <div class=\"site-nav-inner\">\n   19            <div class=\"container\">\n   20:             <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n   21                <h1 class=\"site-title display-logo\">\n   22                <a href=\"/\" title=\"Design Wall Template\" rel=\"home\">\n   ..\n   30  </h2>\n   31              </header>\n   32:             <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n   33                <aside  class=\"widget widget_nav_menu\">\n   34                  <div class=\"menu-main-menu-container\">\n   35:                   <ul id=\"menu-main-menu\" class=\"menu\">\n   36                      \n   37                      \n   ..\n   56            </div>\n   57  \n   58:           <div id=\"actions\" class=\"site-actions clearfix\">\n   59              <div class=\"action show-site-nav\">\n   60                <i class=\"icon-reorder\"></i>\n   ..\n   97            <!-- site-actions -->\n   98  \n   99: <div id=\"main\" class=\"site-main\">\n  100    <div class=\"site-main-inner\">\n  101      <div class=\"container clearfix\">\n  102  \n  103:       <div id=\"primary\" class=\"content-area\">\n  104    <div class=\"primary-inner\">\n  105:     <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n  106  \n  107  \n  108:       <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n  109          <header class=\"entry-header\">\n  110            <h2 class=\"entry-title\">\n  ...\n  144          <!-- article -->\n  145          \n  146:         <nav role=\"navigation\" id=\"nav-below\" class=\"paging-navigation pager\">\n  147            \n  148            <div class=\"nav-previous\">\n  ...\n  260        \n  261        \n  262:       <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n  263          \n  264  \n  ...\n  303  </div>\n  304   \n  305: <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n  306    <div class=\"container\">\n  307      <div class=\"site-info\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\2015\\01\\04\\welcome-to-jekyll - Copy (2) - Copy.html:\n   13  </head>\n   14  <body class=\"home blog group-blog\">\n   15:   <div id=\"page\" class=\"hfeed site\">\n   16      <div class=\"container clearfix\">\n   17:       <div id=\"navigation\" class=\"site-nav\">\n   18          <div class=\"site-nav-inner\">\n   19            <div class=\"container\">\n   20:             <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n   21                <h1 class=\"site-title display-logo\">\n   22                <a href=\"/\" title=\"Design Wall Template\" rel=\"home\">\n   ..\n   30  </h2>\n   31              </header>\n   32:             <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n   33                <aside  class=\"widget widget_nav_menu\">\n   34                  <div class=\"menu-main-menu-container\">\n   35:                   <ul id=\"menu-main-menu\" class=\"menu\">\n   36                      \n   37                      \n   ..\n   56            </div>\n   57  \n   58:           <div id=\"actions\" class=\"site-actions clearfix\">\n   59              <div class=\"action show-site-nav\">\n   60                <i class=\"icon-reorder\"></i>\n   ..\n   97            <!-- site-actions -->\n   98  \n   99: <div id=\"main\" class=\"site-main\">\n  100    <div class=\"site-main-inner\">\n  101      <div class=\"container clearfix\">\n  102  \n  103:       <div id=\"primary\" class=\"content-area\">\n  104    <div class=\"primary-inner\">\n  105:     <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n  106  \n  107  \n  108:       <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n  109          <header class=\"entry-header\">\n  110            <h2 class=\"entry-title\">\n  ...\n  144          <!-- article -->\n  145          \n  146:         <nav role=\"navigation\" id=\"nav-below\" class=\"paging-navigation pager\">\n  147            \n  148            <div class=\"nav-previous\">\n  ...\n  260        \n  261        \n  262:       <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n  263          \n  264  \n  ...\n  303  </div>\n  304   \n  305: <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n  306    <div class=\"container\">\n  307      <div class=\"site-info\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\2015\\01\\04\\welcome-to-jekyll - Copy (2).html:\n   13  </head>\n   14  <body class=\"home blog group-blog\">\n   15:   <div id=\"page\" class=\"hfeed site\">\n   16      <div class=\"container clearfix\">\n   17:       <div id=\"navigation\" class=\"site-nav\">\n   18          <div class=\"site-nav-inner\">\n   19            <div class=\"container\">\n   20:             <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n   21                <h1 class=\"site-title display-logo\">\n   22                <a href=\"/\" title=\"Design Wall Template\" rel=\"home\">\n   ..\n   30  </h2>\n   31              </header>\n   32:             <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n   33                <aside  class=\"widget widget_nav_menu\">\n   34                  <div class=\"menu-main-menu-container\">\n   35:                   <ul id=\"menu-main-menu\" class=\"menu\">\n   36                      \n   37                      \n   ..\n   56            </div>\n   57  \n   58:           <div id=\"actions\" class=\"site-actions clearfix\">\n   59              <div class=\"action show-site-nav\">\n   60                <i class=\"icon-reorder\"></i>\n   ..\n   97            <!-- site-actions -->\n   98  \n   99: <div id=\"main\" class=\"site-main\">\n  100    <div class=\"site-main-inner\">\n  101      <div class=\"container clearfix\">\n  102  \n  103:       <div id=\"primary\" class=\"content-area\">\n  104    <div class=\"primary-inner\">\n  105:     <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n  106  \n  107  \n  108:       <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n  109          <header class=\"entry-header\">\n  110            <h2 class=\"entry-title\">\n  ...\n  144          <!-- article -->\n  145          \n  146:         <nav role=\"navigation\" id=\"nav-below\" class=\"paging-navigation pager\">\n  147            \n  148            <div class=\"nav-previous\">\n  ...\n  260        \n  261        \n  262:       <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n  263          \n  264  \n  ...\n  303  </div>\n  304   \n  305: <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n  306    <div class=\"container\">\n  307      <div class=\"site-info\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\2015\\01\\04\\welcome-to-jekyll - Copy (3) - Copy - Copy.html:\n   13  </head>\n   14  <body class=\"home blog group-blog\">\n   15:   <div id=\"page\" class=\"hfeed site\">\n   16      <div class=\"container clearfix\">\n   17:       <div id=\"navigation\" class=\"site-nav\">\n   18          <div class=\"site-nav-inner\">\n   19            <div class=\"container\">\n   20:             <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n   21                <h1 class=\"site-title display-logo\">\n   22                <a href=\"/\" title=\"Design Wall Template\" rel=\"home\">\n   ..\n   30  </h2>\n   31              </header>\n   32:             <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n   33                <aside  class=\"widget widget_nav_menu\">\n   34                  <div class=\"menu-main-menu-container\">\n   35:                   <ul id=\"menu-main-menu\" class=\"menu\">\n   36                      \n   37                      \n   ..\n   56            </div>\n   57  \n   58:           <div id=\"actions\" class=\"site-actions clearfix\">\n   59              <div class=\"action show-site-nav\">\n   60                <i class=\"icon-reorder\"></i>\n   ..\n   97            <!-- site-actions -->\n   98  \n   99: <div id=\"main\" class=\"site-main\">\n  100    <div class=\"site-main-inner\">\n  101      <div class=\"container clearfix\">\n  102  \n  103:       <div id=\"primary\" class=\"content-area\">\n  104    <div class=\"primary-inner\">\n  105:     <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n  106  \n  107  \n  108:       <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n  109          <header class=\"entry-header\">\n  110            <h2 class=\"entry-title\">\n  ...\n  144          <!-- article -->\n  145          \n  146:         <nav role=\"navigation\" id=\"nav-below\" class=\"paging-navigation pager\">\n  147            \n  148            <div class=\"nav-previous\">\n  ...\n  260        \n  261        \n  262:       <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n  263          \n  264  \n  ...\n  303  </div>\n  304   \n  305: <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n  306    <div class=\"container\">\n  307      <div class=\"site-info\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\2015\\01\\04\\welcome-to-jekyll - Copy (3) - Copy.html:\n   13  </head>\n   14  <body class=\"home blog group-blog\">\n   15:   <div id=\"page\" class=\"hfeed site\">\n   16      <div class=\"container clearfix\">\n   17:       <div id=\"navigation\" class=\"site-nav\">\n   18          <div class=\"site-nav-inner\">\n   19            <div class=\"container\">\n   20:             <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n   21                <h1 class=\"site-title display-logo\">\n   22                <a href=\"/\" title=\"Design Wall Template\" rel=\"home\">\n   ..\n   30  </h2>\n   31              </header>\n   32:             <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n   33                <aside  class=\"widget widget_nav_menu\">\n   34                  <div class=\"menu-main-menu-container\">\n   35:                   <ul id=\"menu-main-menu\" class=\"menu\">\n   36                      \n   37                      \n   ..\n   56            </div>\n   57  \n   58:           <div id=\"actions\" class=\"site-actions clearfix\">\n   59              <div class=\"action show-site-nav\">\n   60                <i class=\"icon-reorder\"></i>\n   ..\n   97            <!-- site-actions -->\n   98  \n   99: <div id=\"main\" class=\"site-main\">\n  100    <div class=\"site-main-inner\">\n  101      <div class=\"container clearfix\">\n  102  \n  103:       <div id=\"primary\" class=\"content-area\">\n  104    <div class=\"primary-inner\">\n  105:     <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n  106  \n  107  \n  108:       <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n  109          <header class=\"entry-header\">\n  110            <h2 class=\"entry-title\">\n  ...\n  144          <!-- article -->\n  145          \n  146:         <nav role=\"navigation\" id=\"nav-below\" class=\"paging-navigation pager\">\n  147            \n  148            <div class=\"nav-previous\">\n  ...\n  260        \n  261        \n  262:       <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n  263          \n  264  \n  ...\n  303  </div>\n  304   \n  305: <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n  306    <div class=\"container\">\n  307      <div class=\"site-info\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\2015\\01\\04\\welcome-to-jekyll - Copy (3).html:\n   13  </head>\n   14  <body class=\"home blog group-blog\">\n   15:   <div id=\"page\" class=\"hfeed site\">\n   16      <div class=\"container clearfix\">\n   17:       <div id=\"navigation\" class=\"site-nav\">\n   18          <div class=\"site-nav-inner\">\n   19            <div class=\"container\">\n   20:             <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n   21                <h1 class=\"site-title display-logo\">\n   22                <a href=\"/\" title=\"Design Wall Template\" rel=\"home\">\n   ..\n   30  </h2>\n   31              </header>\n   32:             <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n   33                <aside  class=\"widget widget_nav_menu\">\n   34                  <div class=\"menu-main-menu-container\">\n   35:                   <ul id=\"menu-main-menu\" class=\"menu\">\n   36                      \n   37                      \n   ..\n   56            </div>\n   57  \n   58:           <div id=\"actions\" class=\"site-actions clearfix\">\n   59              <div class=\"action show-site-nav\">\n   60                <i class=\"icon-reorder\"></i>\n   ..\n   97            <!-- site-actions -->\n   98  \n   99: <div id=\"main\" class=\"site-main\">\n  100    <div class=\"site-main-inner\">\n  101      <div class=\"container clearfix\">\n  102  \n  103:       <div id=\"primary\" class=\"content-area\">\n  104    <div class=\"primary-inner\">\n  105:     <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n  106  \n  107  \n  108:       <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n  109          <header class=\"entry-header\">\n  110            <h2 class=\"entry-title\">\n  ...\n  144          <!-- article -->\n  145          \n  146:         <nav role=\"navigation\" id=\"nav-below\" class=\"paging-navigation pager\">\n  147            \n  148            <div class=\"nav-previous\">\n  ...\n  260        \n  261        \n  262:       <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n  263          \n  264  \n  ...\n  303  </div>\n  304   \n  305: <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n  306    <div class=\"container\">\n  307      <div class=\"site-info\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\2015\\01\\04\\welcome-to-jekyll - Copy (4) - Copy - Copy.html:\n   13  </head>\n   14  <body class=\"home blog group-blog\">\n   15:   <div id=\"page\" class=\"hfeed site\">\n   16      <div class=\"container clearfix\">\n   17:       <div id=\"navigation\" class=\"site-nav\">\n   18          <div class=\"site-nav-inner\">\n   19            <div class=\"container\">\n   20:             <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n   21                <h1 class=\"site-title display-logo\">\n   22                <a href=\"/\" title=\"Design Wall Template\" rel=\"home\">\n   ..\n   30  </h2>\n   31              </header>\n   32:             <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n   33                <aside  class=\"widget widget_nav_menu\">\n   34                  <div class=\"menu-main-menu-container\">\n   35:                   <ul id=\"menu-main-menu\" class=\"menu\">\n   36                      \n   37                      \n   ..\n   56            </div>\n   57  \n   58:           <div id=\"actions\" class=\"site-actions clearfix\">\n   59              <div class=\"action show-site-nav\">\n   60                <i class=\"icon-reorder\"></i>\n   ..\n   97            <!-- site-actions -->\n   98  \n   99: <div id=\"main\" class=\"site-main\">\n  100    <div class=\"site-main-inner\">\n  101      <div class=\"container clearfix\">\n  102  \n  103:       <div id=\"primary\" class=\"content-area\">\n  104    <div class=\"primary-inner\">\n  105:     <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n  106  \n  107  \n  108:       <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n  109          <header class=\"entry-header\">\n  110            <h2 class=\"entry-title\">\n  ...\n  144          <!-- article -->\n  145          \n  146:         <nav role=\"navigation\" id=\"nav-below\" class=\"paging-navigation pager\">\n  147            \n  148            <div class=\"nav-previous\">\n  ...\n  260        \n  261        \n  262:       <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n  263          \n  264  \n  ...\n  303  </div>\n  304   \n  305: <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n  306    <div class=\"container\">\n  307      <div class=\"site-info\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\2015\\01\\04\\welcome-to-jekyll - Copy (4) - Copy.html:\n   13  </head>\n   14  <body class=\"home blog group-blog\">\n   15:   <div id=\"page\" class=\"hfeed site\">\n   16      <div class=\"container clearfix\">\n   17:       <div id=\"navigation\" class=\"site-nav\">\n   18          <div class=\"site-nav-inner\">\n   19            <div class=\"container\">\n   20:             <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n   21                <h1 class=\"site-title display-logo\">\n   22                <a href=\"/\" title=\"Design Wall Template\" rel=\"home\">\n   ..\n   30  </h2>\n   31              </header>\n   32:             <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n   33                <aside  class=\"widget widget_nav_menu\">\n   34                  <div class=\"menu-main-menu-container\">\n   35:                   <ul id=\"menu-main-menu\" class=\"menu\">\n   36                      \n   37                      \n   ..\n   56            </div>\n   57  \n   58:           <div id=\"actions\" class=\"site-actions clearfix\">\n   59              <div class=\"action show-site-nav\">\n   60                <i class=\"icon-reorder\"></i>\n   ..\n   97            <!-- site-actions -->\n   98  \n   99: <div id=\"main\" class=\"site-main\">\n  100    <div class=\"site-main-inner\">\n  101      <div class=\"container clearfix\">\n  102  \n  103:       <div id=\"primary\" class=\"content-area\">\n  104    <div class=\"primary-inner\">\n  105:     <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n  106  \n  107  \n  108:       <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n  109          <header class=\"entry-header\">\n  110            <h2 class=\"entry-title\">\n  ...\n  144          <!-- article -->\n  145          \n  146:         <nav role=\"navigation\" id=\"nav-below\" class=\"paging-navigation pager\">\n  147            \n  148            <div class=\"nav-previous\">\n  ...\n  260        \n  261        \n  262:       <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n  263          \n  264  \n  ...\n  303  </div>\n  304   \n  305: <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n  306    <div class=\"container\">\n  307      <div class=\"site-info\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\2015\\01\\04\\welcome-to-jekyll - Copy (4).html:\n   13  </head>\n   14  <body class=\"home blog group-blog\">\n   15:   <div id=\"page\" class=\"hfeed site\">\n   16      <div class=\"container clearfix\">\n   17:       <div id=\"navigation\" class=\"site-nav\">\n   18          <div class=\"site-nav-inner\">\n   19            <div class=\"container\">\n   20:             <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n   21                <h1 class=\"site-title display-logo\">\n   22                <a href=\"/\" title=\"Design Wall Template\" rel=\"home\">\n   ..\n   30  </h2>\n   31              </header>\n   32:             <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n   33                <aside  class=\"widget widget_nav_menu\">\n   34                  <div class=\"menu-main-menu-container\">\n   35:                   <ul id=\"menu-main-menu\" class=\"menu\">\n   36                      \n   37                      \n   ..\n   56            </div>\n   57  \n   58:           <div id=\"actions\" class=\"site-actions clearfix\">\n   59              <div class=\"action show-site-nav\">\n   60                <i class=\"icon-reorder\"></i>\n   ..\n   97            <!-- site-actions -->\n   98  \n   99: <div id=\"main\" class=\"site-main\">\n  100    <div class=\"site-main-inner\">\n  101      <div class=\"container clearfix\">\n  102  \n  103:       <div id=\"primary\" class=\"content-area\">\n  104    <div class=\"primary-inner\">\n  105:     <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n  106  \n  107  \n  108:       <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n  109          <header class=\"entry-header\">\n  110            <h2 class=\"entry-title\">\n  ...\n  144          <!-- article -->\n  145          \n  146:         <nav role=\"navigation\" id=\"nav-below\" class=\"paging-navigation pager\">\n  147            \n  148            <div class=\"nav-previous\">\n  ...\n  260        \n  261        \n  262:       <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n  263          \n  264  \n  ...\n  303  </div>\n  304   \n  305: <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n  306    <div class=\"container\">\n  307      <div class=\"site-info\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\2015\\01\\04\\welcome-to-jekyll - Copy (5) - Copy.html:\n   13  </head>\n   14  <body class=\"home blog group-blog\">\n   15:   <div id=\"page\" class=\"hfeed site\">\n   16      <div class=\"container clearfix\">\n   17:       <div id=\"navigation\" class=\"site-nav\">\n   18          <div class=\"site-nav-inner\">\n   19            <div class=\"container\">\n   20:             <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n   21                <h1 class=\"site-title display-logo\">\n   22                <a href=\"/\" title=\"Design Wall Template\" rel=\"home\">\n   ..\n   30  </h2>\n   31              </header>\n   32:             <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n   33                <aside  class=\"widget widget_nav_menu\">\n   34                  <div class=\"menu-main-menu-container\">\n   35:                   <ul id=\"menu-main-menu\" class=\"menu\">\n   36                      \n   37                      \n   ..\n   56            </div>\n   57  \n   58:           <div id=\"actions\" class=\"site-actions clearfix\">\n   59              <div class=\"action show-site-nav\">\n   60                <i class=\"icon-reorder\"></i>\n   ..\n   97            <!-- site-actions -->\n   98  \n   99: <div id=\"main\" class=\"site-main\">\n  100    <div class=\"site-main-inner\">\n  101      <div class=\"container clearfix\">\n  102  \n  103:       <div id=\"primary\" class=\"content-area\">\n  104    <div class=\"primary-inner\">\n  105:     <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n  106  \n  107  \n  108:       <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n  109          <header class=\"entry-header\">\n  110            <h2 class=\"entry-title\">\n  ...\n  144          <!-- article -->\n  145          \n  146:         <nav role=\"navigation\" id=\"nav-below\" class=\"paging-navigation pager\">\n  147            \n  148            <div class=\"nav-previous\">\n  ...\n  260        \n  261        \n  262:       <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n  263          \n  264  \n  ...\n  303  </div>\n  304   \n  305: <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n  306    <div class=\"container\">\n  307      <div class=\"site-info\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\2015\\01\\04\\welcome-to-jekyll - Copy - Copy (2).html:\n   13  </head>\n   14  <body class=\"home blog group-blog\">\n   15:   <div id=\"page\" class=\"hfeed site\">\n   16      <div class=\"container clearfix\">\n   17:       <div id=\"navigation\" class=\"site-nav\">\n   18          <div class=\"site-nav-inner\">\n   19            <div class=\"container\">\n   20:             <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n   21                <h1 class=\"site-title display-logo\">\n   22                <a href=\"/\" title=\"Design Wall Template\" rel=\"home\">\n   ..\n   30  </h2>\n   31              </header>\n   32:             <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n   33                <aside  class=\"widget widget_nav_menu\">\n   34                  <div class=\"menu-main-menu-container\">\n   35:                   <ul id=\"menu-main-menu\" class=\"menu\">\n   36                      \n   37                      \n   ..\n   56            </div>\n   57  \n   58:           <div id=\"actions\" class=\"site-actions clearfix\">\n   59              <div class=\"action show-site-nav\">\n   60                <i class=\"icon-reorder\"></i>\n   ..\n   97            <!-- site-actions -->\n   98  \n   99: <div id=\"main\" class=\"site-main\">\n  100    <div class=\"site-main-inner\">\n  101      <div class=\"container clearfix\">\n  102  \n  103:       <div id=\"primary\" class=\"content-area\">\n  104    <div class=\"primary-inner\">\n  105:     <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n  106  \n  107  \n  108:       <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n  109          <header class=\"entry-header\">\n  110            <h2 class=\"entry-title\">\n  ...\n  144          <!-- article -->\n  145          \n  146:         <nav role=\"navigation\" id=\"nav-below\" class=\"paging-navigation pager\">\n  147            \n  148            <div class=\"nav-previous\">\n  ...\n  260        \n  261        \n  262:       <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n  263          \n  264  \n  ...\n  303  </div>\n  304   \n  305: <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n  306    <div class=\"container\">\n  307      <div class=\"site-info\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\2015\\01\\04\\welcome-to-jekyll - Copy - Copy - Copy (2).html:\n   13  </head>\n   14  <body class=\"home blog group-blog\">\n   15:   <div id=\"page\" class=\"hfeed site\">\n   16      <div class=\"container clearfix\">\n   17:       <div id=\"navigation\" class=\"site-nav\">\n   18          <div class=\"site-nav-inner\">\n   19            <div class=\"container\">\n   20:             <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n   21                <h1 class=\"site-title display-logo\">\n   22                <a href=\"/\" title=\"Design Wall Template\" rel=\"home\">\n   ..\n   30  </h2>\n   31              </header>\n   32:             <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n   33                <aside  class=\"widget widget_nav_menu\">\n   34                  <div class=\"menu-main-menu-container\">\n   35:                   <ul id=\"menu-main-menu\" class=\"menu\">\n   36                      \n   37                      \n   ..\n   56            </div>\n   57  \n   58:           <div id=\"actions\" class=\"site-actions clearfix\">\n   59              <div class=\"action show-site-nav\">\n   60                <i class=\"icon-reorder\"></i>\n   ..\n   97            <!-- site-actions -->\n   98  \n   99: <div id=\"main\" class=\"site-main\">\n  100    <div class=\"site-main-inner\">\n  101      <div class=\"container clearfix\">\n  102  \n  103:       <div id=\"primary\" class=\"content-area\">\n  104    <div class=\"primary-inner\">\n  105:     <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n  106  \n  107  \n  108:       <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n  109          <header class=\"entry-header\">\n  110            <h2 class=\"entry-title\">\n  ...\n  144          <!-- article -->\n  145          \n  146:         <nav role=\"navigation\" id=\"nav-below\" class=\"paging-navigation pager\">\n  147            \n  148            <div class=\"nav-previous\">\n  ...\n  260        \n  261        \n  262:       <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n  263          \n  264  \n  ...\n  303  </div>\n  304   \n  305: <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n  306    <div class=\"container\">\n  307      <div class=\"site-info\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\2015\\01\\04\\welcome-to-jekyll - Copy - Copy - Copy - Copy (2).html:\n   13  </head>\n   14  <body class=\"home blog group-blog\">\n   15:   <div id=\"page\" class=\"hfeed site\">\n   16      <div class=\"container clearfix\">\n   17:       <div id=\"navigation\" class=\"site-nav\">\n   18          <div class=\"site-nav-inner\">\n   19            <div class=\"container\">\n   20:             <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n   21                <h1 class=\"site-title display-logo\">\n   22                <a href=\"/\" title=\"Design Wall Template\" rel=\"home\">\n   ..\n   30  </h2>\n   31              </header>\n   32:             <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n   33                <aside  class=\"widget widget_nav_menu\">\n   34                  <div class=\"menu-main-menu-container\">\n   35:                   <ul id=\"menu-main-menu\" class=\"menu\">\n   36                      \n   37                      \n   ..\n   56            </div>\n   57  \n   58:           <div id=\"actions\" class=\"site-actions clearfix\">\n   59              <div class=\"action show-site-nav\">\n   60                <i class=\"icon-reorder\"></i>\n   ..\n   97            <!-- site-actions -->\n   98  \n   99: <div id=\"main\" class=\"site-main\">\n  100    <div class=\"site-main-inner\">\n  101      <div class=\"container clearfix\">\n  102  \n  103:       <div id=\"primary\" class=\"content-area\">\n  104    <div class=\"primary-inner\">\n  105:     <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n  106  \n  107  \n  108:       <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n  109          <header class=\"entry-header\">\n  110            <h2 class=\"entry-title\">\n  ...\n  144          <!-- article -->\n  145          \n  146:         <nav role=\"navigation\" id=\"nav-below\" class=\"paging-navigation pager\">\n  147            \n  148            <div class=\"nav-previous\">\n  ...\n  260        \n  261        \n  262:       <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n  263          \n  264  \n  ...\n  303  </div>\n  304   \n  305: <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n  306    <div class=\"container\">\n  307      <div class=\"site-info\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\2015\\01\\04\\welcome-to-jekyll - Copy - Copy - Copy - Copy - Copy.html:\n   13  </head>\n   14  <body class=\"home blog group-blog\">\n   15:   <div id=\"page\" class=\"hfeed site\">\n   16      <div class=\"container clearfix\">\n   17:       <div id=\"navigation\" class=\"site-nav\">\n   18          <div class=\"site-nav-inner\">\n   19            <div class=\"container\">\n   20:             <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n   21                <h1 class=\"site-title display-logo\">\n   22                <a href=\"/\" title=\"Design Wall Template\" rel=\"home\">\n   ..\n   30  </h2>\n   31              </header>\n   32:             <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n   33                <aside  class=\"widget widget_nav_menu\">\n   34                  <div class=\"menu-main-menu-container\">\n   35:                   <ul id=\"menu-main-menu\" class=\"menu\">\n   36                      \n   37                      \n   ..\n   56            </div>\n   57  \n   58:           <div id=\"actions\" class=\"site-actions clearfix\">\n   59              <div class=\"action show-site-nav\">\n   60                <i class=\"icon-reorder\"></i>\n   ..\n   97            <!-- site-actions -->\n   98  \n   99: <div id=\"main\" class=\"site-main\">\n  100    <div class=\"site-main-inner\">\n  101      <div class=\"container clearfix\">\n  102  \n  103:       <div id=\"primary\" class=\"content-area\">\n  104    <div class=\"primary-inner\">\n  105:     <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n  106  \n  107  \n  108:       <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n  109          <header class=\"entry-header\">\n  110            <h2 class=\"entry-title\">\n  ...\n  144          <!-- article -->\n  145          \n  146:         <nav role=\"navigation\" id=\"nav-below\" class=\"paging-navigation pager\">\n  147            \n  148            <div class=\"nav-previous\">\n  ...\n  257        \n  258        \n  259:       <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n  260          \n  261  \n  ...\n  300  </div>\n  301   \n  302: <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n  303    <div class=\"container\">\n  304      <div class=\"site-info\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\2015\\01\\04\\welcome-to-jekyll - Copy - Copy - Copy - Copy.html:\n   13  </head>\n   14  <body class=\"home blog group-blog\">\n   15:   <div id=\"page\" class=\"hfeed site\">\n   16      <div class=\"container clearfix\">\n   17:       <div id=\"navigation\" class=\"site-nav\">\n   18          <div class=\"site-nav-inner\">\n   19            <div class=\"container\">\n   20:             <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n   21                <h1 class=\"site-title display-logo\">\n   22                <a href=\"/\" title=\"Design Wall Template\" rel=\"home\">\n   ..\n   30  </h2>\n   31              </header>\n   32:             <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n   33                <aside  class=\"widget widget_nav_menu\">\n   34                  <div class=\"menu-main-menu-container\">\n   35:                   <ul id=\"menu-main-menu\" class=\"menu\">\n   36                      \n   37                      \n   ..\n   56            </div>\n   57  \n   58:           <div id=\"actions\" class=\"site-actions clearfix\">\n   59              <div class=\"action show-site-nav\">\n   60                <i class=\"icon-reorder\"></i>\n   ..\n   97            <!-- site-actions -->\n   98  \n   99: <div id=\"main\" class=\"site-main\">\n  100    <div class=\"site-main-inner\">\n  101      <div class=\"container clearfix\">\n  102  \n  103:       <div id=\"primary\" class=\"content-area\">\n  104    <div class=\"primary-inner\">\n  105:     <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n  106  \n  107  \n  108:       <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n  109          <header class=\"entry-header\">\n  110            <h2 class=\"entry-title\">\n  ...\n  144          <!-- article -->\n  145          \n  146:         <nav role=\"navigation\" id=\"nav-below\" class=\"paging-navigation pager\">\n  147            \n  148            <div class=\"nav-previous\">\n  ...\n  260        \n  261        \n  262:       <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n  263          \n  264  \n  ...\n  303  </div>\n  304   \n  305: <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n  306    <div class=\"container\">\n  307      <div class=\"site-info\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\2015\\01\\04\\welcome-to-jekyll - Copy - Copy - Copy.html:\n   13  </head>\n   14  <body class=\"home blog group-blog\">\n   15:   <div id=\"page\" class=\"hfeed site\">\n   16      <div class=\"container clearfix\">\n   17:       <div id=\"navigation\" class=\"site-nav\">\n   18          <div class=\"site-nav-inner\">\n   19            <div class=\"container\">\n   20:             <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n   21                <h1 class=\"site-title display-logo\">\n   22                <a href=\"/\" title=\"Design Wall Template\" rel=\"home\">\n   ..\n   30  </h2>\n   31              </header>\n   32:             <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n   33                <aside  class=\"widget widget_nav_menu\">\n   34                  <div class=\"menu-main-menu-container\">\n   35:                   <ul id=\"menu-main-menu\" class=\"menu\">\n   36                      \n   37                      \n   ..\n   56            </div>\n   57  \n   58:           <div id=\"actions\" class=\"site-actions clearfix\">\n   59              <div class=\"action show-site-nav\">\n   60                <i class=\"icon-reorder\"></i>\n   ..\n   97            <!-- site-actions -->\n   98  \n   99: <div id=\"main\" class=\"site-main\">\n  100    <div class=\"site-main-inner\">\n  101      <div class=\"container clearfix\">\n  102  \n  103:       <div id=\"primary\" class=\"content-area\">\n  104    <div class=\"primary-inner\">\n  105:     <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n  106  \n  107  \n  108:       <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n  109          <header class=\"entry-header\">\n  110            <h2 class=\"entry-title\">\n  ...\n  144          <!-- article -->\n  145          \n  146:         <nav role=\"navigation\" id=\"nav-below\" class=\"paging-navigation pager\">\n  147            \n  148            <div class=\"nav-previous\">\n  ...\n  260        \n  261        \n  262:       <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n  263          \n  264  \n  ...\n  303  </div>\n  304   \n  305: <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n  306    <div class=\"container\">\n  307      <div class=\"site-info\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\2015\\01\\04\\welcome-to-jekyll - Copy - Copy.html:\n   13  </head>\n   14  <body class=\"home blog group-blog\">\n   15:   <div id=\"page\" class=\"hfeed site\">\n   16      <div class=\"container clearfix\">\n   17:       <div id=\"navigation\" class=\"site-nav\">\n   18          <div class=\"site-nav-inner\">\n   19            <div class=\"container\">\n   20:             <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n   21                <h1 class=\"site-title display-logo\">\n   22                <a href=\"/\" title=\"Design Wall Template\" rel=\"home\">\n   ..\n   30  </h2>\n   31              </header>\n   32:             <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n   33                <aside  class=\"widget widget_nav_menu\">\n   34                  <div class=\"menu-main-menu-container\">\n   35:                   <ul id=\"menu-main-menu\" class=\"menu\">\n   36                      \n   37                      \n   ..\n   56            </div>\n   57  \n   58:           <div id=\"actions\" class=\"site-actions clearfix\">\n   59              <div class=\"action show-site-nav\">\n   60                <i class=\"icon-reorder\"></i>\n   ..\n   97            <!-- site-actions -->\n   98  \n   99: <div id=\"main\" class=\"site-main\">\n  100    <div class=\"site-main-inner\">\n  101      <div class=\"container clearfix\">\n  102  \n  103:       <div id=\"primary\" class=\"content-area\">\n  104    <div class=\"primary-inner\">\n  105:     <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n  106  \n  107  \n  108:       <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n  109          <header class=\"entry-header\">\n  110            <h2 class=\"entry-title\">\n  ...\n  144          <!-- article -->\n  145          \n  146:         <nav role=\"navigation\" id=\"nav-below\" class=\"paging-navigation pager\">\n  147            \n  148            <div class=\"nav-previous\">\n  ...\n  260        \n  261        \n  262:       <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n  263          \n  264  \n  ...\n  303  </div>\n  304   \n  305: <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n  306    <div class=\"container\">\n  307      <div class=\"site-info\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\2015\\01\\04\\welcome-to-jekyll - Copy.html:\n   13  </head>\n   14  <body class=\"home blog group-blog\">\n   15:   <div id=\"page\" class=\"hfeed site\">\n   16      <div class=\"container clearfix\">\n   17:       <div id=\"navigation\" class=\"site-nav\">\n   18          <div class=\"site-nav-inner\">\n   19            <div class=\"container\">\n   20:             <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n   21                <h1 class=\"site-title display-logo\">\n   22                <a href=\"/\" title=\"Design Wall Template\" rel=\"home\">\n   ..\n   30  </h2>\n   31              </header>\n   32:             <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n   33                <aside  class=\"widget widget_nav_menu\">\n   34                  <div class=\"menu-main-menu-container\">\n   35:                   <ul id=\"menu-main-menu\" class=\"menu\">\n   36                      \n   37                      \n   ..\n   56            </div>\n   57  \n   58:           <div id=\"actions\" class=\"site-actions clearfix\">\n   59              <div class=\"action show-site-nav\">\n   60                <i class=\"icon-reorder\"></i>\n   ..\n   97            <!-- site-actions -->\n   98  \n   99: <div id=\"main\" class=\"site-main\">\n  100    <div class=\"site-main-inner\">\n  101      <div class=\"container clearfix\">\n  102  \n  103:       <div id=\"primary\" class=\"content-area\">\n  104    <div class=\"primary-inner\">\n  105:     <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n  106  \n  107  \n  108:       <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n  109          <header class=\"entry-header\">\n  110            <h2 class=\"entry-title\">\n  ...\n  144          <!-- article -->\n  145          \n  146:         <nav role=\"navigation\" id=\"nav-below\" class=\"paging-navigation pager\">\n  147            \n  148            <div class=\"nav-previous\">\n  ...\n  260        \n  261        \n  262:       <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n  263          \n  264  \n  ...\n  303  </div>\n  304   \n  305: <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n  306    <div class=\"container\">\n  307      <div class=\"site-info\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\2015\\01\\04\\welcome-to-jekyll.html:\n   13  </head>\n   14  <body class=\"home blog group-blog\">\n   15:   <div id=\"page\" class=\"hfeed site\">\n   16      <div class=\"container clearfix\">\n   17:       <div id=\"navigation\" class=\"site-nav\">\n   18          <div class=\"site-nav-inner\">\n   19            <div class=\"container\">\n   20:             <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n   21                <h1 class=\"site-title display-logo\">\n   22                <a href=\"/\" title=\"Design Wall Template\" rel=\"home\">\n   ..\n   30  </h2>\n   31              </header>\n   32:             <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n   33                <aside  class=\"widget widget_nav_menu\">\n   34                  <div class=\"menu-main-menu-container\">\n   35:                   <ul id=\"menu-main-menu\" class=\"menu\">\n   36                      \n   37                      \n   ..\n   56            </div>\n   57  \n   58:           <div id=\"actions\" class=\"site-actions clearfix\">\n   59              <div class=\"action show-site-nav\">\n   60                <i class=\"icon-reorder\"></i>\n   ..\n   97            <!-- site-actions -->\n   98  \n   99: <div id=\"main\" class=\"site-main\">\n  100    <div class=\"site-main-inner\">\n  101      <div class=\"container clearfix\">\n  102  \n  103:       <div id=\"primary\" class=\"content-area\">\n  104    <div class=\"primary-inner\">\n  105:     <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n  106  \n  107  \n  108:       <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n  109          <header class=\"entry-header\">\n  110            <h2 class=\"entry-title\">\n  ...\n  144          <!-- article -->\n  145          \n  146:         <nav role=\"navigation\" id=\"nav-below\" class=\"paging-navigation pager\">\n  147            \n  148           <div class=\"nav-previous\">\n  ...\n  257        \n  258        \n  259:       <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n  260          \n  261  \n  ...\n  300  </div>\n  301   \n  302: <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n  303    <div class=\"container\">\n  304      <div class=\"site-info\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\about\\index.html:\n   13  </head>\n   14  <body class=\"home blog group-blog\">\n   15:   <div id=\"page\" class=\"hfeed site\">\n   16      <div class=\"container clearfix\">\n   17:       <div id=\"navigation\" class=\"site-nav\">\n   18          <div class=\"site-nav-inner\">\n   19            <div class=\"container\">\n   20:             <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n   21                <h1 class=\"site-title display-logo\">\n   22                <a href=\"/\" title=\"Design Wall Template\" rel=\"home\">\n   ..\n   30  </h2>\n   31              </header>\n   32:             <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n   33                <aside  class=\"widget widget_nav_menu\">\n   34                  <div class=\"menu-main-menu-container\">\n   35:                   <ul id=\"menu-main-menu\" class=\"menu\">\n   36                      \n   37                      \n   ..\n   56            </div>\n   57  \n   58:           <div id=\"actions\" class=\"site-actions clearfix\">\n   59              <div class=\"action show-site-nav\">\n   60                <i class=\"icon-reorder\"></i>\n   ..\n   97            <!-- site-actions -->\n   98  \n   99: <div id=\"main\" class=\"site-main\">\n  100    <div class=\"site-main-inner\">\n  101      <div class=\"container clearfix\">\n  ...\n  103        <div class=\"post\">\n  104  \n  105:    <div id=\"primary\" class=\"content-area\">\n  106          <div class=\"primary-inner\">\n  107:           <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n  108           \n  109  \n  110:             <article id=\"post-33\" class=\"post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-delicious category-freelancing category-photography tag-playing tag-shopping\">\n  111                <header class=\"entry-header\">\n  112                  <header class=\"page-header\">\n  ...\n  147        \n  148        \n  149:       <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n  150          \n  151  \n  ...\n  190  </div>\n  191   \n  192: <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n  193    <div class=\"container\">\n  194      <div class=\"site-info\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\css\\fontawesome-webfont.svg:\n    4  <metadata></metadata>\n    5  <defs>\n    6: <font id=\"fontawesomeregular\" horiz-adv-x=\"1536\" >\n    7  <font-face units-per-em=\"1792\" ascent=\"1536\" descent=\"-256\" />\n    8  <missing-glyph horiz-adv-x=\"448\" />\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\js\\modernizr-2.6.2.min.js:\n    2   * Build: http://modernizr.com/download/#-fontface-backgroundsize-borderimage-borderradius-boxshadow-flexbox-hsla-multiplebgs-opacity-rgba-textshadow-cssanimations-csscolumns-generatedcontent-cssgradients-cssreflections-csstransforms-csstransforms3d-csstransitions-applicationcache-canvas-canvastext-draganddrop-hashchange-history-audio-video-indexeddb-input-inputtypes-localstorage-postmessage-sessionstorage-websockets-websqldatabase-webworkers-geolocation-inlinesvg-smil-svg-svgclippaths-touch-webgl-shiv-mq-cssclasses-addtest-prefixed-teststyles-testprop-testallprops-hasevent-prefixes-domprefixes-load\n    3   */\n    4: ;window.Modernizr=function(a,b,c){function D(a){j.cssText=a}function E(a,b){return D(n.join(a+\";\")+(b||\"\"))}function F(a,b){return typeof a===b}function G(a,b){return!!~(\"\"+a).indexOf(b)}function H(a,b){for(var d in a){var e=a[d];if(!G(e,\"-\")&&j[e]!==c)return b==\"pfx\"?e:!0}return!1}function I(a,b,d){for(var e in a){var f=b[a[e]];if(f!==c)return d===!1?a[e]:F(f,\"function\")?f.bind(d||b):f}return!1}function J(a,b,c){var d=a.charAt(0).toUpperCase()+a.slice(1),e=(a+\" \"+p.join(d+\" \")+d).split(\" \");return F(b,\"string\")||F(b,\"undefined\")?H(e,b):(e=(a+\" \"+q.join(d+\" \")+d).split(\" \"),I(e,b,c))}function K(){e.input=function(c){for(var d=0,e=c.length;d<e;d++)u[c[d]]=c[d]in k;return u.list&&(u.list=!!b.createElement(\"datalist\")&&!!a.HTMLDataListElement),u}(\"autocomplete autofocus list placeholder max min multiple pattern required step\".split(\" \")),e.inputtypes=function(a){for(var d=0,e,f,h,i=a.length;d<i;d++)k.setAttribute(\"type\",f=a[d]),e=k.type!==\"text\",e&&(k.value=l,k.style.cssText=\"position:absolute;visibility:hidden;\",/^range$/.test(f)&&k.style.WebkitAppearance!==c?(g.appendChild(k),h=b.defaultView,e=h.getComputedStyle&&h.getComputedStyle(k,null).WebkitAppearance!==\"textfield\"&&k.offsetHeight!==0,g.removeChild(k)):/^(search|tel)$/.test(f)||(/^(url|email)$/.test(f)?e=k.checkValidity&&k.checkValidity()===!1:e=k.value!=l)),t[a[d]]=!!e;return t}(\"search tel url email datetime date month week time datetime-local number range color\".split(\" \"))}var d=\"2.6.2\",e={},f=!0,g=b.documentElement,h=\"modernizr\",i=b.createElement(h),j=i.style,k=b.createElement(\"input\"),l=\":)\",m={}.toString,n=\" -webkit- -moz- -o- -ms- \".split(\" \"),o=\"Webkit Moz O ms\",p=o.split(\" \"),q=o.toLowerCase().split(\" \"),r={svg:\"http://www.w3.org/2000/svg\"},s={},t={},u={},v=[],w=v.slice,x,y=function(a,c,d,e){var f,i,j,k,l=b.createElement(\"div\"),m=b.body,n=m||b.createElement(\"body\");if(parseInt(d,10))while(d--)j=b.createElement(\"div\"),j.id=e?e[d]:h+(d+1),l.appendChild(j);return f=[\"&#173;\",'<style id=\"s',h,'\">',a,\"</style>\"].join(\"\"),l.id=h,(m?l:n).innerHTML+=f,n.appendChild(l),m||(n.style.background=\"\",n.style.overflow=\"hidden\",k=g.style.overflow,g.style.overflow=\"hidden\",g.appendChild(n)),i=c(l,a),m?l.parentNode.removeChild(l):(n.parentNode.removeChild(n),g.style.overflow=k),!!i},z=function(b){var c=a.matchMedia||a.msMatchMedia;if(c)return c(b).matches;var d;return y(\"@media \"+b+\" { #\"+h+\" { position: absolute; } }\",function(b){d=(a.getComputedStyle?getComputedStyle(b,null):b.currentStyle)[\"position\"]==\"absolute\"}),d},A=function(){function d(d,e){e=e||b.createElement(a[d]||\"div\"),d=\"on\"+d;var f=d in e;return f||(e.setAttribute||(e=b.createElement(\"div\")),e.setAttribute&&e.removeAttribute&&(e.setAttribute(d,\"\"),f=F(e[d],\"function\"),F(e[d],\"undefined\")||(e[d]=c),e.removeAttribute(d))),e=null,f}var a={select:\"input\",change:\"input\",submit:\"form\",reset:\"form\",error:\"img\",load:\"img\",abort:\"img\"};return d}(),B={}.hasOwnProperty,C;!F(B,\"undefined\")&&!F(B.call,\"undefined\")?C=function(a,b){return B.call(a,b)}:C=function(a,b){return b in a&&F(a.constructor.prototype[b],\"undefined\")},Function.prototype.bind||(Function.prototype.bind=function(b){var c=this;if(typeof c!=\"function\")throw new TypeError;var d=w.call(arguments,1),e=function(){if(this instanceof e){var a=function(){};a.prototype=c.prototype;var f=new a,g=c.apply(f,d.concat(w.call(arguments)));return Object(g)===g?g:f}return c.apply(b,d.concat(w.call(arguments)))};return e}),s.flexbox=function(){return J(\"flexWrap\")},s.canvas=function(){var a=b.createElement(\"canvas\");return!!a.getContext&&!!a.getContext(\"2d\")},s.canvastext=function(){return!!e.canvas&&!!F(b.createElement(\"canvas\").getContext(\"2d\").fillText,\"function\")},s.webgl=function(){return!!a.WebGLRenderingContext},s.touch=function(){var c;return\"ontouchstart\"in a||a.DocumentTouch&&b instanceof DocumentTouch?c=!0:y([\"@media (\",n.join(\"touch-enabled),(\"),h,\")\",\"{#modernizr{top:9px;position:absolute}}\"].join(\"\"),function(a){c=a.offsetTop===9}),c},s.geolocation=function(){return\"geolocation\"in navigator},s.postmessage=function(){return!!a.postMessage},s.websqldatabase=function(){return!!a.openDatabase},s.indexedDB=function(){return!!J(\"indexedDB\",a)},s.hashchange=function(){return A(\"hashchange\",a)&&(b.documentMode===c||b.documentMode>7)},s.history=function(){return!!a.history&&!!history.pushState},s.draganddrop=function(){var a=b.createElement(\"div\");return\"draggable\"in a||\"ondragstart\"in a&&\"ondrop\"in a},s.websockets=function(){return\"WebSocket\"in a||\"MozWebSocket\"in a},s.rgba=function(){return D(\"background-color:rgba(150,255,150,.5)\"),G(j.backgroundColor,\"rgba\")},s.hsla=function(){return D(\"background-color:hsla(120,40%,100%,.5)\"),G(j.backgroundColor,\"rgba\")||G(j.backgroundColor,\"hsla\")},s.multiplebgs=function(){return D(\"background:url(https://),url(https://),red url(https://)\"),/(url\\s*\\(.*?){3}/.test(j.background)},s.backgroundsize=function(){return J(\"backgroundSize\")},s.borderimage=function(){return J(\"borderImage\")},s.borderradius=function(){return J(\"borderRadius\")},s.boxshadow=function(){return J(\"boxShadow\")},s.textshadow=function(){return b.createElement(\"div\").style.textShadow===\"\"},s.opacity=function(){return E(\"opacity:.55\"),/^0.55$/.test(j.opacity)},s.cssanimations=function(){return J(\"animationName\")},s.csscolumns=function(){return J(\"columnCount\")},s.cssgradients=function(){var a=\"background-image:\",b=\"gradient(linear,left top,right bottom,from(#9f9),to(white));\",c=\"linear-gradient(left top,#9f9, white);\";return D((a+\"-webkit- \".split(\" \").join(b+a)+n.join(c+a)).slice(0,-a.length)),G(j.backgroundImage,\"gradient\")},s.cssreflections=function(){return J(\"boxReflect\")},s.csstransforms=function(){return!!J(\"transform\")},s.csstransforms3d=function(){var a=!!J(\"perspective\");return a&&\"webkitPerspective\"in g.style&&y(\"@media (transform-3d),(-webkit-transform-3d){#modernizr{left:9px;position:absolute;height:3px;}}\",function(b,c){a=b.offsetLeft===9&&b.offsetHeight===3}),a},s.csstransitions=function(){return J(\"transition\")},s.fontface=function(){var a;return y('@font-face {font-family:\"font\";src:url(\"https://\")}',function(c,d){var e=b.getElementById(\"smodernizr\"),f=e.sheet||e.styleSheet,g=f?f.cssRules&&f.cssRules[0]?f.cssRules[0].cssText:f.cssText||\"\":\"\";a=/src/i.test(g)&&g.indexOf(d.split(\" \")[0])===0}),a},s.generatedcontent=function(){var a;return y([\"#\",h,\"{font:0/0 a}#\",h,':after{content:\"',l,'\";visibility:hidden;font:3px/1 a}'].join(\"\"),function(b){a=b.offsetHeight>=3}),a},s.video=function(){var a=b.createElement(\"video\"),c=!1;try{if(c=!!a.canPlayType)c=new Boolean(c),c.ogg=a.canPlayType('video/ogg; codecs=\"theora\"').replace(/^no$/,\"\"),c.h264=a.canPlayType('video/mp4; codecs=\"avc1.42E01E\"').replace(/^no$/,\"\"),c.webm=a.canPlayType('video/webm; codecs=\"vp8, vorbis\"').replace(/^no$/,\"\")}catch(d){}return c},s.audio=function(){var a=b.createElement(\"audio\"),c=!1;try{if(c=!!a.canPlayType)c=new Boolean(c),c.ogg=a.canPlayType('audio/ogg; codecs=\"vorbis\"').replace(/^no$/,\"\"),c.mp3=a.canPlayType(\"audio/mpeg;\").replace(/^no$/,\"\"),c.wav=a.canPlayType('audio/wav; codecs=\"1\"').replace(/^no$/,\"\"),c.m4a=(a.canPlayType(\"audio/x-m4a;\")||a.canPlayType(\"audio/aac;\")).replace(/^no$/,\"\")}catch(d){}return c},s.localstorage=function(){try{return localStorage.setItem(h,h),localStorage.removeItem(h),!0}catch(a){return!1}},s.sessionstorage=function(){try{return sessionStorage.setItem(h,h),sessionStorage.removeItem(h),!0}catch(a){return!1}},s.webworkers=function(){return!!a.Worker},s.applicationcache=function(){return!!a.applicationCache},s.svg=function(){return!!b.createElementNS&&!!b.createElementNS(r.svg,\"svg\").createSVGRect},s.inlinesvg=function(){var a=b.createElement(\"div\");return a.innerHTML=\"<svg/>\",(a.firstChild&&a.firstChild.namespaceURI)==r.svg},s.smil=function(){return!!b.createElementNS&&/SVGAnimate/.test(m.call(b.createElementNS(r.svg,\"animate\")))},s.svgclippaths=function(){return!!b.createElementNS&&/SVGClipPath/.test(m.call(b.createElementNS(r.svg,\"clipPath\")))};for(var L in s)C(s,L)&&(x=L.toLowerCase(),e[x]=s[L](),v.push((e[x]?\"\":\"no-\")+x));return e.input||K(),e.addTest=function(a,b){if(typeof a==\"object\")for(var d in a)C(a,d)&&e.addTest(d,a[d]);else{a=a.toLowerCase();if(e[a]!==c)return e;b=typeof b==\"function\"?b():b,typeof f!=\"undefined\"&&f&&(g.className+=\" \"+(b?\"\":\"no-\")+a),e[a]=b}return e},D(\"\"),i=k=null,function(a,b){function k(a,b){var c=a.createElement(\"p\"),d=a.getElementsByTagName(\"head\")[0]||a.documentElement;return c.innerHTML=\"x<style>\"+b+\"</style>\",d.insertBefore(c.lastChild,d.firstChild)}function l(){var a=r.elements;return typeof a==\"string\"?a.split(\" \"):a}function m(a){var b=i[a[g]];return b||(b={},h++,a[g]=h,i[h]=b),b}function n(a,c,f){c||(c=b);if(j)return c.createElement(a);f||(f=m(c));var g;return f.cache[a]?g=f.cache[a].cloneNode():e.test(a)?g=(f.cache[a]=f.createElem(a)).cloneNode():g=f.createElem(a),g.canHaveChildren&&!d.test(a)?f.frag.appendChild(g):g}function o(a,c){a||(a=b);if(j)return a.createDocumentFragment();c=c||m(a);var d=c.frag.cloneNode(),e=0,f=l(),g=f.length;for(;e<g;e++)d.createElement(f[e]);return d}function p(a,b){b.cache||(b.cache={},b.createElem=a.createElement,b.createFrag=a.createDocumentFragment,b.frag=b.createFrag()),a.createElement=function(c){return r.shivMethods?n(c,a,b):b.createElem(c)},a.createDocumentFragment=Function(\"h,f\",\"return function(){var n=f.cloneNode(),c=n.createElement;h.shivMethods&&(\"+l().join().replace(/\\w+/g,function(a){return b.createElem(a),b.frag.createElement(a),'c(\"'+a+'\")'})+\");return n}\")(r,b.frag)}function q(a){a||(a=b);var c=m(a);return r.shivCSS&&!f&&!c.hasCSS&&(c.hasCSS=!!k(a,\"article,aside,figcaption,figure,footer,header,hgroup,nav,section{display:block}mark{background:#FF0;color:#000}\")),j||p(a,c),a}var c=a.html5||{},d=/^<|^(?:button|map|select|textarea|object|iframe|option|optgroup)$/i,e=/^(?:a|b|code|div|fieldset|h1|h2|h3|h4|h5|h6|i|label|li|ol|p|q|span|strong|style|table|tbody|td|th|tr|ul)$/i,f,g=\"_html5shiv\",h=0,i={},j;(function(){try{var a=b.createElement(\"a\");a.innerHTML=\"<xyz></xyz>\",f=\"hidden\"in a,j=a.childNodes.length==1||function(){b.createElement(\"a\");var a=b.createDocumentFragment();return typeof a.cloneNode==\"undefined\"||typeof a.createDocumentFragment==\"undefined\"||typeof a.createElement==\"undefined\"}()}catch(c){f=!0,j=!0}})();var r={elements:c.elements||\"abbr article aside audio bdi canvas data datalist details figcaption figure footer header hgroup mark meter nav output progress section summary time video\",shivCSS:c.shivCSS!==!1,supportsUnknownElements:j,shivMethods:c.shivMethods!==!1,type:\"default\",shivDocument:q,createElement:n,createDocumentFragment:o};a.html5=r,q(b)}(this,b),e._version=d,e._prefixes=n,e._domPrefixes=q,e._cssomPrefixes=p,e.mq=z,e.hasEvent=A,e.testProp=function(a){return H([a])},e.testAllProps=J,e.testStyles=y,e.prefixed=function(a,b,c){return b?J(a,b,c):J(a,\"pfx\")},g.className=g.className.replace(/(^|\\s)no-js(\\s|$)/,\"$1$2\")+(f?\" js \"+v.join(\" \"):\"\"),e}(this,this.document),function(a,b,c){function d(a){return\"[object Function]\"==o.call(a)}function e(a){return\"string\"==typeof a}function f(){}function g(a){return!a||\"loaded\"==a||\"complete\"==a||\"uninitialized\"==a}function h(){var a=p.shift();q=1,a?a.t?m(function(){(\"c\"==a.t?B.injectCss:B.injectJs)(a.s,0,a.a,a.x,a.e,1)},0):(a(),h()):q=0}function i(a,c,d,e,f,i,j){function k(b){if(!o&&g(l.readyState)&&(u.r=o=1,!q&&h(),l.onload=l.onreadystatechange=null,b)){\"img\"!=a&&m(function(){t.removeChild(l)},50);for(var d in y[c])y[c].hasOwnProperty(d)&&y[c][d].onload()}}var j=j||B.errorTimeout,l=b.createElement(a),o=0,r=0,u={t:d,s:c,e:f,a:i,x:j};1===y[c]&&(r=1,y[c]=[]),\"object\"==a?l.data=c:(l.src=c,l.type=a),l.width=l.height=\"0\",l.onerror=l.onload=l.onreadystatechange=function(){k.call(this,r)},p.splice(e,0,u),\"img\"!=a&&(r||2===y[c]?(t.insertBefore(l,s?null:n),m(k,j)):y[c].push(l))}function j(a,b,c,d,f){return q=0,b=b||\"j\",e(a)?i(\"c\"==b?v:u,a,b,this.i++,c,d,f):(p.splice(this.i++,0,a),1==p.length&&h()),this}function k(){var a=B;return a.loader={load:j,i:0},a}var l=b.documentElement,m=a.setTimeout,n=b.getElementsByTagName(\"script\")[0],o={}.toString,p=[],q=0,r=\"MozAppearance\"in l.style,s=r&&!!b.createRange().compareNode,t=s?l:n.parentNode,l=a.opera&&\"[object Opera]\"==o.call(a.opera),l=!!b.attachEvent&&!l,u=r?\"object\":l?\"script\":\"img\",v=l?\"script\":u,w=Array.isArray||function(a){return\"[object Array]\"==o.call(a)},x=[],y={},z={timeout:function(a,b){return b.length&&(a.timeout=b[0]),a}},A,B;B=function(a){function b(a){var a=a.split(\"!\"),b=x.length,c=a.pop(),d=a.length,c={url:c,origUrl:c,prefixes:a},e,f,g;for(f=0;f<d;f++)g=a[f].split(\"=\"),(e=z[g.shift()])&&(c=e(c,g));for(f=0;f<b;f++)c=x[f](c);return c}function g(a,e,f,g,h){var i=b(a),j=i.autoCallback;i.url.split(\".\").pop().split(\"?\").shift(),i.bypass||(e&&(e=d(e)?e:e[a]||e[g]||e[a.split(\"/\").pop().split(\"?\")[0]]),i.instead?i.instead(a,e,f,g,h):(y[i.url]?i.noexec=!0:y[i.url]=1,f.load(i.url,i.forceCSS||!i.forceJS&&\"css\"==i.url.split(\".\").pop().split(\"?\").shift()?\"c\":c,i.noexec,i.attrs,i.timeout),(d(e)||d(j))&&f.load(function(){k(),e&&e(i.origUrl,h,g),j&&j(i.origUrl,h,g),y[i.url]=2})))}function h(a,b){function c(a,c){if(a){if(e(a))c||(j=function(){var a=[].slice.call(arguments);k.apply(this,a),l()}),g(a,j,b,0,h);else if(Object(a)===a)for(n in m=function(){var b=0,c;for(c in a)a.hasOwnProperty(c)&&b++;return b}(),a)a.hasOwnProperty(n)&&(!c&&!--m&&(d(j)?j=function(){var a=[].slice.call(arguments);k.apply(this,a),l()}:j[n]=function(a){return function(){var b=[].slice.call(arguments);a&&a.apply(this,b),l()}}(k[n])),g(a[n],j,b,n,h))}else!c&&l()}var h=!!a.test,i=a.load||a.both,j=a.callback||f,k=j,l=a.complete||f,m,n;c(h?a.yep:a.nope,!!i),i&&c(i)}var i,j,l=this.yepnope.loader;if(e(a))g(a,0,l,0);else if(w(a))for(i=0;i<a.length;i++)j=a[i],e(j)?g(j,0,l,0):w(j)?B(j):Object(j)===j&&h(j,l);else Object(a)===a&&h(a,l)},B.addPrefix=function(a,b){z[a]=b},B.addFilter=function(a){x.push(a)},B.errorTimeout=1e4,null==b.readyState&&b.addEventListener&&(b.readyState=\"loading\",b.addEventListener(\"DOMContentLoaded\",A=function(){b.removeEventListener(\"DOMContentLoaded\",A,0),b.readyState=\"complete\"},0)),a.yepnope=k(),a.yepnope.executeStack=h,a.yepnope.injectJs=function(a,c,d,e,i,j){var k=b.createElement(\"script\"),l,o,e=e||B.errorTimeout;k.src=a;for(o in d)k.setAttribute(o,d[o]);c=j?h:c||f,k.onreadystatechange=k.onload=function(){!l&&g(k.readyState)&&(l=1,c(),k.onload=k.onreadystatechange=null)},m(function(){l||(l=1,c(1))},e),i?k.onload():n.parentNode.insertBefore(k,n)},a.yepnope.injectCss=function(a,c,d,e,g,i){var e=b.createElement(\"link\"),j,c=i?h:c||f;e.href=a,e.rel=\"stylesheet\",e.type=\"text/css\";for(j in d)e.setAttribute(j,d[j]);g||(n.parentNode.insertBefore(e,n),m(c,0))}}(this,document),Modernizr.load=function(){yepnope.apply(window,[].slice.call(arguments,0))};\n    5  \n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\_site\\page2\\index.html:\n   13  </head>\n   14  <body class=\"home blog group-blog\">\n   15:   <div id=\"page\" class=\"hfeed site\">\n   16      <div class=\"container clearfix\">\n   17:       <div id=\"navigation\" class=\"site-nav\">\n   18          <div class=\"site-nav-inner\">\n   19            <div class=\"container\">\n   20:             <header id=\"masthead\" class=\"site-header\" role=\"banner\">\n   21                <h1 class=\"site-title display-logo\">\n   22                <a href=\"/\" title=\"Design Wall Template\" rel=\"home\">\n   ..\n   30  </h2>\n   31              </header>\n   32:             <div id=\"main-sidebar\" class=\"widget-area\" role=\"complementary\">\n   33                <aside  class=\"widget widget_nav_menu\">\n   34                  <div class=\"menu-main-menu-container\">\n   35:                   <ul id=\"menu-main-menu\" class=\"menu\">\n   36                      \n   37                      \n   ..\n   56            </div>\n   57  \n   58:           <div id=\"actions\" class=\"site-actions clearfix\">\n   59              <div class=\"action show-site-nav\">\n   60                <i class=\"icon-reorder\"></i>\n   ..\n   97            <!-- site-actions -->\n   98  \n   99: <div id=\"main\" class=\"site-main\">\n  100    <div class=\"site-main-inner\">\n  101      <div class=\"container clearfix\">\n  102  \n  103:       <div id=\"primary\" class=\"content-area\">\n  104    <div class=\"primary-inner\">\n  105:     <div id=\"content\" class=\"site-content content-list\" role=\"main\">\n  106        \n  107  \n  ...\n  418            \n  419  \n  420:           <nav role=\"navigation\" id=\"nav-below\" class=\"paging-navigation pager\">\n  421  \n  422              \n  ...\n  460        \n  461        \n  462:       <div id=\"secondary\" class=\"widget-area\" role=\"complementary\">\n  463          \n  464  \n  ...\n  503  </div>\n  504   \n  505: <footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n  506    <div class=\"container\">\n  507      <div class=\"site-info\">\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\css\\fontawesome-webfont.svg:\n    4  <metadata></metadata>\n    5  <defs>\n    6: <font id=\"fontawesomeregular\" horiz-adv-x=\"1536\" >\n    7  <font-face units-per-em=\"1792\" ascent=\"1536\" descent=\"-256\" />\n    8  <missing-glyph horiz-adv-x=\"448\" />\n\nC:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\js\\modernizr-2.6.2.min.js:\n    2   * Build: http://modernizr.com/download/#-fontface-backgroundsize-borderimage-borderradius-boxshadow-flexbox-hsla-multiplebgs-opacity-rgba-textshadow-cssanimations-csscolumns-generatedcontent-cssgradients-cssreflections-csstransforms-csstransforms3d-csstransitions-applicationcache-canvas-canvastext-draganddrop-hashchange-history-audio-video-indexeddb-input-inputtypes-localstorage-postmessage-sessionstorage-websockets-websqldatabase-webworkers-geolocation-inlinesvg-smil-svg-svgclippaths-touch-webgl-shiv-mq-cssclasses-addtest-prefixed-teststyles-testprop-testallprops-hasevent-prefixes-domprefixes-load\n    3   */\n    4: ;window.Modernizr=function(a,b,c){function D(a){j.cssText=a}function E(a,b){return D(n.join(a+\";\")+(b||\"\"))}function F(a,b){return typeof a===b}function G(a,b){return!!~(\"\"+a).indexOf(b)}function H(a,b){for(var d in a){var e=a[d];if(!G(e,\"-\")&&j[e]!==c)return b==\"pfx\"?e:!0}return!1}function I(a,b,d){for(var e in a){var f=b[a[e]];if(f!==c)return d===!1?a[e]:F(f,\"function\")?f.bind(d||b):f}return!1}function J(a,b,c){var d=a.charAt(0).toUpperCase()+a.slice(1),e=(a+\" \"+p.join(d+\" \")+d).split(\" \");return F(b,\"string\")||F(b,\"undefined\")?H(e,b):(e=(a+\" \"+q.join(d+\" \")+d).split(\" \"),I(e,b,c))}function K(){e.input=function(c){for(var d=0,e=c.length;d<e;d++)u[c[d]]=c[d]in k;return u.list&&(u.list=!!b.createElement(\"datalist\")&&!!a.HTMLDataListElement),u}(\"autocomplete autofocus list placeholder max min multiple pattern required step\".split(\" \")),e.inputtypes=function(a){for(var d=0,e,f,h,i=a.length;d<i;d++)k.setAttribute(\"type\",f=a[d]),e=k.type!==\"text\",e&&(k.value=l,k.style.cssText=\"position:absolute;visibility:hidden;\",/^range$/.test(f)&&k.style.WebkitAppearance!==c?(g.appendChild(k),h=b.defaultView,e=h.getComputedStyle&&h.getComputedStyle(k,null).WebkitAppearance!==\"textfield\"&&k.offsetHeight!==0,g.removeChild(k)):/^(search|tel)$/.test(f)||(/^(url|email)$/.test(f)?e=k.checkValidity&&k.checkValidity()===!1:e=k.value!=l)),t[a[d]]=!!e;return t}(\"search tel url email datetime date month week time datetime-local number range color\".split(\" \"))}var d=\"2.6.2\",e={},f=!0,g=b.documentElement,h=\"modernizr\",i=b.createElement(h),j=i.style,k=b.createElement(\"input\"),l=\":)\",m={}.toString,n=\" -webkit- -moz- -o- -ms- \".split(\" \"),o=\"Webkit Moz O ms\",p=o.split(\" \"),q=o.toLowerCase().split(\" \"),r={svg:\"http://www.w3.org/2000/svg\"},s={},t={},u={},v=[],w=v.slice,x,y=function(a,c,d,e){var f,i,j,k,l=b.createElement(\"div\"),m=b.body,n=m||b.createElement(\"body\");if(parseInt(d,10))while(d--)j=b.createElement(\"div\"),j.id=e?e[d]:h+(d+1),l.appendChild(j);return f=[\"&#173;\",'<style id=\"s',h,'\">',a,\"</style>\"].join(\"\"),l.id=h,(m?l:n).innerHTML+=f,n.appendChild(l),m||(n.style.background=\"\",n.style.overflow=\"hidden\",k=g.style.overflow,g.style.overflow=\"hidden\",g.appendChild(n)),i=c(l,a),m?l.parentNode.removeChild(l):(n.parentNode.removeChild(n),g.style.overflow=k),!!i},z=function(b){var c=a.matchMedia||a.msMatchMedia;if(c)return c(b).matches;var d;return y(\"@media \"+b+\" { #\"+h+\" { position: absolute; } }\",function(b){d=(a.getComputedStyle?getComputedStyle(b,null):b.currentStyle)[\"position\"]==\"absolute\"}),d},A=function(){function d(d,e){e=e||b.createElement(a[d]||\"div\"),d=\"on\"+d;var f=d in e;return f||(e.setAttribute||(e=b.createElement(\"div\")),e.setAttribute&&e.removeAttribute&&(e.setAttribute(d,\"\"),f=F(e[d],\"function\"),F(e[d],\"undefined\")||(e[d]=c),e.removeAttribute(d))),e=null,f}var a={select:\"input\",change:\"input\",submit:\"form\",reset:\"form\",error:\"img\",load:\"img\",abort:\"img\"};return d}(),B={}.hasOwnProperty,C;!F(B,\"undefined\")&&!F(B.call,\"undefined\")?C=function(a,b){return B.call(a,b)}:C=function(a,b){return b in a&&F(a.constructor.prototype[b],\"undefined\")},Function.prototype.bind||(Function.prototype.bind=function(b){var c=this;if(typeof c!=\"function\")throw new TypeError;var d=w.call(arguments,1),e=function(){if(this instanceof e){var a=function(){};a.prototype=c.prototype;var f=new a,g=c.apply(f,d.concat(w.call(arguments)));return Object(g)===g?g:f}return c.apply(b,d.concat(w.call(arguments)))};return e}),s.flexbox=function(){return J(\"flexWrap\")},s.canvas=function(){var a=b.createElement(\"canvas\");return!!a.getContext&&!!a.getContext(\"2d\")},s.canvastext=function(){return!!e.canvas&&!!F(b.createElement(\"canvas\").getContext(\"2d\").fillText,\"function\")},s.webgl=function(){return!!a.WebGLRenderingContext},s.touch=function(){var c;return\"ontouchstart\"in a||a.DocumentTouch&&b instanceof DocumentTouch?c=!0:y([\"@media (\",n.join(\"touch-enabled),(\"),h,\")\",\"{#modernizr{top:9px;position:absolute}}\"].join(\"\"),function(a){c=a.offsetTop===9}),c},s.geolocation=function(){return\"geolocation\"in navigator},s.postmessage=function(){return!!a.postMessage},s.websqldatabase=function(){return!!a.openDatabase},s.indexedDB=function(){return!!J(\"indexedDB\",a)},s.hashchange=function(){return A(\"hashchange\",a)&&(b.documentMode===c||b.documentMode>7)},s.history=function(){return!!a.history&&!!history.pushState},s.draganddrop=function(){var a=b.createElement(\"div\");return\"draggable\"in a||\"ondragstart\"in a&&\"ondrop\"in a},s.websockets=function(){return\"WebSocket\"in a||\"MozWebSocket\"in a},s.rgba=function(){return D(\"background-color:rgba(150,255,150,.5)\"),G(j.backgroundColor,\"rgba\")},s.hsla=function(){return D(\"background-color:hsla(120,40%,100%,.5)\"),G(j.backgroundColor,\"rgba\")||G(j.backgroundColor,\"hsla\")},s.multiplebgs=function(){return D(\"background:url(https://),url(https://),red url(https://)\"),/(url\\s*\\(.*?){3}/.test(j.background)},s.backgroundsize=function(){return J(\"backgroundSize\")},s.borderimage=function(){return J(\"borderImage\")},s.borderradius=function(){return J(\"borderRadius\")},s.boxshadow=function(){return J(\"boxShadow\")},s.textshadow=function(){return b.createElement(\"div\").style.textShadow===\"\"},s.opacity=function(){return E(\"opacity:.55\"),/^0.55$/.test(j.opacity)},s.cssanimations=function(){return J(\"animationName\")},s.csscolumns=function(){return J(\"columnCount\")},s.cssgradients=function(){var a=\"background-image:\",b=\"gradient(linear,left top,right bottom,from(#9f9),to(white));\",c=\"linear-gradient(left top,#9f9, white);\";return D((a+\"-webkit- \".split(\" \").join(b+a)+n.join(c+a)).slice(0,-a.length)),G(j.backgroundImage,\"gradient\")},s.cssreflections=function(){return J(\"boxReflect\")},s.csstransforms=function(){return!!J(\"transform\")},s.csstransforms3d=function(){var a=!!J(\"perspective\");return a&&\"webkitPerspective\"in g.style&&y(\"@media (transform-3d),(-webkit-transform-3d){#modernizr{left:9px;position:absolute;height:3px;}}\",function(b,c){a=b.offsetLeft===9&&b.offsetHeight===3}),a},s.csstransitions=function(){return J(\"transition\")},s.fontface=function(){var a;return y('@font-face {font-family:\"font\";src:url(\"https://\")}',function(c,d){var e=b.getElementById(\"smodernizr\"),f=e.sheet||e.styleSheet,g=f?f.cssRules&&f.cssRules[0]?f.cssRules[0].cssText:f.cssText||\"\":\"\";a=/src/i.test(g)&&g.indexOf(d.split(\" \")[0])===0}),a},s.generatedcontent=function(){var a;return y([\"#\",h,\"{font:0/0 a}#\",h,':after{content:\"',l,'\";visibility:hidden;font:3px/1 a}'].join(\"\"),function(b){a=b.offsetHeight>=3}),a},s.video=function(){var a=b.createElement(\"video\"),c=!1;try{if(c=!!a.canPlayType)c=new Boolean(c),c.ogg=a.canPlayType('video/ogg; codecs=\"theora\"').replace(/^no$/,\"\"),c.h264=a.canPlayType('video/mp4; codecs=\"avc1.42E01E\"').replace(/^no$/,\"\"),c.webm=a.canPlayType('video/webm; codecs=\"vp8, vorbis\"').replace(/^no$/,\"\")}catch(d){}return c},s.audio=function(){var a=b.createElement(\"audio\"),c=!1;try{if(c=!!a.canPlayType)c=new Boolean(c),c.ogg=a.canPlayType('audio/ogg; codecs=\"vorbis\"').replace(/^no$/,\"\"),c.mp3=a.canPlayType(\"audio/mpeg;\").replace(/^no$/,\"\"),c.wav=a.canPlayType('audio/wav; codecs=\"1\"').replace(/^no$/,\"\"),c.m4a=(a.canPlayType(\"audio/x-m4a;\")||a.canPlayType(\"audio/aac;\")).replace(/^no$/,\"\")}catch(d){}return c},s.localstorage=function(){try{return localStorage.setItem(h,h),localStorage.removeItem(h),!0}catch(a){return!1}},s.sessionstorage=function(){try{return sessionStorage.setItem(h,h),sessionStorage.removeItem(h),!0}catch(a){return!1}},s.webworkers=function(){return!!a.Worker},s.applicationcache=function(){return!!a.applicationCache},s.svg=function(){return!!b.createElementNS&&!!b.createElementNS(r.svg,\"svg\").createSVGRect},s.inlinesvg=function(){var a=b.createElement(\"div\");return a.innerHTML=\"<svg/>\",(a.firstChild&&a.firstChild.namespaceURI)==r.svg},s.smil=function(){return!!b.createElementNS&&/SVGAnimate/.test(m.call(b.createElementNS(r.svg,\"animate\")))},s.svgclippaths=function(){return!!b.createElementNS&&/SVGClipPath/.test(m.call(b.createElementNS(r.svg,\"clipPath\")))};for(var L in s)C(s,L)&&(x=L.toLowerCase(),e[x]=s[L](),v.push((e[x]?\"\":\"no-\")+x));return e.input||K(),e.addTest=function(a,b){if(typeof a==\"object\")for(var d in a)C(a,d)&&e.addTest(d,a[d]);else{a=a.toLowerCase();if(e[a]!==c)return e;b=typeof b==\"function\"?b():b,typeof f!=\"undefined\"&&f&&(g.className+=\" \"+(b?\"\":\"no-\")+a),e[a]=b}return e},D(\"\"),i=k=null,function(a,b){function k(a,b){var c=a.createElement(\"p\"),d=a.getElementsByTagName(\"head\")[0]||a.documentElement;return c.innerHTML=\"x<style>\"+b+\"</style>\",d.insertBefore(c.lastChild,d.firstChild)}function l(){var a=r.elements;return typeof a==\"string\"?a.split(\" \"):a}function m(a){var b=i[a[g]];return b||(b={},h++,a[g]=h,i[h]=b),b}function n(a,c,f){c||(c=b);if(j)return c.createElement(a);f||(f=m(c));var g;return f.cache[a]?g=f.cache[a].cloneNode():e.test(a)?g=(f.cache[a]=f.createElem(a)).cloneNode():g=f.createElem(a),g.canHaveChildren&&!d.test(a)?f.frag.appendChild(g):g}function o(a,c){a||(a=b);if(j)return a.createDocumentFragment();c=c||m(a);var d=c.frag.cloneNode(),e=0,f=l(),g=f.length;for(;e<g;e++)d.createElement(f[e]);return d}function p(a,b){b.cache||(b.cache={},b.createElem=a.createElement,b.createFrag=a.createDocumentFragment,b.frag=b.createFrag()),a.createElement=function(c){return r.shivMethods?n(c,a,b):b.createElem(c)},a.createDocumentFragment=Function(\"h,f\",\"return function(){var n=f.cloneNode(),c=n.createElement;h.shivMethods&&(\"+l().join().replace(/\\w+/g,function(a){return b.createElem(a),b.frag.createElement(a),'c(\"'+a+'\")'})+\");return n}\")(r,b.frag)}function q(a){a||(a=b);var c=m(a);return r.shivCSS&&!f&&!c.hasCSS&&(c.hasCSS=!!k(a,\"article,aside,figcaption,figure,footer,header,hgroup,nav,section{display:block}mark{background:#FF0;color:#000}\")),j||p(a,c),a}var c=a.html5||{},d=/^<|^(?:button|map|select|textarea|object|iframe|option|optgroup)$/i,e=/^(?:a|b|code|div|fieldset|h1|h2|h3|h4|h5|h6|i|label|li|ol|p|q|span|strong|style|table|tbody|td|th|tr|ul)$/i,f,g=\"_html5shiv\",h=0,i={},j;(function(){try{var a=b.createElement(\"a\");a.innerHTML=\"<xyz></xyz>\",f=\"hidden\"in a,j=a.childNodes.length==1||function(){b.createElement(\"a\");var a=b.createDocumentFragment();return typeof a.cloneNode==\"undefined\"||typeof a.createDocumentFragment==\"undefined\"||typeof a.createElement==\"undefined\"}()}catch(c){f=!0,j=!0}})();var r={elements:c.elements||\"abbr article aside audio bdi canvas data datalist details figcaption figure footer header hgroup mark meter nav output progress section summary time video\",shivCSS:c.shivCSS!==!1,supportsUnknownElements:j,shivMethods:c.shivMethods!==!1,type:\"default\",shivDocument:q,createElement:n,createDocumentFragment:o};a.html5=r,q(b)}(this,b),e._version=d,e._prefixes=n,e._domPrefixes=q,e._cssomPrefixes=p,e.mq=z,e.hasEvent=A,e.testProp=function(a){return H([a])},e.testAllProps=J,e.testStyles=y,e.prefixed=function(a,b,c){return b?J(a,b,c):J(a,\"pfx\")},g.className=g.className.replace(/(^|\\s)no-js(\\s|$)/,\"$1$2\")+(f?\" js \"+v.join(\" \"):\"\"),e}(this,this.document),function(a,b,c){function d(a){return\"[object Function]\"==o.call(a)}function e(a){return\"string\"==typeof a}function f(){}function g(a){return!a||\"loaded\"==a||\"complete\"==a||\"uninitialized\"==a}function h(){var a=p.shift();q=1,a?a.t?m(function(){(\"c\"==a.t?B.injectCss:B.injectJs)(a.s,0,a.a,a.x,a.e,1)},0):(a(),h()):q=0}function i(a,c,d,e,f,i,j){function k(b){if(!o&&g(l.readyState)&&(u.r=o=1,!q&&h(),l.onload=l.onreadystatechange=null,b)){\"img\"!=a&&m(function(){t.removeChild(l)},50);for(var d in y[c])y[c].hasOwnProperty(d)&&y[c][d].onload()}}var j=j||B.errorTimeout,l=b.createElement(a),o=0,r=0,u={t:d,s:c,e:f,a:i,x:j};1===y[c]&&(r=1,y[c]=[]),\"object\"==a?l.data=c:(l.src=c,l.type=a),l.width=l.height=\"0\",l.onerror=l.onload=l.onreadystatechange=function(){k.call(this,r)},p.splice(e,0,u),\"img\"!=a&&(r||2===y[c]?(t.insertBefore(l,s?null:n),m(k,j)):y[c].push(l))}function j(a,b,c,d,f){return q=0,b=b||\"j\",e(a)?i(\"c\"==b?v:u,a,b,this.i++,c,d,f):(p.splice(this.i++,0,a),1==p.length&&h()),this}function k(){var a=B;return a.loader={load:j,i:0},a}var l=b.documentElement,m=a.setTimeout,n=b.getElementsByTagName(\"script\")[0],o={}.toString,p=[],q=0,r=\"MozAppearance\"in l.style,s=r&&!!b.createRange().compareNode,t=s?l:n.parentNode,l=a.opera&&\"[object Opera]\"==o.call(a.opera),l=!!b.attachEvent&&!l,u=r?\"object\":l?\"script\":\"img\",v=l?\"script\":u,w=Array.isArray||function(a){return\"[object Array]\"==o.call(a)},x=[],y={},z={timeout:function(a,b){return b.length&&(a.timeout=b[0]),a}},A,B;B=function(a){function b(a){var a=a.split(\"!\"),b=x.length,c=a.pop(),d=a.length,c={url:c,origUrl:c,prefixes:a},e,f,g;for(f=0;f<d;f++)g=a[f].split(\"=\"),(e=z[g.shift()])&&(c=e(c,g));for(f=0;f<b;f++)c=x[f](c);return c}function g(a,e,f,g,h){var i=b(a),j=i.autoCallback;i.url.split(\".\").pop().split(\"?\").shift(),i.bypass||(e&&(e=d(e)?e:e[a]||e[g]||e[a.split(\"/\").pop().split(\"?\")[0]]),i.instead?i.instead(a,e,f,g,h):(y[i.url]?i.noexec=!0:y[i.url]=1,f.load(i.url,i.forceCSS||!i.forceJS&&\"css\"==i.url.split(\".\").pop().split(\"?\").shift()?\"c\":c,i.noexec,i.attrs,i.timeout),(d(e)||d(j))&&f.load(function(){k(),e&&e(i.origUrl,h,g),j&&j(i.origUrl,h,g),y[i.url]=2})))}function h(a,b){function c(a,c){if(a){if(e(a))c||(j=function(){var a=[].slice.call(arguments);k.apply(this,a),l()}),g(a,j,b,0,h);else if(Object(a)===a)for(n in m=function(){var b=0,c;for(c in a)a.hasOwnProperty(c)&&b++;return b}(),a)a.hasOwnProperty(n)&&(!c&&!--m&&(d(j)?j=function(){var a=[].slice.call(arguments);k.apply(this,a),l()}:j[n]=function(a){return function(){var b=[].slice.call(arguments);a&&a.apply(this,b),l()}}(k[n])),g(a[n],j,b,n,h))}else!c&&l()}var h=!!a.test,i=a.load||a.both,j=a.callback||f,k=j,l=a.complete||f,m,n;c(h?a.yep:a.nope,!!i),i&&c(i)}var i,j,l=this.yepnope.loader;if(e(a))g(a,0,l,0);else if(w(a))for(i=0;i<a.length;i++)j=a[i],e(j)?g(j,0,l,0):w(j)?B(j):Object(j)===j&&h(j,l);else Object(a)===a&&h(a,l)},B.addPrefix=function(a,b){z[a]=b},B.addFilter=function(a){x.push(a)},B.errorTimeout=1e4,null==b.readyState&&b.addEventListener&&(b.readyState=\"loading\",b.addEventListener(\"DOMContentLoaded\",A=function(){b.removeEventListener(\"DOMContentLoaded\",A,0),b.readyState=\"complete\"},0)),a.yepnope=k(),a.yepnope.executeStack=h,a.yepnope.injectJs=function(a,c,d,e,i,j){var k=b.createElement(\"script\"),l,o,e=e||B.errorTimeout;k.src=a;for(o in d)k.setAttribute(o,d[o]);c=j?h:c||f,k.onreadystatechange=k.onload=function(){!l&&g(k.readyState)&&(l=1,c(),k.onload=k.onreadystatechange=null)},m(function(){l||(l=1,c(1))},e),i?k.onload():n.parentNode.insertBefore(k,n)},a.yepnope.injectCss=function(a,c,d,e,g,i){var e=b.createElement(\"link\"),j,c=i?h:c||f;e.href=a,e.rel=\"stylesheet\",e.type=\"text/css\";for(j in d)e.setAttribute(j,d[j]);g||(n.parentNode.insertBefore(e,n),m(c,0))}}(this,document),Modernizr.load=function(){yepnope.apply(window,[].slice.call(arguments,0))};\n    5  \n\n343 matches across 35 files\n",
+			"settings":
+			{
+				"buffer_size": 98894,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 129,
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -552,58 +386,26 @@
 			}
 		},
 		{
-			"file": "contact.html",
+			"file": "_config.yml",
 			"settings":
 			{
-				"buffer_size": 1592,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_posts/2015-01-03-welcome-to-jekyll.markdown",
-			"settings":
-			{
-				"buffer_size": 1225,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_includes/footer.html",
-			"settings":
-			{
-				"buffer_size": 765,
-				"line_ending": "Windows"
+				"buffer_size": 1481,
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "_includes/header.html",
 			"settings":
 			{
-				"buffer_size": 3346,
+				"buffer_size": 3339,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/sarhov/Desktop/test/_includes/head.html",
-			"settings":
-			{
-				"buffer_size": 770,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_config.yml",
-			"settings":
-			{
-				"buffer_size": 1510,
-				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "_site/index.html",
 			"settings":
 			{
-				"buffer_size": 24673,
+				"buffer_size": 24955,
 				"line_ending": "Unix"
 			}
 		}
@@ -611,7 +413,7 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 380.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
@@ -1147,20 +949,47 @@
 	[
 		"/C/Users/sarhov/Dropbox/Projects/designwall",
 		"/C/Users/sarhov/Dropbox/Projects/designwall/_includes",
-		"/C/Users/sarhov/Dropbox/Projects/designwall/_posts"
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_layouts"
 	],
 	"file_history":
 	[
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_layouts/page.html",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/css/main.css",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/feed.xml",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/index.html",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_post.yml",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_page.yml",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_index.yml",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_layouts/post.html",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/contact.html",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_includes/header.html",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_includes/footer.html",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_posts/2015-01-03-welcome-to-jekyll.markdown",
+		"/C/Users/sarhov/Desktop/test/_includes/head.html",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_posts/2015-01-03-welcome-to-jekyll - Copy - Copy (2).markdown",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_posts/2015-01-03-welcome-to-jekyll - Copy (5) - Copy.markdown",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_posts/2015-01-03-welcome-to-jekyll - Copy (4) - Copy - Copy.markdown",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_posts/2015-01-03-welcome-to-jekyll - Copy - Copy - Copy (2).markdown",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_posts/2015-01-03-welcome-to-jekyll - Copy - Copy - Copy - Copy (2).markdown",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_posts/2015-01-03-welcome-to-jekyll - Copy - Copy - Copy - Copy - Copy.markdown",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_posts/2015-01-03-welcome-to-jekyll - Copy - Copy - Copy - Copy.markdown",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_posts/2015-01-03-welcome-to-jekyll - Copy - Copy - Copy.markdown",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_posts/2015-01-03-welcome-to-jekyll - Copy - Copy.markdown",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_posts/2015-01-03-welcome-to-jekyll - Copy.markdown",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_posts/2015-01-03-welcome-to-jekyll - Copy (4).markdown",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_posts/2015-01-03-welcome-to-jekyll - Copy (3).markdown",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_posts/2015-01-03-welcome-to-jekyll - Copy (3) - Copy.markdown",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_posts/2015-01-03-welcome-to-jekyll - Copy (3) - Copy - Copy.markdown",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_posts/2015-01-03-welcome-to-jekyll - Copy (2).markdown",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_posts/2015-01-03-welcome-to-jekyll - Copy (2) - Copy.markdown",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_posts/2015-01-03-welcome-to-jekyll - Copy (2) - Copy - Copy.markdown",
+		"/C/Users/sarhov/Dropbox/Projects/designwall/_posts/2015-01-03-welcome-to-jekyll - Copy (2) - Copy - Copy - Copy.markdown",
 		"/C/Users/sarhov/Dropbox/Projects/designwall/css/style.css",
 		"/C/Users/sarhov/Dropbox/Projects/designwall/about-us.html",
-		"/C/Users/sarhov/Dropbox/Projects/designwall/contact.html",
 		"/C/Users/sarhov/Dropbox/Projects/designwall/about.md",
 		"/C/Users/sarhov/Desktop/test/_config.yml",
-		"/C/Users/sarhov/Dropbox/Projects/designwall/css/main.css",
 		"/C/Users/sarhov/Dropbox/Projects/designwall/_config.yml",
-		"/C/Users/sarhov/Dropbox/Projects/designwall/_includes/footer.html",
 		"/C/My Web Sites/designwall/demo.designwall.com/dw-minion/index.html",
-		"/C/Users/sarhov/Dropbox/Projects/designwall/_includes/header.html",
 		"/C/Users/sarhov/Dropbox/Projects/designwall/_site/index.html",
 		"/C/My Web Sites/avenues/cdn.shopify.com/s/files/1/0607/0977/t/16/assets/jquery.products.mina4a8.js",
 		"/C/Users/sarhov/Dropbox/Projects/victoria/templates/icons.html",
@@ -1251,34 +1080,7 @@
 		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-12-04-post-example4.markdown",
 		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-12-03-post-example-2.markdown",
 		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-11-30-kseniya-sobchak-vihsla-zamuzh.markdown",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-11-29-kseniya-sobchak-vihsla-zamuzh.markdown",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-10-30-post-example.markdown",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_includes/icons.svg",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_sass/_base.scss",
-		"/C/Users/sarhov/Desktop/boilerplate.html",
-		"/C/Users/sarhov/Desktop/examples/sidebar-hero.html",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/css/main.scss",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_includes/header.html",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_includes/footer.html",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/index.html",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_includes/article.html",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-12-30-kseniya-sobchak-vihsla-zamuzh.markdown",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/about-us.html",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/contact-us.html",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/advertising.html",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/pictures.html",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/articles.html",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_layouts/post.html",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-11-29-dsdsds.markdown",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-11-29-slim-matematika.markdown",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-11-29-your-filename.html",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-11-31-hello-tutitu.markdown",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/videos.html",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/CNAME",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_site/index.html",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_includes/post-images.html",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_layouts/default.html",
-		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_sass/_layout.scss"
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-11-29-kseniya-sobchak-vihsla-zamuzh.markdown"
 	],
 	"find":
 	{
@@ -1299,6 +1101,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"id=\"",
+			"DW",
+			"powered",
 			"{{post.url}}",
 			".pager .nav-next .pager-title",
 			".pager .nav-previous .pager-title",
@@ -1423,10 +1228,7 @@
 			"button.buy",
 			"option_none",
 			" product-items",
-			"product-cols",
-			"white collection_filter",
-			"include",
-			"white collection_filter"
+			"product-cols"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -1449,7 +1251,7 @@
 	"groups":
 	[
 		{
-			"selected": 29,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -1458,15 +1260,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 967,
+						"buffer_size": 1251,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								660,
-								660
+								747,
+								747
 							]
 						],
 						"settings":
@@ -1474,36 +1276,51 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -1513,619 +1330,11 @@
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
+								"bh_regex_content"
 							],
 							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2680,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								240,
-								240
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
-							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_posts/2015-01-03-welcome-to-jekyll - Copy (2) - Copy - Copy - Copy.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1220,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								39,
-								39
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 21,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_posts/2015-01-03-welcome-to-jekyll - Copy (2) - Copy - Copy.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1237,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								56,
-								56
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 20,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "_posts/2015-01-03-welcome-to-jekyll - Copy (2) - Copy.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1234,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								53,
-								53
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 19,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "_posts/2015-01-03-welcome-to-jekyll - Copy (2).markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1228,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								26,
-								26
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 18,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "_posts/2015-01-03-welcome-to-jekyll - Copy (3) - Copy - Copy.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1237,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								32,
-								32
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 17,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "_posts/2015-01-03-welcome-to-jekyll - Copy (3) - Copy.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1224,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								38,
-								38
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 16,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "_posts/2015-01-03-welcome-to-jekyll - Copy (3).markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1231,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								32,
-								32
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "_posts/2015-01-03-welcome-to-jekyll - Copy (4) - Copy.markdown",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 1225,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "_posts/2015-01-03-welcome-to-jekyll - Copy (4).markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1225,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								44,
-								44
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "_posts/2015-01-03-welcome-to-jekyll - Copy.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1234,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								53,
-								53
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 15,
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "_posts/2015-01-03-welcome-to-jekyll - Copy - Copy.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1224,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								43,
-								43
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 14,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "_posts/2015-01-03-welcome-to-jekyll - Copy - Copy - Copy.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1229,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								48,
-								48
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 13,
-					"type": "text"
-				},
-				{
-					"buffer": 14,
-					"file": "_posts/2015-01-03-welcome-to-jekyll - Copy - Copy - Copy - Copy.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1222,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								41,
-								41
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 15,
-					"file": "_posts/2015-01-03-welcome-to-jekyll - Copy - Copy - Copy - Copy - Copy.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1224,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								43,
-								43
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 16,
-					"file": "_posts/2015-01-03-welcome-to-jekyll - Copy - Copy - Copy - Copy (2).markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1237,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								56,
-								56
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 17,
-					"file": "_posts/2015-01-03-welcome-to-jekyll - Copy - Copy - Copy (2).markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1235,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								54,
-								54
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 18,
-					"file": "_posts/2015-01-03-welcome-to-jekyll - Copy (4) - Copy - Copy.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1236,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								55,
-								55
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 19,
-					"file": "_posts/2015-01-03-welcome-to-jekyll - Copy (5) - Copy.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1233,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								44,
-								44
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -2135,68 +1344,1751 @@
 					"type": "text"
 				},
 				{
-					"buffer": 20,
-					"file": "_posts/2015-01-03-welcome-to-jekyll - Copy - Copy (2).markdown",
+					"buffer": 1,
+					"file": "_layouts/page.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1225,
+						"buffer_size": 540,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								44,
-								44
+								507,
+								507
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 21,
-					"file": "_layouts/post.html",
+					"buffer": 2,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3275,
+						"buffer_size": 98894,
 						"regions":
 						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										309,
+										311
+									],
+									[
+										433,
+										435
+									],
+									[
+										518,
+										520
+									],
+									[
+										604,
+										606
+									],
+									[
+										673,
+										675
+									],
+									[
+										829,
+										831
+									],
+									[
+										901,
+										903
+									],
+									[
+										1030,
+										1032
+									],
+									[
+										1093,
+										1095
+									],
+									[
+										1173,
+										1175
+									],
+									[
+										1258,
+										1260
+									],
+									[
+										1407,
+										1409
+									],
+									[
+										1494,
+										1496
+									],
+									[
+										1646,
+										1648
+									],
+									[
+										1717,
+										1719
+									],
+									[
+										1820,
+										1822
+									],
+									[
+										1982,
+										1984
+									],
+									[
+										2498,
+										2500
+									],
+									[
+										2523,
+										2525
+									],
+									[
+										2587,
+										2589
+									],
+									[
+										2722,
+										2724
+									],
+									[
+										2904,
+										2906
+									],
+									[
+										3334,
+										3336
+									],
+									[
+										3458,
+										3460
+									],
+									[
+										3543,
+										3545
+									],
+									[
+										3629,
+										3631
+									],
+									[
+										3698,
+										3700
+									],
+									[
+										3854,
+										3856
+									],
+									[
+										3926,
+										3928
+									],
+									[
+										4055,
+										4057
+									],
+									[
+										4118,
+										4120
+									],
+									[
+										4198,
+										4200
+									],
+									[
+										4283,
+										4285
+									],
+									[
+										4432,
+										4434
+									],
+									[
+										4519,
+										4521
+									],
+									[
+										4665,
+										4667
+									],
+									[
+										4736,
+										4738
+									],
+									[
+										4839,
+										4841
+									],
+									[
+										5001,
+										5003
+									],
+									[
+										5517,
+										5519
+									],
+									[
+										5542,
+										5544
+									],
+									[
+										5606,
+										5608
+									],
+									[
+										5741,
+										5743
+									],
+									[
+										5917,
+										5919
+									],
+									[
+										6232,
+										6236
+									],
+									[
+										6320,
+										6324
+									],
+									[
+										6541,
+										6545
+									],
+									[
+										6741,
+										6745
+									],
+									[
+										7003,
+										7007
+									],
+									[
+										7095,
+										7099
+									],
+									[
+										7241,
+										7245
+									],
+									[
+										7551,
+										7555
+									],
+									[
+										7763,
+										7767
+									],
+									[
+										7997,
+										8001
+									],
+									[
+										8266,
+										8270
+									],
+									[
+										8453,
+										8457
+									],
+									[
+										8670,
+										8674
+									],
+									[
+										8770,
+										8774
+									],
+									[
+										8883,
+										8887
+									],
+									[
+										9267,
+										9271
+									],
+									[
+										9355,
+										9359
+									],
+									[
+										9453,
+										9457
+									],
+									[
+										9869,
+										9873
+									],
+									[
+										10146,
+										10150
+									],
+									[
+										10238,
+										10242
+									],
+									[
+										10384,
+										10388
+									],
+									[
+										10637,
+										10641
+									],
+									[
+										10849,
+										10853
+									],
+									[
+										10999,
+										11003
+									],
+									[
+										11212,
+										11216
+									],
+									[
+										11385,
+										11389
+									],
+									[
+										11485,
+										11489
+									],
+									[
+										11598,
+										11602
+									],
+									[
+										11941,
+										11945
+									],
+									[
+										12066,
+										12070
+									],
+									[
+										12325,
+										12329
+									],
+									[
+										12417,
+										12421
+									],
+									[
+										12563,
+										12567
+									],
+									[
+										12816,
+										12820
+									],
+									[
+										13028,
+										13032
+									],
+									[
+										13178,
+										13182
+									],
+									[
+										13391,
+										13395
+									],
+									[
+										13564,
+										13568
+									],
+									[
+										13664,
+										13668
+									],
+									[
+										13777,
+										13781
+									],
+									[
+										14120,
+										14124
+									],
+									[
+										14245,
+										14249
+									],
+									[
+										14502,
+										14506
+									],
+									[
+										14594,
+										14598
+									],
+									[
+										14740,
+										14744
+									],
+									[
+										14993,
+										14997
+									],
+									[
+										15205,
+										15209
+									],
+									[
+										15355,
+										15359
+									],
+									[
+										15568,
+										15572
+									],
+									[
+										15706,
+										15710
+									],
+									[
+										15794,
+										15798
+									],
+									[
+										15948,
+										15952
+									],
+									[
+										16076,
+										16080
+									],
+									[
+										16201,
+										16205
+									],
+									[
+										16513,
+										16517
+									],
+									[
+										16605,
+										16609
+									],
+									[
+										16751,
+										16755
+									],
+									[
+										17004,
+										17008
+									],
+									[
+										17216,
+										17220
+									],
+									[
+										17366,
+										17370
+									],
+									[
+										17579,
+										17583
+									],
+									[
+										17717,
+										17721
+									],
+									[
+										17805,
+										17809
+									],
+									[
+										17903,
+										17907
+									],
+									[
+										18270,
+										18274
+									],
+									[
+										18432,
+										18436
+									],
+									[
+										18557,
+										18561
+									],
+									[
+										18862,
+										18866
+									],
+									[
+										18954,
+										18958
+									],
+									[
+										19100,
+										19104
+									],
+									[
+										19353,
+										19357
+									],
+									[
+										19565,
+										19569
+									],
+									[
+										19715,
+										19719
+									],
+									[
+										19928,
+										19932
+									],
+									[
+										20066,
+										20070
+									],
+									[
+										20154,
+										20158
+									],
+									[
+										20252,
+										20256
+									],
+									[
+										20619,
+										20623
+									],
+									[
+										20781,
+										20785
+									],
+									[
+										20906,
+										20910
+									],
+									[
+										21204,
+										21208
+									],
+									[
+										21296,
+										21300
+									],
+									[
+										21442,
+										21446
+									],
+									[
+										21695,
+										21699
+									],
+									[
+										21907,
+										21911
+									],
+									[
+										22057,
+										22061
+									],
+									[
+										22270,
+										22274
+									],
+									[
+										22408,
+										22412
+									],
+									[
+										22496,
+										22500
+									],
+									[
+										22594,
+										22598
+									],
+									[
+										22961,
+										22965
+									],
+									[
+										23123,
+										23127
+									],
+									[
+										23248,
+										23252
+									],
+									[
+										23539,
+										23543
+									],
+									[
+										23631,
+										23635
+									],
+									[
+										23777,
+										23781
+									],
+									[
+										24030,
+										24034
+									],
+									[
+										24242,
+										24246
+									],
+									[
+										24392,
+										24396
+									],
+									[
+										24605,
+										24609
+									],
+									[
+										24743,
+										24747
+									],
+									[
+										24831,
+										24835
+									],
+									[
+										24929,
+										24933
+									],
+									[
+										25296,
+										25300
+									],
+									[
+										25458,
+										25462
+									],
+									[
+										25583,
+										25587
+									],
+									[
+										25888,
+										25892
+									],
+									[
+										25980,
+										25984
+									],
+									[
+										26126,
+										26130
+									],
+									[
+										26379,
+										26383
+									],
+									[
+										26591,
+										26595
+									],
+									[
+										26741,
+										26745
+									],
+									[
+										26954,
+										26958
+									],
+									[
+										27092,
+										27096
+									],
+									[
+										27180,
+										27184
+									],
+									[
+										27278,
+										27282
+									],
+									[
+										27645,
+										27649
+									],
+									[
+										27807,
+										27811
+									],
+									[
+										27932,
+										27936
+									],
+									[
+										28230,
+										28234
+									],
+									[
+										28322,
+										28326
+									],
+									[
+										28468,
+										28472
+									],
+									[
+										28721,
+										28725
+									],
+									[
+										28933,
+										28937
+									],
+									[
+										29083,
+										29087
+									],
+									[
+										29296,
+										29300
+									],
+									[
+										29434,
+										29438
+									],
+									[
+										29522,
+										29526
+									],
+									[
+										29620,
+										29624
+									],
+									[
+										29987,
+										29991
+									],
+									[
+										30149,
+										30153
+									],
+									[
+										30274,
+										30278
+									],
+									[
+										30565,
+										30569
+									],
+									[
+										30657,
+										30661
+									],
+									[
+										30803,
+										30807
+									],
+									[
+										31056,
+										31060
+									],
+									[
+										31268,
+										31272
+									],
+									[
+										31418,
+										31422
+									],
+									[
+										31631,
+										31635
+									],
+									[
+										31769,
+										31773
+									],
+									[
+										31857,
+										31861
+									],
+									[
+										31955,
+										31959
+									],
+									[
+										32322,
+										32326
+									],
+									[
+										32484,
+										32488
+									],
+									[
+										32609,
+										32613
+									],
+									[
+										32914,
+										32918
+									],
+									[
+										33006,
+										33010
+									],
+									[
+										33152,
+										33156
+									],
+									[
+										33405,
+										33409
+									],
+									[
+										33617,
+										33621
+									],
+									[
+										33767,
+										33771
+									],
+									[
+										33980,
+										33984
+									],
+									[
+										34118,
+										34122
+									],
+									[
+										34206,
+										34210
+									],
+									[
+										34304,
+										34308
+									],
+									[
+										34671,
+										34675
+									],
+									[
+										34833,
+										34837
+									],
+									[
+										34958,
+										34962
+									],
+									[
+										35256,
+										35260
+									],
+									[
+										35348,
+										35352
+									],
+									[
+										35494,
+										35498
+									],
+									[
+										35747,
+										35751
+									],
+									[
+										35959,
+										35963
+									],
+									[
+										36109,
+										36113
+									],
+									[
+										36322,
+										36326
+									],
+									[
+										36460,
+										36464
+									],
+									[
+										36548,
+										36552
+									],
+									[
+										36646,
+										36650
+									],
+									[
+										37013,
+										37017
+									],
+									[
+										37175,
+										37179
+									],
+									[
+										37300,
+										37304
+									],
+									[
+										37591,
+										37595
+									],
+									[
+										37683,
+										37687
+									],
+									[
+										37829,
+										37833
+									],
+									[
+										38082,
+										38086
+									],
+									[
+										38294,
+										38298
+									],
+									[
+										38444,
+										38448
+									],
+									[
+										38657,
+										38661
+									],
+									[
+										38795,
+										38799
+									],
+									[
+										38883,
+										38887
+									],
+									[
+										38981,
+										38985
+									],
+									[
+										39348,
+										39352
+									],
+									[
+										39510,
+										39514
+									],
+									[
+										39635,
+										39639
+									],
+									[
+										39933,
+										39937
+									],
+									[
+										40025,
+										40029
+									],
+									[
+										40171,
+										40175
+									],
+									[
+										40424,
+										40428
+									],
+									[
+										40636,
+										40640
+									],
+									[
+										40786,
+										40790
+									],
+									[
+										40999,
+										41003
+									],
+									[
+										41137,
+										41141
+									],
+									[
+										41225,
+										41229
+									],
+									[
+										41323,
+										41327
+									],
+									[
+										41690,
+										41694
+									],
+									[
+										41852,
+										41856
+									],
+									[
+										41977,
+										41981
+									],
+									[
+										42275,
+										42279
+									],
+									[
+										42367,
+										42371
+									],
+									[
+										42513,
+										42517
+									],
+									[
+										42766,
+										42770
+									],
+									[
+										42978,
+										42982
+									],
+									[
+										43128,
+										43132
+									],
+									[
+										43341,
+										43345
+									],
+									[
+										43479,
+										43483
+									],
+									[
+										43567,
+										43571
+									],
+									[
+										43665,
+										43669
+									],
+									[
+										44032,
+										44036
+									],
+									[
+										44194,
+										44198
+									],
+									[
+										44319,
+										44323
+									],
+									[
+										44624,
+										44628
+									],
+									[
+										44716,
+										44720
+									],
+									[
+										44862,
+										44866
+									],
+									[
+										45115,
+										45119
+									],
+									[
+										45327,
+										45331
+									],
+									[
+										45477,
+										45481
+									],
+									[
+										45690,
+										45694
+									],
+									[
+										45828,
+										45832
+									],
+									[
+										45916,
+										45920
+									],
+									[
+										46014,
+										46018
+									],
+									[
+										46381,
+										46385
+									],
+									[
+										46543,
+										46547
+									],
+									[
+										46668,
+										46672
+									],
+									[
+										46980,
+										46984
+									],
+									[
+										47072,
+										47076
+									],
+									[
+										47218,
+										47222
+									],
+									[
+										47471,
+										47475
+									],
+									[
+										47683,
+										47687
+									],
+									[
+										47833,
+										47837
+									],
+									[
+										48046,
+										48050
+									],
+									[
+										48184,
+										48188
+									],
+									[
+										48272,
+										48276
+									],
+									[
+										48370,
+										48374
+									],
+									[
+										48737,
+										48741
+									],
+									[
+										48899,
+										48903
+									],
+									[
+										49024,
+										49028
+									],
+									[
+										49339,
+										49343
+									],
+									[
+										49431,
+										49435
+									],
+									[
+										49577,
+										49581
+									],
+									[
+										49830,
+										49834
+									],
+									[
+										50042,
+										50046
+									],
+									[
+										50192,
+										50196
+									],
+									[
+										50405,
+										50409
+									],
+									[
+										50543,
+										50547
+									],
+									[
+										50631,
+										50635
+									],
+									[
+										50729,
+										50733
+									],
+									[
+										51096,
+										51100
+									],
+									[
+										51258,
+										51262
+									],
+									[
+										51383,
+										51387
+									],
+									[
+										51691,
+										51695
+									],
+									[
+										51783,
+										51787
+									],
+									[
+										51929,
+										51933
+									],
+									[
+										52182,
+										52186
+									],
+									[
+										52394,
+										52398
+									],
+									[
+										52544,
+										52548
+									],
+									[
+										52757,
+										52761
+									],
+									[
+										52895,
+										52899
+									],
+									[
+										52983,
+										52987
+									],
+									[
+										53081,
+										53085
+									],
+									[
+										53448,
+										53452
+									],
+									[
+										53610,
+										53614
+									],
+									[
+										53735,
+										53739
+									],
+									[
+										54036,
+										54040
+									],
+									[
+										54128,
+										54132
+									],
+									[
+										54274,
+										54278
+									],
+									[
+										54527,
+										54531
+									],
+									[
+										54739,
+										54743
+									],
+									[
+										54889,
+										54893
+									],
+									[
+										55102,
+										55106
+									],
+									[
+										55240,
+										55244
+									],
+									[
+										55328,
+										55332
+									],
+									[
+										55426,
+										55430
+									],
+									[
+										55793,
+										55797
+									],
+									[
+										55955,
+										55959
+									],
+									[
+										56080,
+										56084
+									],
+									[
+										56374,
+										56378
+									],
+									[
+										56466,
+										56470
+									],
+									[
+										56612,
+										56616
+									],
+									[
+										56865,
+										56869
+									],
+									[
+										57077,
+										57081
+									],
+									[
+										57227,
+										57231
+									],
+									[
+										57440,
+										57444
+									],
+									[
+										57578,
+										57582
+									],
+									[
+										57666,
+										57670
+									],
+									[
+										57764,
+										57768
+									],
+									[
+										58131,
+										58135
+									],
+									[
+										58293,
+										58297
+									],
+									[
+										58418,
+										58422
+									],
+									[
+										58705,
+										58709
+									],
+									[
+										58797,
+										58801
+									],
+									[
+										58943,
+										58947
+									],
+									[
+										59196,
+										59200
+									],
+									[
+										59408,
+										59412
+									],
+									[
+										59558,
+										59562
+									],
+									[
+										59771,
+										59775
+									],
+									[
+										59909,
+										59913
+									],
+									[
+										59997,
+										60001
+									],
+									[
+										60095,
+										60099
+									],
+									[
+										60462,
+										60466
+									],
+									[
+										60624,
+										60628
+									],
+									[
+										60749,
+										60753
+									],
+									[
+										61029,
+										61033
+									],
+									[
+										61121,
+										61125
+									],
+									[
+										61267,
+										61271
+									],
+									[
+										61520,
+										61524
+									],
+									[
+										61732,
+										61736
+									],
+									[
+										61882,
+										61886
+									],
+									[
+										62095,
+										62099
+									],
+									[
+										62233,
+										62237
+									],
+									[
+										62321,
+										62325
+									],
+									[
+										62419,
+										62423
+									],
+									[
+										62786,
+										62790
+									],
+									[
+										62947,
+										62951
+									],
+									[
+										63072,
+										63076
+									],
+									[
+										63335,
+										63339
+									],
+									[
+										63427,
+										63431
+									],
+									[
+										63573,
+										63577
+									],
+									[
+										63826,
+										63830
+									],
+									[
+										64038,
+										64042
+									],
+									[
+										64188,
+										64192
+									],
+									[
+										64401,
+										64405
+									],
+									[
+										64574,
+										64578
+									],
+									[
+										64674,
+										64678
+									],
+									[
+										64787,
+										64791
+									],
+									[
+										65130,
+										65134
+									],
+									[
+										65255,
+										65259
+									],
+									[
+										65513,
+										65517
+									],
+									[
+										68359,
+										68363
+									],
+									[
+										81287,
+										81291
+									],
+									[
+										81379,
+										81383
+									],
+									[
+										81525,
+										81529
+									],
+									[
+										81778,
+										81782
+									],
+									[
+										81990,
+										81994
+									],
+									[
+										82140,
+										82144
+									],
+									[
+										82353,
+										82357
+									],
+									[
+										82491,
+										82495
+									],
+									[
+										82579,
+										82583
+									],
+									[
+										82733,
+										82737
+									],
+									[
+										82861,
+										82865
+									],
+									[
+										82986,
+										82990
+									],
+									[
+										83238,
+										83242
+									],
+									[
+										86078,
+										86082
+									]
+								],
+								"scope": ""
+							}
 						},
 						"selection":
 						[
 							[
-								1518,
-								1518
+								6114,
+								6114
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 2,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 273.0,
+						"translation.y": 2782.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 22,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 22,
-					"file": "feed.xml",
+					"buffer": 3,
+					"file": "css/style.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1291,
+						"buffer_size": 129,
 						"regions":
 						{
 						},
@@ -2209,73 +3101,76 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/XML/XML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 23,
-					"type": "text"
-				},
-				{
-					"buffer": 23,
-					"file": "css/main.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 144064,
-						"regions":
-						{
-						},
-						"selection":
-						[
+							"BracketHighlighterBusy": false,
+							"bh_regions":
 							[
-								113437,
-								113437
-							]
-						],
-						"settings":
-						{
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
 							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 74060.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 27,
-					"type": "text"
-				},
-				{
-					"buffer": 24,
-					"file": "_layouts/page.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 833,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								542,
-								542
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
-						},
-						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 30,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 25,
+					"buffer": 4,
 					"file": "about-us.html",
 					"semi_transient": false,
 					"settings":
@@ -2293,95 +3188,54 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 29,
-					"type": "text"
-				},
-				{
-					"buffer": 26,
-					"file": "contact.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1592,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1585,
-								1585
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 28,
-					"type": "text"
-				},
-				{
-					"buffer": 27,
-					"file": "_posts/2015-01-03-welcome-to-jekyll.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1225,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								764,
-								764
-							]
-						],
-						"settings":
-						{
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -2391,47 +3245,32 @@
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
+								"bh_regex_content"
 							],
-							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 25,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 28,
-					"file": "_includes/footer.html",
+					"buffer": 5,
+					"file": "_config.yml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 765,
+						"buffer_size": 1481,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								141,
-								141
+								1176,
+								1176
 							]
 						],
 						"settings":
@@ -2439,36 +3278,51 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -2478,49 +3332,34 @@
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
+								"bh_regex_content"
 							],
-							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"syntax": "Packages/YAML/YAML.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 273.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 31,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 29,
+					"buffer": 6,
 					"file": "_includes/header.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3346,
+						"buffer_size": 3339,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1286,
-								1286
+								1152,
+								1152
 							]
 						],
 						"settings":
@@ -2528,36 +3367,51 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -2567,24 +3421,9 @@
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
+								"bh_regex_content"
 							],
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -2596,12 +3435,12 @@
 					"type": "text"
 				},
 				{
-					"buffer": 30,
-					"file": "/C/Users/sarhov/Desktop/test/_includes/head.html",
+					"buffer": 7,
+					"file": "_site/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 770,
+						"buffer_size": 24955,
 						"regions":
 						{
 						},
@@ -2617,151 +3456,41 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
-							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 26,
-					"type": "text"
-				},
-				{
-					"buffer": 31,
-					"file": "_config.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1510,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								499,
-								499
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 24,
-					"type": "text"
-				},
-				{
-					"buffer": 32,
-					"file": "_site/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 24673,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
@@ -2772,21 +3501,16 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
+								"bh_regex_content"
 							],
 							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
 							"tab_size": 2,
@@ -2796,7 +3520,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 32,
+					"stack_index": 7,
 					"type": "text"
 				}
 			]
@@ -3220,6 +3944,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"ave",
+				"C:\\My Web Sites\\avenues\\avenues-static.sublime-project"
+			],
 			[
 				"np",
 				"C:\\Users\\sarhov\\Dropbox\\Projects\\np_groups\\np_groups.sublime-project"

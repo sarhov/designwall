@@ -13,67 +13,44 @@ logo: '/img/logo.png'
 markdown: kramdown
 paginate: 10
 
+# read more text
 more_text: 'Continue reading'
+
+# Related articles text udner the post
 rel_art_text: 'Related Articles.'
-author-name:
-  text: My Name
 
-navigation:
-  - home:
-    url: '/'
-    title: 'Home'
-  - About:
-    url: '/about-us.html'
-    title: 'About us'
-  - Contact:
-    url: '/contact.html'
-    title: 'Contact'
+# the name for posts
+author-name-text: 'My Name'
 
+#menu item text
+home-page-text: 'Home'
 
+#social icons
+social-facebook: '#'
+social-twitter: '#'
+social-google-plus: '#'
+social-youtube: '#'
+social-linkedin: '#'
 
-social_icons: true
-#the below work if the social_icons is true
-social:
- - Facebook:
-   url: 'http://facebook.com'    
-   icon_class: 'icon-facebook'
- - Twitter:
-   url: 'http://twitter.com'    
-   icon_class: 'icon-twitter'
- - GooglePlus:
-   url: 'http://google.com'    
-   icon_class: 'icon-google-plus'
- - Youtube:
-   url: 'http://youtube.com'    
-   icon_class: 'icon-youtube'
- - Linkedin:
-   url: 'http://linkedin.com'    
-   icon_class: 'icon-linkedin'
+#small ads
+small-ad1-img: '/img/add1.gif'
+small-ad1-url: '#'
+
+small-ad2-img: '/img/add1.gif'
+small-ad2-url: '#'
+
+small-ad3-img: '/img/add1.gif'
+small-ad3-url: '#'
+
+small-ad4-img: '/img/add1.gif'
+small-ad4-url: '#'
 
 
+#big ad
+big-ad-img: '/img/big_add.jpg'
+big-ad-url: '#'
 
-small-ads:
- - ad1:
-   url: '#'
-   img: '/img/add1.gif'
- - ad2:
-   url: '#'
-   img: '/img/add1.gif'
-
- - ad3:
-   url: '#'
-   img: '/img/add1.gif'
-
- - ad3:
-   url: '#'
-   img: '/img/add1.gif'
-
-
-big-ad:
-  url: '#'
-  img: '/img/big_add.jpg'
-
-footer-powered-by:
- text: 'Proudly powered by'
- url: '#'
- title: 'Design Wall'
+#footer text and link
+footer-powered-by-text: 'Proudly powered by'
+footer-powered-by-url: '#'
+footer-powered-by-title: 'Jekyll template'

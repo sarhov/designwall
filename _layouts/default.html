@@ -7,29 +7,41 @@
       {{content}}
 
       {% assign show_smallads = false %}
-      {% for img in site.small-ads %}
-      {% if img.img != '' %}
-      {% assign show_smallads =  true %}
-      {% endif %}
-      {% endfor %}
+     {% if site.site.small-ad1-img != '' or site.small-ad2-img != '' or site.small-ad3-img != '' or site.small-ad4-img != ''  %}
+         {% assign show_smallads = true  %}
+     {% endif %}
       <div id="secondary" class="widget-area" role="complementary">
         {% if show_smallads %}
         <aside class="widget widget_text">      
           <div class="textwidget">
             <ul class="ads-125">
-              {% for smallad in site.small-ads %}
-              {% if smallad.img != '' %}
-              <li><a href="{{smallad.url}}"><img alt="" src="{{site.baseurl}}{{smallad.img}}"></a></li> 
-              {% endif %}
-              {% endfor %}
+             
+           
+              {% if site.small-ad1-img != '' %}
+              <li><a href="{{site.small-ad1-url}}"><img alt="" src="{{site.baseurl}}{{site.small-ad1-img}}"></a></li>
+
+               {% endif %} 
+              {% if site.small-ad2-img != '' %}
+              <li><a href="{{site.small-ad2-url}}"><img alt="" src="{{site.baseurl}}{{site.small-ad2-img}}"></a></li>
+
+               {% endif %} 
+              {% if site.small-ad3-img != '' %}
+              <li><a href="{{site.small-ad3-url}}"><img alt="" src="{{site.baseurl}}{{site.small-ad3-img}}"></a></li>
+
+               {% endif %} 
+              {% if site.small-ad3-img != '' %}
+              <li><a href="{{site.small-ad4-url}}"><img alt="" src="{{site.baseurl}}{{site.small-ad4-img}}"></a></li>
+
+               {% endif %} 
+           
             </ul>
           </div>
         </aside> 
         {% endif %}
-        {% if site.big-ad.img != '' %}
+        {% if site.big-ad-img != '' %}
         <aside class="widget widget_text">      
           <div class="textwidget">
-            <a href="{{site.big-ad.url}}"><img src="{{site.baseurl}}{{site.big-ad.img}}" alt="" /></a>
+            <a href="{{site.big-ad-url}}"><img src="{{site.baseurl}}{{site.big-ad-img}}" alt="" /></a>
           </div>
         </aside> 
         {% endif %}
