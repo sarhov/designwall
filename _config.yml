@@ -15,6 +15,8 @@ paginate: 10
 
 more_text: 'Continue reading'
 rel_art_text: 'Related Articles.'
+author-name:
+  text: My Name
 
 navigation:
   - home:
@@ -49,33 +51,29 @@ social:
    icon_class: 'icon-linkedin'
 
 
-#small adds
-show_small_adds: true
-small_adds:
- - add1:
-   url: '#'
-   img: '/img/add1.gif'
- - add2:
-   url: '#'
-   img: '/img/add1.gif'
 
- - add3:
+small-ads:
+ - ad1:
+   url: '#'
+   img: '/img/add1.gif'
+ - ad2:
    url: '#'
    img: '/img/add1.gif'
 
- - add3:
+ - ad3:
+   url: '#'
+   img: '/img/add1.gif'
+
+ - ad3:
    url: '#'
    img: '/img/add1.gif'
 
 
-
-#Big add
-show_big_add: true
-big_add:
+big-ad:
   url: '#'
   img: '/img/big_add.jpg'
 
-powered:
+footer-powered-by:
  text: 'Proudly powered by'
  url: '#'
  title: 'Design Wall'

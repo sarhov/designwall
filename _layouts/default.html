@@ -6,30 +6,37 @@
 
       {{content}}
 
-
+      {% assign show_smallads = false %}
+      {% for img in site.small-ads %}
+      {% if img.img != '' %}
+      {% assign show_smallads =  true %}
+      {% endif %}
+      {% endfor %}
       <div id="secondary" class="widget-area" role="complementary">
-        {% if site.show_small_adds %}
+        {% if show_smallads %}
         <aside class="widget widget_text">      
-          <div class="textwidget"><ul class="ads-125">
-        
-          {% for small_add in site.small_adds %}
-              <li><a href="{{small_add.url}}"><img alt="" src="{{site.baseurl}}{{small_add.img}}"></a></li>
-          {% endfor %}
-          </ul>
-        </div>
-      </aside> 
-      {% endif %}
-      {% if site.show_big_add %}
-      <aside class="widget widget_text">      
-        <div class="textwidget">
-        <a href="{{site.big__add.url}}"><img src="{{site.baseurl}}{{site.big_add.img}}" alt="" /></a>
-        </div>
-      </aside> 
-      {% endif %}
-
-    </div>    
-    <!-- secondary  -->
+          <div class="textwidget">
+            <ul class="ads-125">
+              {% for smallad in site.small-ads %}
+              {% if smallad.img != '' %}
+              <li><a href="{{smallad.url}}"><img alt="" src="{{site.baseurl}}{{smallad.img}}"></a></li> 
+              {% endif %}
+              {% endfor %}
+            </ul>
+          </div>
+        </aside> 
+        {% endif %}
+        {% if site.big-ad.img != '' %}
+        <aside class="widget widget_text">      
+          <div class="textwidget">
+            <a href="{{site.big-ad.url}}"><img src="{{site.baseurl}}{{site.big-ad.img}}" alt="" /></a>
+          </div>
+        </aside> 
+        {% endif %}
+      </div>    
+      <!-- secondary  -->
+    </div>
   </div>
 </div>
-</div>
+
 {% include footer.html %}
